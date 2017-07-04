@@ -1,0 +1,15 @@
+V1
+Definicion inicial de patrones (cascada/auto, derivacion, colaboracion, sin tipo)
+Cortes de sin_tipo al inicio y al final
+
+V2
+Creacion patron estrella
+Restriccion de loops internos
+
+V3
+Eliminacion de patrones sin tipo
+restriccion de derivaciones a largo 4 (hibridos tambien)
+restriccion de tiempo a largo 1.5 años (hibridos tambien)
+
+V4
+Agrupaciones de patrones colaborativos en grupos continuos e interrumpidos

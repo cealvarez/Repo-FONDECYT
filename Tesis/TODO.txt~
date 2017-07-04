@@ -1,0 +1,13 @@
+Graficos para pacientes con su medida de compensacion
+
+Promedio y desviacion para # controles CV y de profesionales distintos por paciente
+Arreglar tiempo inicio y fin: agregarle mes
+
+Cambiar pre proceso nodos y relaciones: considerar relaciones por paciente
+
+Cambiar peso por 1/exp(x)
+Agregar leyenda a grafos
+
+Sacar ECG
+
+Mas adelante: Agregar filtros (centro, sector, etc)

@@ -1,0 +1,81 @@
+============================================
+preprocesamiento log de eventos pacientes DM
+============================================
+
+Total pacientes:  3369 
+Total eventos sin procesar:  941266 
+ 
+se eliminan registros sin fecha
+Registros remanentes:  941035 
+ 
+Se creo archivo "log_0.csv"
+
+============================================
+Homologacion de actividades
+============================================
+
+Registros con instrumento = "Texto" o "NULL" se homologaron a actividad = "SIN_INFORMACION", relevante = "NO" ( 322095 registros)
+
+Registros con instrumento = "Prescripcion" se homologaron a actividad = "PRESCRIPCION", relevante = "SI" ( 19391 registros)
+
+Registros con instrumento: Formulario, Orden Clinica y Procedimiento se homologaron segun archivos homologacion_T90 y homologación_OTRO  
+
+    -  306277  registros CIAP = "T90" y 634758 registros con otro CIAP
+    -  6950  descripciones diferentes homologadas en  73  actividades diferentes
+
+Se removieron 128462 registros duplicados en variables paciente-fecha_corta-ciap-medico_id-actividad
+
+Registros remanentes: 812573  
+Se creo archivo "log_1.csv"
+
+============================================
+Identificacion de redundancias
+============================================
+
+Para cada grupo de registros con igual paciente-fecha_corta-medico_id-ciap
+  - si existe al menos una actividad relevante, se marcan como redundantes todas las atividades no relevantes del grupo
+  - si no hay ninguna actividad relevante solo una del set es marcada como "UNICO_REGISTRO" y todas las demás son marcadas como "REDUNDANTE"
+
+Después del procesamiento:
+  - 84663 registros redundantes fueron eliminados
+  - 410788 registros no relevantes conservados como único registro de una interacciónr
+  - y 124339 registros relevantes
+
+Registros del log resultante: 535127 
+Se creo archivo "log_2.csv" con el log resultante
+
+============================================
+Incorporacion de informacion de derivaciones
+============================================
+
+Se agregaron 37408  como registro con ciap = "T90", actividad = "DERIVACION" y relevante = "SI"
+
+Registros del log resultante: 572535 
+Se creo archivo "log_3.csv" con el log resultante
+
+============================================
+Incorporacion de resultados HbA1C
+============================================
+
+Se incorporaron los registros de resultados HbA1C como actividades con actividad="HBA1C", ciap="T90" y marca "NO_REDUNDANTE"
+
+Total de registros HbA1C: 16372 
+
+Registros del log resultante: 588907 
+Se creo archivo "log_4.csv" con el log resultante
+
+============================================
+Ultimo filtro
+============================================
+
+se eliminaron los registros redundantes
+Se creo archivo "log_final.csv" con el log procesado
+
+Cada registro es de la forma: (ciap,id_pacienrte,fecha,centro,sector,instrumento,
+    medico_estamento,medico_id,actividad,relevante,derivado,mes)
+
+
+El log final tiene un total de 588907 eventos
+Este programa tardó 3.836936 minutos en correr
+============================================
+

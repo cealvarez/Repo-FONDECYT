@@ -1,0 +1,3 @@
+(nodo1, nodo2): (veces/paciente, frecuencia)
+('PESQUISA HTA', 'ENCARGADO DE FAMILIA'): (2,1) 
+('TRATAMIENTO PIE DIABETICO', 'EVALUACION PIE DM'): (1,1) 

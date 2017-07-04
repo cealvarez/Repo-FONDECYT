@@ -1,0 +1,2 @@
+(nodo1, nodo2): (veces/paciente, frecuencia)
+('ENCARGADO DE FAMILIA', 'VISITA DOMICILIARIA'): (1,2) 

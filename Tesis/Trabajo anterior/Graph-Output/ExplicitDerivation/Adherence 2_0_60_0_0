@@ -1,0 +1,20 @@
+digraph "Interacciones" { rankdir=TB;
+concentrate = true;
+bgcolor = "#646464";
+fontcolor = "white";
+label = "ED adherence (unico). Derivations:26993 Sample: 3258
+relation threshold = 0   time = 60   node freq = 0   relation freq = 0.001";
+labelloc = "t";
+MEDICO [label =MEDICO shape = hexagon style = "filled" fillcolor = "#6666FF" fontcolor = black]
+ENFERMERA [label =ENFERMERA shape = box style = "filled" fillcolor = "#8888FF" fontcolor = black]
+NUTRICIONISTA [label =NUTRICIONISTA shape = ellipse style = "filled" fillcolor = "#AAAAFF" fontcolor = black]
+ENFERMERA->ENFERMERA[arrowsize = 0.6557377049180328 color = "#F0A800" label = " 47.5%, 1200" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.202469813294259]
+ENFERMERA->NUTRICIONISTA[arrowsize = 0.6793478260869565 color = "#F2F000" label = " 52.8%, 836" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.324714907669512]
+NUTRICIONISTA->NUTRICIONISTA[arrowsize = 0.6261740763932373 color = "#F0A800" label = " 40.3%, 290" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.030242828964635]
+NUTRICIONISTA->ENFERMERA[arrowsize = 0.6644518272425249 color = "#F0A800" label = " 49.5%, 1144" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.2490357020177973]
+MEDICO->NUTRICIONISTA[arrowsize = 0.6631299734748011 color = "#F0A800" label = " 49.2%, 1787" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.242084947022977]
+MEDICO->MEDICO[arrowsize = 0.6793478260869565 color = "#F2F000" label = " 52.8%, 8193" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.324714907669512]
+NUTRICIONISTA->MEDICO[arrowsize = 0.7163323782234957 color = "#81E400" label = " 60.4%, 1891" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.4937954830976423]
+ENFERMERA->MEDICO[arrowsize = 0.6901311249137336 color = "#F2F000" label = " 55.1%, 5342" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.3766349074837296]
+MEDICO->ENFERMERA[arrowsize = 0.6369426751592356 color = "#F0A800" label = " 43.0%, 6310" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.0956914524112995]
+}

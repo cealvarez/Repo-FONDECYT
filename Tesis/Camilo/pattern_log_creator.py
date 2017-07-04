@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 
 reader = open("report_log_adherencia_V4.csv", "r")
-writer = open("transition_log_V4.csv", "w")
+writer = open("transition_log_V5.csv", "w")
 
 report = open("report_interruption.csv", "w")
 report.write("paciente;secuencia;nodos X;nodos O;duracion X;duracion O;Proporcion grupo\n")
@@ -132,6 +132,8 @@ for p in patient_dic:
             t = patient_dic[p][i]
             if (i == 0 or i == len(patient_dic[p]) - 1) and t[0] == "sin_tipo":
                 continue
+            if t[0] in [derivation_label, collaboration_label, star_label]:
+                t[0] = "Participativo"
             if times_matter:
                 writer.write(p + ';' + p + ';' + t[0] + t[1] + ';' + t[2]+ ';' + t[3] + '\n')
             else:

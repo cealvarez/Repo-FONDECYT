@@ -13,3 +13,6 @@ restriccion de tiempo a largo 1.5 años (hibridos tambien)
 
 V4
 Agrupaciones de patrones colaborativos en grupos continuos e interrumpidos
+
+V5
+Agrupaciones de patrones colaborativos en grupos y solitarios en el patron "Participativo"

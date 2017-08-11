@@ -1,0 +1,26 @@
+digraph "Interacciones" { rankdir=TB;
+bgcolor = "#646464";
+fontcolor = "white";
+label = "ED annual average relation per patient (Grupo2). Derivations:1338 Sample: 87
+relation threshold = 0   time = 120   node freq = 0   relation freq = 0";
+labelloc = "t";
+MEDICO [label =MEDICO shape = hexagon style = "filled" fillcolor = "#6666FF" fontcolor = black]
+ENFERMERA [label =ENFERMERA shape = box style = "filled" fillcolor = "#8888FF" fontcolor = black]
+NUTRICIONISTA [label =NUTRICIONISTA shape = ellipse style = "filled" fillcolor = "#AAAAFF" fontcolor = black]
+ENFERMERA->ENFERMERA[arrowsize = 1.2 color = "white" label = " 1.0
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.0]
+MEDICO->MEDICO[arrowsize = 1.2 color = "white" label = " 1.212
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.43605415672]
+ENFERMERA->MEDICO[arrowsize = 1.2 color = "white" label = " 1.067
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.14261516629]
+NUTRICIONISTA->MEDICO[arrowsize = 1.2 color = "white" label = " 1.333
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.66655892197]
+ENFERMERA->NUTRICIONISTA[arrowsize = 1.2 color = "white" label = " 1.0
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.0]
+MEDICO->NUTRICIONISTA[arrowsize = 1.2 color = "white" label = " 1.2
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.41251057125]
+MEDICO->ENFERMERA[arrowsize = 1.2 color = "white" label = " 1.132
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.27662231429]
+NUTRICIONISTA->ENFERMERA[arrowsize = 1.2 color = "white" label = " 1.375
+ 0.0 %" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 3.74378254033]
+}

@@ -1,0 +1,7 @@
+PMCode: scripting (F#, Python, R)
+PMApp: creación de aplicaciones que usan PMCode
+
+Instalar Visual Studio con R y con Python
+
+
+

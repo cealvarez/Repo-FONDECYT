@@ -1,2730 +1,2217 @@
 id_paciente;transicion;medicos;enfermeras;nutricionistas
-6434;Subcon. simple;1;0;1
-20741;Subcon. simple;1;1;0
-14028;Subcon. multiple;1;2;0
-8592;Delegador;2;5;0
-15223;Deleg. reasig.;5;2;1
-42325;Deleg. reasig.;6;3;2
-42166;Subcon. multiple;1;0;1
-33326;Subcon. multiple;1;1;0
-87503;Subcon. simple;1;0;1
-1597;Subcon. multiple;1;1;1
-65095;Subcon. simple;1;1;0
-9585;Deleg. reasig.;1;1;1
-116306;Subcon. coord.;3;1;0
-99121;Grupo Int3;4;3;2
-44881;Grupo Int3;5;3;2
-35896;Delegador;4;1;0
-5019;Delegador;4;7;0
-17254;Subcon. simple;0;1;1
-35733;Subcon. simple;1;1;0
-50520;Deleg. reasig.;1;3;0
-30217;Delegador;6;2;0
-56131;Subcon. coord.;3;1;0
-13325;Deleg. reasig.;4;2;0
-37482;Subcon. multiple;2;0;1
-117730;Subcon. multiple;1;1;1
-63168;Subcon. simple;1;0;1
-738;Subcon. simple;1;1;0
-42286;Delegador;3;3;1
-23719;Subcon. coord.;2;3;0
-682;Grupo Int2;3;3;1
-51637;Subcon. coord.;1;2;1
-21633;Deleg. reasig.;4;6;0
-2611;Deleg. reasig.;2;0;0
-5494;Delegador;2;2;0
-88452;Subcon. coord.;1;1;1
-51834;Delegador;8;3;2
-92070;Deleg. reasig.;9;3;1
-57794;Delegador;3;3;0
-81166;Delegador;3;0;1
-68515;Grupo2;1;1;2
-70986;Subcon. multiple;2;1;0
-71718;Grupo Int2;3;2;1
-91160;Deleg. reasig.;3;3;0
-68548;Subcon. multiple;2;1;0
-65628;Delegador;6;0;0
-23910;Deleg. reasig.;5;2;2
-75549;Delegador;6;4;0
-97801;Subcon. coord.;1;4;3
-6414;Grupo2;1;1;2
-117962;Subcon. multiple;2;0;1
-37424;Grupo Int2;3;1;1
-9535;Subcon. simple;1;1;0
-19186;Grupo Int2;7;3;2
-83863;Subcon. simple;1;1;0
-51179;Subcon. coord.;2;2;1
-35198;Subcon. multiple;2;1;0
-71966;Deleg. reasig.;6;2;2
-41359;Subcon. multiple;2;1;1
-28874;Subcon. simple;1;1;0
-4174;Deleg. reasig.;4;6;0
-7859;Deleg. reasig.;6;2;1
-68751;Subcon. coord.;1;1;1
-14498;Deleg. reasig.;4;3;0
-75708;Grupo Int3;7;1;2
-4473;Delegador;2;3;0
-31615;Delegador;3;3;0
-48301;Deleg. reasig.;6;2;1
-109416;Deleg. reasig.;6;1;1
-95064;Deleg. reasig.;7;2;1
-59459;Grupo Int2;6;2;2
-70967;Grupo2;0;2;2
-11993;Delegador;4;2;0
-58230;Subcon. multiple;2;1;0
-48667;Subcon. simple;2;0;0
-28076;Deleg. reasig.;1;2;2
-93459;Deleg. reasig.;6;2;2
-637;Delegador;3;2;1
-10575;Deleg. reasig.;6;2;0
-104983;Subcon. multiple;2;1;0
-40814;Deleg. reasig.;7;1;1
-71999;Subcon. coord.;3;2;1
-3980;Deleg. reasig.;4;2;0
-88232;Subcon. coord.;4;1;1
-29490;Delegador;2;2;0
-10379;Subcon. multiple;1;1;1
-5998;Subcon. simple;1;1;0
-94344;Delegador;2;2;0
-97019;Delegador;2;2;0
-77940;Delegador;3;1;0
-20174;Deleg. reasig.;3;1;1
-4498;Subcon. simple;1;1;0
-100618;Grupo Int2;5;1;1
-112529;Deleg. reasig.;3;3;0
-59656;Deleg. reasig.;2;0;1
-12988;Grupo2;1;2;1
-7654;Subcon. coord.;1;3;0
-60179;Deleg. reasig.;2;4;1
-89816;Subcon. simple;0;2;0
-9508;Subcon. simple;3;1;1
-7224;Subcon. simple;2;0;0
-104358;Subcon. coord.;1;2;0
-88468;Subcon. simple;3;2;1
-41473;Delegador;0;4;0
-36453;Subcon. multiple;1;1;1
-56168;Subcon. simple;0;1;1
-91224;Delegador;3;1;0
-4297;Deleg. reasig.;2;3;0
-33491;Subcon. multiple;2;0;1
-95478;Delegador;3;5;0
-54083;Subcon. simple;1;1;0
-15757;Delegador;3;1;0
-124604;Subcon. simple;1;1;0
-54891;Delegador;6;2;2
-3597;Deleg. reasig.;3;2;0
-44031;Subcon. coord.;1;4;0
-13639;Deleg. reasig.;3;2;0
-34121;Delegador;5;1;0
-45214;Subcon. simple;1;1;0
-96355;Delegador;3;3;0
-47008;Subcon. coord.;2;0;1
-53516;Subcon. simple;1;1;0
-54597;Subcon. simple;1;1;0
-20733;Subcon. simple;1;1;0
-58082;Subcon. simple;2;1;0
-728;Deleg. reasig.;3;6;0
-76397;Subcon. multiple;1;1;1
-13579;Delegador;2;2;0
-27461;Deleg. reasig.;6;0;1
-1979;Subcon. simple;1;0;1
-70410;Subcon. coord.;2;1;0
-16711;Deleg. reasig.;3;3;0
-102686;Delegador;2;2;0
-8616;Delegador;3;1;1
-94492;Subcon. multiple;2;1;0
-10458;Deleg. reasig.;5;3;0
-83246;Delegador;2;2;0
-2251;Deleg. reasig.;2;1;0
-32014;Subcon. simple;2;0;0
-67036;Grupo2;3;2;1
-11501;Deleg. reasig.;6;3;0
-5870;Deleg. reasig.;1;2;0
-25662;Deleg. reasig.;3;2;1
-5164;Delegador;5;2;0
-30156;Subcon. simple;1;1;0
-113984;Subcon. coord.;1;1;1
-100655;Subcon. coord.;2;1;0
-43981;Delegador;6;2;1
-42392;Subcon. multiple;1;2;0
-57710;Subcon. multiple;1;2;1
-44177;Subcon. simple;2;0;0
-51667;Subcon. simple;1;1;0
-110064;Subcon. multiple;3;1;0
-80406;Deleg. reasig.;6;3;0
-114764;Grupo Int3;6;2;1
-89461;Deleg. reasig.;3;2;0
-29372;Deleg. reasig.;4;0;0
-61489;Deleg. reasig.;7;1;1
-5146;Delegador;5;4;0
-55683;Subcon. simple;1;0;1
-36961;Grupo2;2;2;0
-81997;Subcon. coord.;2;3;0
-115105;Subcon. coord.;2;3;2
-117984;Delegador;7;2;1
-83907;Grupo2;3;3;0
-1839;Subcon. multiple;1;1;1
-87639;Delegador;2;2;0
-71517;Subcon. simple;2;0;0
-60507;Subcon. simple;1;2;0
-34217;Deleg. reasig.;7;3;2
-33843;Deleg. reasig.;4;3;1
-44372;Grupo Int3;4;4;1
-72061;Grupo Int2;6;2;1
-94416;Grupo Int2;5;1;1
-55995;Subcon. coord.;2;2;0
-10195;Subcon. simple;1;0;1
-47164;Subcon. coord.;2;2;1
-37116;Grupo Int2;2;4;1
-95962;Subcon. simple;1;1;0
-54783;Grupo2;3;3;1
-51090;Subcon. simple;2;0;0
-79105;Subcon. coord.;2;2;1
-57529;Subcon. simple;1;0;1
-24869;Deleg. reasig.;4;4;0
-114620;Subcon. multiple;1;1;1
-3127;Subcon. simple;1;1;0
-58548;Deleg. reasig.;7;2;0
-76036;Grupo Int3;2;4;1
-39669;Subcon. simple;1;1;0
-83801;Grupo Int3;9;3;2
-22152;Grupo Int2;4;3;1
-28077;Grupo Int4;6;5;1
-71167;Subcon. coord.;1;1;1
-24163;Subcon. simple;1;1;0
-68697;Deleg. reasig.;1;1;1
-33250;Subcon. simple;2;0;0
-115047;Deleg. reasig.;3;1;2
-112739;Deleg. reasig.;3;2;0
-115464;Deleg. reasig.;9;2;1
-70613;Delegador;9;2;1
-44152;Subcon. coord.;2;1;0
-17191;Subcon. multiple;0;1;1
-102626;Subcon. coord.;1;2;1
-97636;Subcon. simple;1;1;0
-104431;Subcon. simple;0;2;0
-117957;Subcon. simple;2;0;0
-55567;Deleg. reasig.;8;5;0
-12897;Subcon. simple;1;1;0
-36989;Grupo Int4;6;4;0
-2977;Subcon. simple;1;1;0
-71754;Delegador;4;2;2
-48097;Subcon. simple;1;1;1
-51923;Subcon. simple;2;2;1
-10791;Deleg. reasig.;1;4;0
-12448;Subcon. simple;1;1;0
-58549;Subcon. simple;2;1;1
-62308;Grupo Int2;4;1;0
-73843;Delegador;5;3;0
-82250;Grupo Int2;3;3;1
-49068;Delegador;2;1;1
-103662;Subcon. simple;1;1;0
-99494;Subcon. simple;1;1;0
-14012;Deleg. reasig.;5;2;1
-103163;Deleg. reasig.;2;1;0
-96155;Subcon. simple;1;1;0
-43115;Grupo2;6;4;1
-42782;Delegador;4;1;1
-13494;Delegador;2;2;0
-2335;Subcon. simple;0;2;0
-32106;Subcon. multiple;2;1;0
-12290;Subcon. multiple;1;0;1
-108869;Grupo2;2;2;0
-24514;Grupo Int2;2;3;0
-84561;Subcon. multiple;1;2;0
-116557;Grupo Int2;2;3;2
-10609;Deleg. reasig.;2;4;0
-33029;Delegador;3;1;0
-79940;Delegador;4;1;1
-24725;Deleg. reasig.;4;3;0
-15350;Deleg. reasig.;2;1;0
-67031;Delegador;1;3;0
-88439;Subcon. coord.;1;4;0
-94293;Subcon. simple;1;0;1
-103223;Subcon. simple;1;1;0
-11047;Delegador;7;4;0
-35283;Grupo Int3;6;2;1
-42746;Subcon. multiple;4;0;0
-85009;Deleg. reasig.;11;3;0
-107855;Subcon. multiple;3;1;0
-83642;Subcon. simple;1;1;0
-81888;Subcon. simple;4;2;1
-108362;Subcon. multiple;4;0;0
-118643;Deleg. reasig.;4;0;1
-82248;Subcon. multiple;2;0;1
-70481;Subcon. multiple;1;1;0
-94198;Deleg. reasig.;3;5;0
-18376;Subcon. multiple;1;1;0
-34714;Deleg. reasig.;5;1;0
-107260;Delegador;4;1;0
-91740;Delegador;3;1;0
-117158;Subcon. coord.;2;2;1
-103057;Subcon. simple;1;1;0
-3409;Delegador;3;5;1
-24527;Subcon. coord.;3;2;0
-62353;Subcon. coord.;3;2;1
-16610;Subcon. coord.;2;2;1
-83486;Deleg. reasig.;1;1;0
-119353;Delegador;3;1;0
-21506;Deleg. reasig.;2;5;0
-70218;Subcon. simple;1;1;0
-102790;Subcon. coord.;1;1;1
-93546;Subcon. multiple;1;0;1
-115442;Grupo2;1;1;2
-839;Delegador;2;2;0
-35459;Delegador;4;3;0
-81437;Grupo Int3;5;1;1
-97034;Deleg. reasig.;1;2;0
-46374;Subcon. simple;3;1;0
-20467;Subcon. simple;1;1;1
-19928;Deleg. reasig.;4;3;0
-116671;Subcon. multiple;0;2;0
-1480;Subcon. simple;1;0;1
-92012;Subcon. multiple;1;1;1
-89299;Delegador;4;0;1
-26238;Subcon. simple;1;1;0
-29510;Grupo Int2;6;5;0
-112177;Subcon. simple;0;1;1
-18441;Subcon. multiple;2;1;0
-57485;Subcon. coord.;1;1;1
-66471;Delegador;1;2;1
-21930;Deleg. reasig.;1;1;1
-78626;Grupo Int2;8;2;1
-29596;Subcon. multiple;2;1;1
-62220;Subcon. coord.;2;0;1
-87281;Subcon. multiple;1;0;2
-80600;Subcon. simple;2;0;0
-32332;Subcon. multiple;2;0;0
-66409;Subcon. simple;1;1;1
-29394;Subcon. simple;1;1;0
-71116;Delegador;4;3;1
-115384;Subcon. simple;2;0;0
-68979;Subcon. simple;1;1;0
-30081;Deleg. reasig.;5;3;2
-83869;Deleg. reasig.;1;4;0
-56347;Subcon. multiple;1;1;0
-106035;Delegador;5;1;0
-48868;Subcon. multiple;1;1;1
-29261;Subcon. coord.;4;1;0
-92419;Subcon. multiple;2;0;0
-2414;Deleg. reasig.;3;1;0
-70411;Subcon. multiple;2;2;0
-44600;Delegador;9;4;1
-33131;Deleg. reasig.;8;4;2
-88122;Subcon. simple;2;1;0
-62352;Subcon. coord.;7;4;0
-59136;Deleg. reasig.;6;3;0
-94399;Subcon. simple;2;0;0
-31504;Deleg. reasig.;6;2;2
-58141;Subcon. simple;2;0;0
-7358;Delegador;7;5;1
-59603;Delegador;3;2;0
-56034;Deleg. reasig.;7;1;1
-113230;Deleg. reasig.;6;2;1
-1687;Subcon. simple;1;0;1
-123715;Subcon. multiple;3;1;0
-24807;Deleg. reasig.;2;4;1
-65449;Delegador;2;2;0
-25111;Grupo Int2;4;3;2
-44415;Delegador;3;1;0
-125637;Delegador;4;0;0
-3370;Grupo Int2;2;2;1
-124175;Deleg. reasig.;3;1;1
-51350;Deleg. reasig.;7;2;0
-25061;Subcon. coord.;1;1;1
-5604;Deleg. reasig.;4;2;0
-62559;Subcon. multiple;1;0;1
-25149;Delegador;4;3;0
-84785;Delegador;3;1;1
-47069;Subcon. multiple;2;1;1
-67399;Deleg. reasig.;2;3;0
-8718;Grupo Int4;5;3;2
-57799;Deleg. reasig.;9;1;1
-28806;Delegador;4;4;2
-40652;Subcon. multiple;2;1;0
-10858;Delegador;2;4;0
-84573;Deleg. reasig.;5;5;0
-52651;Subcon. coord.;1;2;1
-33143;Deleg. reasig.;5;2;0
-59363;Subcon. multiple;0;2;0
-8261;Deleg. reasig.;4;2;1
-47570;Grupo Int2;5;4;1
-30981;Subcon. coord.;5;2;1
-13879;Delegador;4;2;0
-55503;Delegador;6;3;0
-3953;Deleg. reasig.;1;3;1
-109233;Subcon. simple;1;1;0
-75687;Subcon. coord.;0;3;0
-66143;Subcon. simple;2;0;0
-25963;Subcon. simple;1;0;1
-57298;Subcon. multiple;0;3;1
-32028;Delegador;1;1;2
-15577;Deleg. reasig.;5;2;1
-28300;Deleg. reasig.;9;3;1
-29194;Grupo Int2;2;2;0
-34659;Deleg. reasig.;8;1;0
-34955;Subcon. multiple;1;2;0
-15712;Subcon. simple;1;0;1
-35266;Grupo Int2;3;3;0
-35106;Subcon. coord.;2;0;1
-102746;Grupo Int2;5;2;2
-77489;Deleg. reasig.;5;1;2
-15034;Subcon. simple;1;1;0
-64054;Subcon. coord.;2;1;1
-116510;Deleg. reasig.;4;0;1
-1027;Delegador;3;1;1
-33514;Deleg. reasig.;8;2;1
-64380;Subcon. multiple;2;1;0
-44875;Grupo Int2;1;3;1
-29546;Deleg. reasig.;3;2;2
-36459;Subcon. multiple;1;1;1
-9594;Subcon. simple;0;2;0
-28387;Subcon. simple;1;1;0
-16760;Subcon. multiple;3;1;0
-46294;Subcon. simple;1;1;0
-11453;Deleg. reasig.;4;1;1
-27850;Delegador;5;3;1
-21178;Grupo Int2;3;1;1
-85352;Subcon. simple;1;1;0
-6302;Grupo Int2;3;2;1
-104711;Subcon. simple;1;1;0
-90038;Subcon. simple;1;1;0
-78030;Subcon. multiple;2;1;0
-58029;Grupo2;7;2;0
-50278;Deleg. reasig.;3;1;0
-59023;Subcon. multiple;2;1;0
-39207;Subcon. multiple;1;1;1
-111466;Subcon. simple;2;0;0
-104240;Subcon. simple;1;1;0
-6225;Deleg. reasig.;6;3;0
-33378;Subcon. coord.;1;2;1
-112026;Grupo Int2;3;1;2
-55892;Grupo Int2;3;2;2
-9259;Delegador;5;2;1
-100003;Subcon. simple;1;1;0
-54030;Deleg. reasig.;3;2;2
-64140;Subcon. multiple;1;3;0
-12956;Subcon. simple;1;1;0
-7796;Subcon. multiple;1;1;1
-91762;Subcon. simple;1;1;0
-35998;Delegador;4;0;0
-76522;Subcon. multiple;2;1;0
-43306;Grupo Int3;7;2;1
-99904;Deleg. reasig.;6;2;0
-47524;Subcon. coord.;6;1;1
-34821;Subcon. simple;1;1;0
-92446;Deleg. reasig.;5;2;1
-113261;Subcon. simple;2;0;0
-80212;Delegador;3;1;0
-58938;Subcon. multiple;2;1;0
-88132;Delegador;3;3;0
-45532;Subcon. simple;1;1;0
-66043;Subcon. coord.;3;1;1
-44432;Subcon. coord.;3;1;1
-76630;Grupo2;2;2;1
-36386;Delegador;4;1;1
-86743;Subcon. coord.;2;2;1
-38773;Delegador;3;2;1
-38468;Deleg. reasig.;5;2;1
-40913;Delegador;2;4;0
-115168;Delegador;4;0;1
-53121;Deleg. reasig.;5;3;2
-37412;Delegador;4;5;0
-113174;Deleg. reasig.;2;0;1
-16524;Subcon. coord.;3;2;0
-46410;Subcon. multiple;2;0;1
-29026;Deleg. reasig.;5;4;1
-43324;Delegador;4;2;1
-46960;Subcon. simple;1;0;1
-57763;Subcon. coord.;2;1;0
-6121;Subcon. multiple;1;2;0
-27694;Grupo Int2;6;3;1
-86479;Subcon. multiple;1;2;0
-85394;Grupo2;4;1;1
-42640;Subcon. multiple;3;0;0
-66688;Deleg. reasig.;5;2;2
-586;Deleg. reasig.;4;2;0
-41165;Deleg. reasig.;6;1;0
-36054;Deleg. reasig.;4;1;0
-6678;Grupo Int2;3;2;1
-4200;Deleg. reasig.;6;3;0
-6879;Subcon. simple;0;2;0
-39761;Grupo3;6;4;1
-86430;Delegador;5;4;2
-93264;Deleg. reasig.;6;4;3
-112437;Deleg. reasig.;4;1;0
-105122;Subcon. simple;1;1;0
-16879;Delegador;4;2;0
-48346;Subcon. multiple;1;1;1
-114704;Deleg. reasig.;2;3;0
-36451;Subcon. simple;2;1;1
-4548;Delegador;3;3;1
-1686;Delegador;4;4;0
-83115;Deleg. reasig.;2;2;0
-96095;Subcon. coord.;3;0;1
-67534;Deleg. reasig.;3;0;0
-9655;Subcon. coord.;1;3;0
-32883;Delegador;4;3;0
-32139;Subcon. multiple;2;2;0
-61330;Subcon. coord.;1;2;0
-51527;Deleg. reasig.;5;3;3
-111855;Subcon. multiple;1;2;0
-40451;Delegador;2;3;0
-3060;Delegador;3;2;0
-251;Subcon. simple;1;1;0
-13174;Deleg. reasig.;5;3;0
-96889;Subcon. multiple;1;1;1
-3299;Delegador;2;3;0
-10521;Deleg. reasig.;5;2;0
-15427;Subcon. simple;2;0;0
-36731;Grupo Int4;5;5;1
-71759;Grupo Int2;5;3;1
-21756;Subcon. simple;2;0;0
-110022;Delegador;4;0;0
-83963;Delegador;3;2;0
-96615;Deleg. reasig.;9;2;0
-123281;Deleg. reasig.;3;0;2
-26683;Delegador;1;2;1
-12205;Deleg. reasig.;1;1;1
-62509;Delegador;4;1;2
-82938;Subcon. multiple;1;2;0
-31771;Subcon. simple;2;0;0
-114280;Grupo2;5;1;0
-33993;Subcon. simple;1;0;1
-91380;Subcon. multiple;1;1;1
-25731;Grupo Int2;3;2;1
-97419;Delegador;2;3;0
-60140;Deleg. reasig.;2;0;1
-21397;Grupo2;1;2;1
-103587;Grupo Int2;6;3;2
-53562;Subcon. multiple;2;1;0
-671;Deleg. reasig.;4;2;1
-67484;Subcon. multiple;1;2;0
-118718;Deleg. reasig.;4;1;0
-3110;Subcon. multiple;3;1;0
-97415;Subcon. multiple;1;2;0
-43596;Delegador;3;2;1
-102510;Delegador;6;1;1
-115414;Subcon. simple;1;1;0
-22145;Grupo Int2;5;3;0
-38671;Subcon. simple;1;2;1
-3971;Delegador;2;3;1
-28734;Delegador;4;3;0
-43084;Subcon. coord.;1;1;1
-68937;Deleg. reasig.;2;2;1
-35937;Grupo2;4;1;1
-102467;Deleg. reasig.;1;3;1
-53316;Subcon. simple;1;1;0
-6714;Delegador;2;4;0
-21970;Subcon. simple;1;1;0
-12852;Delegador;2;6;0
-17458;Grupo Int3;4;3;2
-113347;Grupo2;3;1;1
-31803;Deleg. reasig.;2;2;0
-77898;Delegador;6;3;0
-102773;Subcon. simple;1;1;0
-50280;Delegador;6;2;0
-58305;Subcon. simple;1;2;0
-63918;Subcon. simple;0;2;0
-109679;Subcon. coord.;2;0;1
-62424;Subcon. simple;1;1;0
-52158;Subcon. coord.;4;0;0
-45336;Subcon. simple;0;1;1
-28279;Deleg. reasig.;6;1;0
-39795;Delegador;3;2;1
-66607;Subcon. coord.;2;2;1
-114013;Grupo2;5;1;0
-83920;Delegador;5;3;0
-60909;Subcon. simple;1;1;0
-64377;Deleg. reasig.;1;4;0
-36431;Delegador;4;1;0
-97400;Grupo Int3;4;4;0
-28672;Delegador;2;2;0
-73518;Deleg. reasig.;3;2;0
-57224;Grupo3;5;3;1
-127062;Delegador;3;1;0
-94226;Grupo Int3;4;5;0
-90419;Subcon. coord.;3;2;1
-5110;Grupo4;6;5;1
-71108;Delegador;6;2;1
-76876;Delegador;2;1;2
-112666;Subcon. multiple;2;1;0
-4740;Grupo3;2;2;3
-72479;Deleg. reasig.;3;2;0
-5093;Subcon. simple;1;1;0
-35638;Subcon. simple;3;1;0
-61753;Deleg. reasig.;1;2;1
-84144;Subcon. multiple;1;3;0
-31838;Subcon. multiple;2;1;0
-9402;Subcon. simple;1;1;0
-75534;Delegador;1;2;1
-42074;Subcon. coord.;1;2;0
-66816;Subcon. simple;1;1;0
-113083;Subcon. simple;1;0;1
-80273;Subcon. simple;1;2;0
-68852;Delegador;5;1;1
-90066;Deleg. reasig.;0;4;0
-74684;Deleg. reasig.;9;3;0
-82526;Subcon. multiple;1;1;0
-24249;Subcon. coord.;5;2;2
-30529;Subcon. simple;0;1;1
-29575;Subcon. simple;1;0;1
-81708;Subcon. simple;1;1;0
-56699;Grupo2;2;3;0
-57258;Deleg. reasig.;3;2;1
-22907;Deleg. reasig.;4;2;0
-92682;Delegador;2;1;1
-7283;Subcon. coord.;4;2;1
-38013;Subcon. simple;2;0;0
-86918;Grupo Int2;4;4;1
-2603;Subcon. multiple;2;1;1
-53967;Delegador;3;1;1
-41372;Grupo2;3;2;0
-21417;Subcon. multiple;1;1;1
-63366;Deleg. reasig.;4;2;0
-5660;Subcon. coord.;2;3;1
-70102;Grupo Int2;3;2;2
-27581;Grupo Int2;1;3;1
-89059;Deleg. reasig.;1;2;0
-77185;Subcon. coord.;1;2;2
-28035;Deleg. reasig.;1;1;1
-108142;Delegador;7;3;3
-90090;Subcon. simple;1;0;1
-102888;Deleg. reasig.;6;3;0
-113416;Grupo Int3;11;3;2
-81462;Subcon. coord.;1;1;1
-23569;Deleg. reasig.;6;3;0
-19673;Deleg. reasig.;3;1;0
-46206;Deleg. reasig.;6;3;2
-21501;Delegador;4;1;0
-50965;Subcon. coord.;2;1;1
-70648;Subcon. multiple;1;1;0
-72229;Subcon. simple;1;1;0
-87030;Subcon. simple;1;1;0
-64888;Grupo2;3;1;1
-115297;Subcon. multiple;2;0;1
-38927;Subcon. simple;2;0;0
-69527;Deleg. reasig.;8;4;1
-73076;Grupo Int3;5;6;1
-47992;Grupo Int2;2;2;1
-92362;Subcon. simple;1;1;0
-33669;Subcon. simple;2;0;0
-4438;Subcon. simple;1;0;1
-84782;Subcon. simple;1;1;0
-72899;Subcon. simple;0;1;1
-59328;Subcon. multiple;2;1;1
-43014;Deleg. reasig.;4;3;1
-42319;Delegador;3;1;1
-123301;Subcon. simple;1;1;0
-17146;Subcon. simple;1;1;0
-64886;Subcon. multiple;1;1;0
-2614;Subcon. coord.;1;1;2
-12066;Subcon. simple;1;1;0
-32295;Subcon. multiple;1;1;1
-28459;Subcon. multiple;3;0;0
-50377;Subcon. multiple;1;2;1
-118769;Subcon. multiple;2;1;0
-102463;Deleg. reasig.;5;4;0
-6364;Subcon. multiple;1;1;1
-12045;Deleg. reasig.;3;3;1
-90965;Deleg. reasig.;0;3;1
-23791;Deleg. reasig.;3;2;0
-52988;Subcon. simple;1;1;0
-92198;Deleg. reasig.;3;3;1
-29352;Grupo Int3;10;4;1
-119768;Delegador;3;0;1
-87205;Delegador;10;4;0
-30077;Subcon. multiple;2;2;0
-40644;Subcon. coord.;2;0;1
-104460;Deleg. reasig.;6;4;3
-35098;Deleg. reasig.;2;0;1
-27978;Deleg. reasig.;3;1;1
-115663;Subcon. simple;2;0;0
-36605;Delegador;5;3;0
-25340;Subcon. simple;1;1;0
-50122;Delegador;1;2;1
-24549;Deleg. reasig.;5;2;0
-28414;Deleg. reasig.;7;4;0
-6755;Delegador;4;1;1
-1225;Subcon. simple;1;0;1
-70531;Deleg. reasig.;3;3;0
-82554;Delegador;2;1;2
-68836;Deleg. reasig.;1;5;0
-58798;Subcon. coord.;2;2;1
-116425;Subcon. simple;1;0;1
-27047;Deleg. reasig.;1;4;0
-28856;Delegador;6;1;0
-56067;Delegador;2;1;1
-81620;Grupo Int2;8;1;0
-33946;Subcon. simple;0;1;1
-54028;Subcon. simple;2;0;0
-94490;Subcon. simple;2;0;0
-42429;Subcon. simple;1;0;1
-56084;Grupo Int2;5;4;0
-41187;Delegador;2;3;1
-112677;Deleg. reasig.;4;1;0
-88852;Deleg. reasig.;3;2;0
-52992;Subcon. simple;1;0;1
-10917;Subcon. simple;1;1;0
-54405;Grupo2;1;2;1
-34656;Subcon. simple;1;0;1
-34382;Delegador;5;2;0
-28256;Delegador;8;6;1
-44071;Subcon. multiple;1;1;1
-89256;Subcon. simple;1;0;1
-104943;Delegador;4;2;0
-48150;Delegador;7;2;1
-53734;Grupo Int2;3;5;1
-121488;Subcon. multiple;2;1;0
-82427;Grupo2;2;1;1
-42237;Subcon. simple;1;1;0
-73781;Subcon. simple;1;1;0
-51793;Subcon. multiple;1;1;1
-57797;Subcon. multiple;1;2;0
-34449;Subcon. simple;1;1;0
-2521;Deleg. reasig.;4;3;1
-1563;Subcon. simple;1;1;0
-98758;Delegador;2;1;1
-43216;Subcon. simple;0;2;0
-57711;Delegador;7;2;1
-98631;Subcon. coord.;1;2;1
-65561;Delegador;2;4;0
-119083;Deleg. reasig.;1;1;1
-87448;Subcon. simple;1;1;0
-56260;Deleg. reasig.;4;5;1
-5318;Deleg. reasig.;3;2;1
-102763;Subcon. simple;1;1;0
-90073;Subcon. coord.;1;2;0
-101312;Deleg. reasig.;5;1;1
-36745;Subcon. simple;2;0;0
-6057;Grupo3;3;4;1
-19976;Deleg. reasig.;3;2;0
-20880;Subcon. multiple;1;2;0
-31482;Subcon. multiple;4;0;0
-113661;Subcon. multiple;1;0;1
-103281;Subcon. multiple;1;2;0
-79419;Subcon. coord.;4;2;0
-62810;Subcon. simple;0;2;0
-5992;Deleg. reasig.;2;2;2
-26173;Deleg. reasig.;3;3;0
-87361;Deleg. reasig.;2;1;0
-44624;Subcon. multiple;1;1;1
-7290;Subcon. multiple;1;1;0
-34127;Grupo Int2;6;1;1
-73391;Subcon. coord.;3;1;0
-68807;Deleg. reasig.;7;2;1
-10724;Deleg. reasig.;7;1;2
-71505;Subcon. simple;0;1;1
-33792;Deleg. reasig.;6;4;0
-29356;Subcon. coord.;3;2;1
-1922;Deleg. reasig.;3;1;0
-69256;Deleg. reasig.;1;1;1
-39304;Delegador;4;2;0
-90709;Grupo Int2;5;5;1
-25557;Delegador;4;4;0
-36965;Subcon. multiple;1;1;1
-13243;Subcon. simple;1;1;0
-11162;Delegador;3;6;0
-4439;Delegador;5;1;1
-23865;Subcon. multiple;1;1;1
-92274;Subcon. coord.;2;1;0
-78248;Delegador;3;5;0
-86750;Delegador;2;1;1
-10358;Deleg. reasig.;4;4;0
-42275;Deleg. reasig.;3;3;1
-110328;Subcon. simple;3;2;0
-56640;Delegador;1;2;1
-28689;Delegador;3;0;1
-1286;Grupo Int2;6;4;0
-59881;Subcon. simple;1;0;1
-83342;Deleg. reasig.;3;3;2
-22009;Subcon. simple;1;0;1
-27587;Subcon. simple;0;2;0
-34867;Subcon. multiple;0;2;1
-57617;Delegador;2;2;1
-35838;Deleg. reasig.;4;2;1
-72659;Subcon. simple;2;0;1
-12989;Delegador;1;2;1
-82915;Subcon. simple;0;2;0
-24491;Deleg. reasig.;2;2;1
-85753;Deleg. reasig.;4;4;1
-34173;Subcon. coord.;7;2;0
-34667;Subcon. multiple;1;1;0
-33110;Delegador;4;3;0
-62133;Grupo Int2;6;2;2
-96462;Subcon. simple;1;1;0
-94169;Delegador;3;1;0
-22908;Delegador;2;1;1
-25741;Delegador;2;2;0
-29541;Subcon. coord.;3;1;1
-37248;Delegador;8;1;0
-92692;Deleg. reasig.;4;1;1
-37019;Subcon. coord.;2;1;1
-33177;Delegador;6;2;1
-28849;Subcon. multiple;2;1;0
-123962;Subcon. simple;1;1;0
-68466;Delegador;5;1;2
-32047;Subcon. multiple;3;1;0
-85952;Delegador;4;4;0
-26041;Deleg. reasig.;3;3;1
-61036;Subcon. coord.;2;2;1
-47417;Grupo Int3;5;2;2
-89730;Grupo Int2;5;2;1
-30153;Grupo2;2;2;0
-33672;Deleg. reasig.;8;4;1
-56897;Subcon. multiple;1;2;1
-13247;Deleg. reasig.;1;1;1
-13082;Delegador;6;3;1
-30009;Subcon. coord.;1;3;1
-44597;Delegador;7;3;1
-88997;Subcon. simple;1;0;1
-3343;Subcon. simple;1;1;0
-111898;Subcon. coord.;3;1;1
-107552;Subcon. multiple;2;1;0
-9657;Subcon. multiple;1;2;0
-55551;Subcon. simple;1;1;0
-66483;Delegador;3;2;1
-44599;Deleg. reasig.;10;4;1
-48351;Delegador;2;4;0
-91434;Subcon. simple;1;1;0
-50638;Grupo Int3;4;1;1
-37281;Delegador;5;1;0
-30551;Grupo3;5;1;1
-1228;Deleg. reasig.;1;2;0
-39332;Subcon. simple;2;1;1
-43007;Delegador;1;1;2
-28756;Delegador;5;0;0
-92998;Deleg. reasig.;1;1;1
-117675;Delegador;2;2;1
-70689;Deleg. reasig.;6;7;2
-82085;Subcon. multiple;1;1;1
-53460;Grupo Int2;7;3;1
-60326;Subcon. coord.;1;1;1
-110139;Grupo Int2;3;1;0
-9668;Deleg. reasig.;1;1;0
-57753;Grupo2;2;2;1
-31321;Subcon. simple;0;1;1
-78156;Delegador;4;4;0
-107655;Deleg. reasig.;4;3;0
-9992;Deleg. reasig.;4;2;0
-107508;Grupo Int2;5;3;0
-46882;Deleg. reasig.;9;1;0
-9278;Delegador;2;4;0
-2621;Deleg. reasig.;1;3;0
-81045;Subcon. multiple;1;2;0
-66008;Deleg. reasig.;7;4;2
-31332;Subcon. multiple;2;1;0
-34199;Deleg. reasig.;8;5;0
-23191;Subcon. simple;1;0;1
-38028;Subcon. simple;2;0;0
-5077;Delegador;3;2;0
-14766;Subcon. multiple;1;2;0
-3020;Delegador;3;1;1
-7911;Subcon. simple;1;1;0
-24350;Delegador;5;3;0
-6418;Subcon. simple;1;1;0
-69519;Subcon. coord.;5;2;1
-45975;Deleg. reasig.;3;1;0
-25217;Deleg. reasig.;3;2;1
-4086;Subcon. simple;0;1;1
-2861;Delegador;2;1;1
-94977;Grupo Int5;8;2;1
-93991;Subcon. simple;1;1;0
-111919;Delegador;3;3;0
-6158;Deleg. reasig.;2;2;0
-98227;Grupo Int2;5;2;1
-35552;Deleg. reasig.;2;2;1
-91672;Delegador;3;1;1
-81737;Grupo Int2;4;5;0
-52237;Grupo Int2;4;3;1
-269;Deleg. reasig.;0;2;1
-86611;Deleg. reasig.;4;3;3
-94312;Grupo Int3;3;2;3
-94084;Subcon. simple;1;1;0
-59062;Subcon. coord.;2;0;1
-61374;Delegador;6;1;1
-86208;Deleg. reasig.;5;1;1
-600;Delegador;2;3;0
-34848;Subcon. coord.;1;1;1
-8024;Grupo Int2;5;5;0
-121913;Subcon. multiple;2;1;1
-23428;Delegador;1;4;2
-24087;Deleg. reasig.;3;4;0
-79464;Deleg. reasig.;6;4;2
-4887;Subcon. coord.;1;2;0
-107320;Subcon. simple;1;1;0
-20740;Subcon. simple;1;1;0
-66997;Subcon. simple;2;0;0
-10699;Deleg. reasig.;4;3;2
-76302;Deleg. reasig.;7;1;1
-36792;Deleg. reasig.;2;1;0
-61681;Deleg. reasig.;7;1;1
-37453;Deleg. reasig.;5;4;1
-11058;Subcon. coord.;1;1;1
-1920;Grupo Int2;6;3;1
-78748;Subcon. simple;1;1;0
-45226;Grupo Int2;1;2;1
-76740;Grupo Int2;4;4;0
-47392;Subcon. multiple;1;2;0
-27207;Grupo Int2;4;2;0
-94587;Subcon. simple;0;2;0
-11734;Delegador;3;2;0
-92843;Deleg. reasig.;1;2;2
-27749;Grupo3;3;4;0
-11979;Deleg. reasig.;5;2;0
-115158;Delegador;2;2;1
-14950;Delegador;5;2;0
-26465;Deleg. reasig.;6;3;1
-31434;Grupo Int3;7;4;1
-46560;Deleg. reasig.;4;2;0
-70969;Grupo Int2;3;2;1
-110081;Grupo Int2;4;3;1
-84208;Subcon. coord.;2;1;1
-42093;Subcon. multiple;1;1;1
-74307;Grupo Int3;6;1;1
-104681;Deleg. reasig.;4;5;0
-42494;Deleg. reasig.;8;1;1
-59322;Grupo Int3;3;5;1
-44736;Delegador;3;5;0
-9693;Delegador;2;3;1
-63748;Subcon. multiple;2;1;0
-99934;Deleg. reasig.;1;1;1
-116661;Delegador;4;4;1
-49663;Deleg. reasig.;6;0;2
-34368;Subcon. coord.;3;1;0
-53539;Grupo Int2;5;2;0
-37745;Subcon. simple;1;1;0
-94334;Delegador;3;1;0
-35690;Subcon. multiple;1;1;0
-6379;Deleg. reasig.;2;1;0
-50481;Grupo Int2;4;2;0
-51155;Grupo Int2;7;2;0
-33420;Subcon. simple;1;1;0
-84008;Delegador;1;3;1
-77713;Deleg. reasig.;5;3;2
-57025;Subcon. coord.;4;0;1
-57443;Subcon. coord.;2;1;0
-50394;Grupo2;3;2;0
-31370;Delegador;5;0;1
-21396;Subcon. simple;1;1;0
-35563;Subcon. simple;1;1;0
-7123;Subcon. multiple;3;0;0
-121018;Grupo Int3;4;5;1
-43521;Subcon. multiple;2;1;0
-102990;Delegador;3;1;1
-11580;Delegador;7;3;0
-30220;Grupo Int2;8;4;1
-2852;Deleg. reasig.;2;4;0
-86422;Delegador;4;1;0
-11739;Subcon. simple;1;1;0
-33722;Grupo Int2;3;3;1
-52466;Subcon. coord.;3;1;1
-39725;Deleg. reasig.;3;3;0
-89385;Grupo Int2;5;4;3
-3891;Grupo2;2;3;0
-21322;Subcon. multiple;1;1;0
-70869;Grupo Int2;4;5;1
-64694;Deleg. reasig.;1;0;1
-68456;Subcon. coord.;4;1;1
-117159;Subcon. coord.;2;2;1
-112271;Delegador;5;3;1
-34763;Delegador;5;1;0
-28668;Deleg. reasig.;5;3;0
-25319;Grupo Int2;4;4;0
-115055;Deleg. reasig.;3;1;1
-46316;Grupo Int2;3;2;1
-105960;Subcon. simple;0;2;0
-85001;Deleg. reasig.;5;2;2
-85499;Subcon. simple;1;0;1
-32524;Subcon. multiple;1;1;1
-27866;Subcon. simple;2;2;1
-52648;Subcon. simple;2;0;0
-86563;Deleg. reasig.;4;4;3
-43994;Delegador;4;3;0
-91483;Subcon. simple;1;1;0
-74475;Delegador;3;3;0
-118672;Deleg. reasig.;2;1;1
-23233;Delegador;3;3;0
-118474;Subcon. simple;1;1;0
-115438;Delegador;4;2;0
-2051;Subcon. coord.;1;1;1
-108167;Subcon. simple;2;0;0
-25976;Deleg. reasig.;3;4;1
-38420;Subcon. coord.;5;0;1
-36495;Grupo Int3;4;6;1
-29339;Subcon. coord.;3;4;1
-89451;Deleg. reasig.;7;1;2
-118792;Delegador;3;0;1
-37389;Deleg. reasig.;4;3;1
-33479;Delegador;4;1;0
-30054;Delegador;7;1;0
-118583;Grupo Int3;4;2;2
-38027;Subcon. simple;1;1;0
-44913;Subcon. simple;1;1;0
-57747;Deleg. reasig.;6;3;0
-9689;Subcon. coord.;2;3;0
-84896;Grupo Int2;5;1;1
-16502;Subcon. simple;1;0;1
-33482;Grupo2;2;3;1
-96193;Grupo Int3;4;3;2
-24208;Subcon. multiple;1;1;0
-109339;Subcon. simple;1;0;1
-4833;Delegador;3;4;1
-73981;Subcon. coord.;4;1;1
-37892;Deleg. reasig.;5;3;0
-112448;Subcon. multiple;1;1;1
-119075;Subcon. simple;1;1;0
-121672;Deleg. reasig.;4;2;1
-84297;Subcon. simple;1;1;0
-91407;Deleg. reasig.;7;5;0
-18480;Deleg. reasig.;1;1;1
-108283;Delegador;3;4;1
-9545;Deleg. reasig.;3;2;0
-43153;Deleg. reasig.;10;2;1
-106832;Delegador;4;2;0
-17868;Subcon. simple;1;1;0
-69221;Subcon. coord.;1;2;1
-16475;Deleg. reasig.;4;3;0
-79287;Deleg. reasig.;6;2;0
-60978;Delegador;6;2;0
-30183;Delegador;3;3;1
-116623;Subcon. simple;1;1;0
-25892;Deleg. reasig.;4;4;0
-50982;Subcon. simple;2;0;0
-65779;Subcon. simple;1;1;0
-97904;Grupo Int2;3;2;1
-65257;Subcon. simple;2;0;0
-24222;Deleg. reasig.;6;2;1
-71951;Delegador;3;2;1
-71497;Subcon. multiple;2;1;0
-115159;Grupo Int2;3;1;1
-93409;Grupo Int3;9;5;2
-21187;Delegador;7;4;0
-112042;Subcon. simple;1;0;1
-73343;Delegador;3;3;1
-36591;Subcon. simple;1;0;1
-33903;Delegador;9;1;1
-3970;Deleg. reasig.;3;4;1
-3191;Deleg. reasig.;4;2;1
-78868;Subcon. simple;2;1;0
-107815;Subcon. multiple;1;2;0
-31903;Subcon. simple;1;1;0
-27682;Delegador;3;1;1
-89351;Subcon. simple;2;0;0
-48398;Grupo Int2;4;1;1
-14970;Subcon. multiple;1;2;0
-1923;Delegador;2;3;0
-3391;Subcon. simple;1;0;1
-92651;Subcon. coord.;2;2;0
-12810;Delegador;7;3;1
-9502;Subcon. simple;1;1;0
-36607;Grupo Int2;5;1;1
-28671;Subcon. simple;1;0;1
-16282;Grupo Int3;4;2;2
-30458;Grupo2;2;3;1
-58022;Subcon. multiple;2;1;1
-22526;Delegador;2;2;0
-7144;Deleg. reasig.;1;0;0
-58480;Grupo Int2;4;4;1
-42505;Subcon. multiple;1;0;1
-1548;Deleg. reasig.;1;2;0
-83253;Subcon. coord.;3;2;0
-13479;Subcon. coord.;2;2;2
-2368;Subcon. multiple;1;1;1
-22474;Grupo Int2;5;3;2
-20640;Delegador;4;1;0
-74094;Delegador;4;2;0
-71098;Delegador;4;1;0
-42530;Subcon. coord.;2;1;2
-74429;Subcon. simple;2;2;1
-89536;Deleg. reasig.;3;4;0
-50744;Subcon. multiple;2;0;1
-51735;Subcon. multiple;3;1;0
-72452;Subcon. simple;1;1;0
-35086;Subcon. multiple;1;2;0
-27395;Subcon. multiple;1;1;1
-86105;Delegador;2;1;1
-31798;Subcon. multiple;2;1;1
-4412;Deleg. reasig.;3;3;1
-36584;Subcon. simple;1;1;0
-61536;Subcon. simple;1;1;0
-50140;Grupo2;4;1;1
-2637;Deleg. reasig.;5;2;1
-63917;Subcon. simple;1;0;1
-47070;Subcon. simple;1;1;0
-30788;Deleg. reasig.;5;2;0
-31879;Deleg. reasig.;4;2;1
-69229;Deleg. reasig.;4;2;1
-54992;Delegador;4;4;0
-47185;Subcon. simple;1;1;0
-2505;Subcon. simple;1;1;0
-121582;Subcon. simple;2;0;0
-35017;Subcon. multiple;2;1;0
-31342;Subcon. multiple;3;1;0
-30536;Grupo Int2;3;2;1
-108754;Delegador;2;2;0
-3340;Deleg. reasig.;2;2;1
-78778;Delegador;2;2;0
-55323;Deleg. reasig.;3;3;0
-84309;Delegador;6;4;1
-77102;Subcon. simple;1;1;0
-29736;Subcon. multiple;1;2;1
-46449;Subcon. coord.;3;1;0
-90602;Grupo Int2;4;2;1
-58007;Delegador;3;1;0
-56480;Grupo Int4;5;5;1
-48822;Grupo Int2;4;2;0
-6955;Subcon. simple;1;1;0
-79874;Subcon. coord.;2;2;1
-24051;Grupo Int2;3;1;1
-97178;Subcon. multiple;2;2;0
-74034;Delegador;3;1;0
-119331;Subcon. simple;2;0;0
-679;Subcon. simple;1;0;1
-56889;Subcon. multiple;2;0;1
-13255;Deleg. reasig.;1;1;0
-25466;Delegador;3;1;0
-43164;Subcon. simple;1;2;0
-38066;Delegador;4;0;0
-67165;Subcon. multiple;1;2;0
-29100;Grupo Int2;2;2;2
-40243;Delegador;5;0;0
-73470;Delegador;3;2;1
-77661;Subcon. simple;2;0;0
-113007;Deleg. reasig.;4;4;1
-44373;Subcon. multiple;2;1;0
-121596;Subcon. multiple;1;2;1
-60393;Deleg. reasig.;5;1;1
-13565;Deleg. reasig.;2;2;0
-9536;Subcon. multiple;1;0;1
-36846;Subcon. multiple;2;0;1
-7861;Subcon. simple;1;1;0
-105873;Subcon. simple;1;0;1
-114679;Subcon. multiple;2;1;0
-34477;Deleg. reasig.;5;1;1
-41285;Subcon. coord.;1;2;2
-44854;Grupo Int2;5;2;2
-36618;Deleg. reasig.;3;2;2
-95506;Delegador;0;4;0
-38265;Subcon. coord.;2;2;1
-114802;Delegador;6;2;0
-67927;Delegador;3;1;1
-8739;Deleg. reasig.;1;3;0
-37926;Subcon. coord.;3;2;2
-28366;Subcon. coord.;2;1;1
-50532;Grupo Int2;3;5;1
-51919;Delegador;6;3;2
-55953;Subcon. simple;1;1;0
-31430;Deleg. reasig.;11;4;1
-121714;Grupo2;2;1;1
-73287;Deleg. reasig.;5;5;1
-116467;Subcon. simple;0;1;1
-77785;Subcon. multiple;2;1;0
-97552;Deleg. reasig.;2;2;2
-11598;Deleg. reasig.;3;3;0
-102434;Subcon. simple;0;2;0
-64374;Subcon. coord.;4;1;1
-31868;Subcon. simple;1;1;0
-30513;Subcon. simple;1;0;1
-113980;Subcon. simple;1;0;1
-42116;Grupo2;2;2;0
-29259;Grupo2;3;1;0
-20661;Grupo Int2;3;1;2
-499;Subcon. multiple;1;2;0
-37090;Deleg. reasig.;4;1;0
-110843;Subcon. simple;2;0;0
-6375;Subcon. simple;1;1;0
-2012;Deleg. reasig.;4;4;0
-30102;Deleg. reasig.;7;0;0
-32841;Subcon. multiple;3;0;0
-103592;Deleg. reasig.;6;1;1
-48990;Deleg. reasig.;3;2;1
-25799;Deleg. reasig.;1;3;0
-507;Deleg. reasig.;4;2;0
-22375;Subcon. multiple;2;2;0
-32523;Delegador;3;1;1
-60149;Subcon. coord.;3;1;1
-13916;Subcon. simple;1;1;0
-32642;Delegador;3;0;1
-67418;Delegador;2;0;2
-2817;Subcon. coord.;4;2;0
-112175;Subcon. coord.;1;1;1
-20688;Deleg. reasig.;2;4;0
-29537;Grupo Int3;4;4;0
-14049;Delegador;4;3;0
-24827;Grupo Int2;5;4;1
-52733;Subcon. simple;1;1;0
-61059;Deleg. reasig.;3;1;1
-123553;Subcon. multiple;2;1;1
-28997;Grupo Int2;5;3;1
-47043;Delegador;6;2;2
-42577;Subcon. simple;2;0;0
-11022;Subcon. simple;1;1;0
-99568;Deleg. reasig.;4;2;0
-58499;Deleg. reasig.;6;3;1
-69351;Deleg. reasig.;3;2;2
-36193;Subcon. multiple;3;1;0
-115276;Deleg. reasig.;3;1;1
-32031;Subcon. coord.;2;0;2
-108337;Delegador;3;1;0
-59546;Deleg. reasig.;4;0;0
-20218;Deleg. reasig.;8;3;2
-2340;Deleg. reasig.;4;3;0
-28521;Subcon. multiple;1;1;1
-35522;Subcon. multiple;1;1;0
-55365;Delegador;2;1;1
-65183;Delegador;1;3;0
-59650;Subcon. multiple;1;2;1
+16760;Casual;6;4;2
+7776;Interr;2;4;0
 74117;Deleg. reasig.;4;2;0
-8960;Subcon. multiple;2;1;0
-7264;Delegador;3;2;0
-89430;Delegador;7;2;0
-23486;Deleg. reasig.;3;2;1
-125332;Subcon. simple;1;1;0
-508;Delegador;2;2;0
-86642;Grupo2;5;1;1
-50353;Grupo Int4;6;5;1
-75336;Subcon. simple;1;1;0
-16323;Subcon. simple;1;1;0
-51961;Grupo Int2;3;4;1
-59863;Deleg. reasig.;5;3;1
-12039;Delegador;2;1;1
-22794;Deleg. reasig.;2;3;0
-89665;Subcon. simple;2;0;0
-93880;Deleg. reasig.;2;2;1
-18917;Subcon. multiple;3;0;1
-59855;Delegador;2;2;1
-27895;Grupo Int2;8;6;2
-107077;Grupo Int3;7;4;1
-87430;Deleg. reasig.;3;2;0
-61971;Subcon. simple;1;1;0
-79168;Grupo Int2;5;3;2
-86359;Grupo Int2;5;0;2
-26130;Subcon. coord.;1;2;0
-2642;Deleg. reasig.;2;1;0
-105524;Subcon. multiple;1;2;0
-119347;Subcon. simple;1;1;0
-63985;Delegador;4;1;0
-31361;Subcon. multiple;2;1;0
-66966;Subcon. coord.;2;3;1
-4897;Subcon. simple;1;1;0
-49508;Subcon. multiple;2;1;0
-73677;Grupo Int2;8;1;0
-70847;Deleg. reasig.;6;2;2
-88756;Deleg. reasig.;1;4;2
-92396;Subcon. simple;1;1;0
-863;Deleg. reasig.;3;1;0
-16603;Subcon. coord.;1;2;0
-97356;Subcon. coord.;2;0;2
-40835;Deleg. reasig.;6;1;1
-91281;Subcon. multiple;1;2;1
-13152;Delegador;3;2;0
-7624;Subcon. simple;1;1;0
-28224;Grupo Int2;4;3;1
-1269;Grupo Int2;3;3;1
-42440;Subcon. simple;1;1;0
-34807;Deleg. reasig.;2;0;2
-70841;Deleg. reasig.;6;2;0
-100164;Subcon. simple;0;1;1
-15094;Deleg. reasig.;2;0;0
-27631;Subcon. simple;1;1;0
-27420;Subcon. coord.;2;2;1
-53178;Grupo2;3;2;0
-109155;Subcon. multiple;1;1;1
-17792;Deleg. reasig.;1;1;0
-82121;Delegador;4;4;1
-82207;Deleg. reasig.;3;1;1
-38193;Deleg. reasig.;10;0;0
-32435;Subcon. simple;1;0;1
-50376;Subcon. simple;2;0;0
-121515;Subcon. multiple;3;0;0
-77311;Deleg. reasig.;5;2;1
-30295;Grupo2;3;2;0
-55823;Deleg. reasig.;12;0;2
-88160;Subcon. coord.;2;1;1
-17190;Deleg. reasig.;5;3;2
-102058;Delegador;1;3;0
-27456;Subcon. coord.;3;1;0
-27679;Deleg. reasig.;4;1;1
-45553;Delegador;6;2;1
-25930;Subcon. coord.;1;2;1
-101337;Deleg. reasig.;5;3;0
-78325;Subcon. coord.;5;3;1
-46664;Grupo Int2;3;1;1
-27685;Deleg. reasig.;4;2;1
-104565;Grupo Int2;6;2;1
-33583;Subcon. coord.;9;1;0
-77794;Subcon. coord.;1;1;2
-91496;Subcon. simple;1;1;0
-12987;Subcon. simple;1;0;1
-26172;Grupo Int3;5;4;2
-34603;Grupo Int2;5;2;2
-30272;Delegador;2;1;1
-110219;Delegador;2;1;1
-101471;Subcon. coord.;2;1;0
-92188;Subcon. coord.;1;1;1
-1393;Deleg. reasig.;2;1;0
-107576;Subcon. multiple;1;1;1
-120900;Subcon. simple;2;0;0
-73222;Subcon. coord.;2;0;1
-79629;Subcon. multiple;0;2;0
-11679;Subcon. simple;1;1;0
-61975;Delegador;4;2;1
-27687;Grupo2;3;1;1
-21502;Delegador;3;1;1
-21653;Grupo Int2;4;3;0
-32091;Delegador;9;1;0
-83741;Subcon. simple;1;0;1
-73822;Delegador;3;1;0
-28716;Deleg. reasig.;8;4;1
-33094;Delegador;5;2;1
-3115;Subcon. simple;1;1;0
-103103;Subcon. coord.;2;1;2
-10363;Deleg. reasig.;2;0;0
-81815;Subcon. coord.;1;1;1
-65338;Grupo Int3;3;3;1
-118595;Subcon. coord.;1;2;1
-26968;Deleg. reasig.;2;1;1
-64042;Subcon. coord.;3;1;1
-125636;Subcon. simple;2;0;1
-43519;Subcon. coord.;1;3;1
-62305;Deleg. reasig.;9;3;4
-50533;Deleg. reasig.;3;2;0
-574;Delegador;1;3;0
-33686;Subcon. multiple;2;1;0
-73620;Deleg. reasig.;5;1;1
-93281;Subcon. coord.;3;2;1
-78986;Subcon. multiple;1;0;2
-45153;Delegador;5;1;1
-96578;Subcon. simple;2;1;0
-89896;Deleg. reasig.;1;0;0
-34124;Grupo Int2;7;4;1
-118978;Grupo Int2;3;3;0
-59771;Grupo2;5;1;1
-686;Deleg. reasig.;2;1;1
-49099;Grupo2;6;5;1
-55674;Subcon. multiple;1;1;1
-61198;Grupo Int2;4;3;2
-74868;Subcon. simple;1;1;0
-33347;Grupo Int2;7;3;1
-84644;Subcon. simple;0;2;0
-37615;Grupo Int2;5;2;1
-2653;Deleg. reasig.;2;1;1
-36507;Delegador;4;0;0
-36833;Subcon. simple;0;1;1
-92653;Delegador;1;3;0
-42057;Grupo Int2;6;4;3
-46425;Subcon. multiple;3;1;0
-21611;Subcon. coord.;2;2;0
-10427;Delegador;4;2;0
-2373;Deleg. reasig.;3;3;0
-39703;Deleg. reasig.;3;0;0
-89183;Subcon. coord.;1;3;1
-3799;Delegador;2;2;0
-27529;Subcon. coord.;1;2;0
-42013;Delegador;3;1;0
-4763;Subcon. simple;1;1;0
-2550;Subcon. simple;1;1;0
-15612;Subcon. coord.;1;2;1
-59095;Deleg. reasig.;8;1;3
-15129;Grupo Int2;1;5;0
-54521;Subcon. coord.;4;2;1
-67559;Deleg. reasig.;3;1;1
-50249;Subcon. simple;1;0;1
-104773;Subcon. coord.;2;1;0
-60385;Grupo Int2;4;4;2
-28104;Subcon. coord.;2;1;0
-6542;Subcon. simple;0;2;0
-30509;Delegador;3;1;1
-48248;Delegador;2;4;2
-119530;Delegador;2;1;1
-32152;Delegador;3;2;0
-100460;Deleg. reasig.;2;1;1
-57503;Grupo3;3;4;1
-118759;Deleg. reasig.;3;1;1
-1422;Subcon. simple;0;1;1
-7380;Grupo Int3;5;3;2
-54846;Delegador;2;1;1
-58374;Subcon. multiple;1;1;1
-42747;Subcon. simple;2;0;0
-17791;Subcon. simple;1;1;0
-103623;Grupo3;7;6;2
-12441;Grupo Int3;3;2;2
-55563;Subcon. coord.;4;2;0
-52279;Grupo2;3;1;2
-114425;Subcon. multiple;3;0;0
-44040;Subcon. multiple;2;2;0
-7533;Subcon. multiple;1;2;0
-124579;Delegador;2;2;0
-35607;Subcon. multiple;1;2;0
-86902;Deleg. reasig.;6;4;1
-5281;Subcon. simple;1;0;1
-35087;Grupo Int2;6;6;1
-96238;Subcon. multiple;2;1;0
-6199;Subcon. multiple;1;1;1
-31316;Deleg. reasig.;3;1;0
-558;Subcon. multiple;3;1;0
-64357;Delegador;3;2;0
-124990;Subcon. multiple;2;1;0
-8742;Subcon. coord.;1;1;1
-48219;Subcon. simple;1;1;0
-2443;Subcon. simple;0;1;1
-815;Deleg. reasig.;3;1;1
-67636;Deleg. reasig.;5;3;0
-21163;Subcon. multiple;1;0;1
-27567;Delegador;5;3;0
-28799;Subcon. coord.;2;1;1
-6642;Deleg. reasig.;3;2;0
-78174;Subcon. simple;1;1;0
-29193;Subcon. simple;1;1;0
-22198;Deleg. reasig.;4;5;0
-37192;Subcon. multiple;3;1;0
-13011;Deleg. reasig.;3;2;0
-114957;Grupo2;2;1;2
-2057;Delegador;0;2;2
-47194;Subcon. simple;1;0;1
-6997;Subcon. multiple;2;1;0
-117886;Subcon. coord.;1;1;1
-86961;Subcon. simple;1;1;0
-46908;Subcon. simple;1;1;0
-4557;Subcon. simple;1;1;0
-42614;Subcon. multiple;2;1;0
-31339;Grupo Int2;5;2;1
-92018;Delegador;4;1;0
-41972;Deleg. reasig.;4;1;0
-52985;Subcon. simple;1;0;1
-85795;Grupo Int3;3;2;1
-6749;Deleg. reasig.;2;3;2
-51947;Subcon. simple;1;0;1
-98847;Delegador;3;2;1
-58998;Grupo Int2;8;3;1
-63689;Deleg. reasig.;4;4;0
-1413;Grupo Int3;4;3;2
-92668;Deleg. reasig.;7;1;1
-26772;Delegador;5;3;0
-103635;Subcon. simple;1;1;0
-104207;Deleg. reasig.;4;2;1
-1613;Delegador;1;2;1
-67800;Delegador;5;4;1
-25198;Delegador;2;3;0
-90907;Deleg. reasig.;3;3;0
-6993;Grupo Int2;5;1;2
-36689;Subcon. simple;1;1;0
-86435;Subcon. multiple;3;0;0
-93995;Delegador;5;0;1
-48438;Delegador;6;4;0
-107614;Grupo Int2;1;2;2
-70998;Delegador;3;1;0
-22185;Subcon. simple;1;1;0
-2794;Deleg. reasig.;4;2;0
-40878;Subcon. coord.;2;3;1
-69922;Deleg. reasig.;6;2;1
-17833;Deleg. reasig.;2;2;0
-3361;Delegador;1;3;1
-83813;Delegador;2;1;2
-7551;Delegador;6;3;1
-115527;Delegador;2;6;1
-17185;Subcon. simple;1;0;1
-27752;Grupo Int2;3;4;0
-113939;Delegador;4;3;2
-61254;Subcon. multiple;2;0;1
-15099;Subcon. simple;1;1;0
-664;Grupo Int2;4;2;2
-36662;Deleg. reasig.;1;2;0
-27432;Delegador;4;1;1
-40979;Grupo Int2;9;4;1
-34584;Grupo Int2;6;2;1
-37390;Delegador;8;2;1
-105121;Subcon. coord.;2;1;1
-17137;Subcon. simple;1;1;0
-102453;Subcon. coord.;1;1;1
-29774;Subcon. multiple;1;1;1
-103834;Subcon. simple;1;1;0
-13733;Subcon. simple;1;1;0
-25329;Deleg. reasig.;2;1;0
-38811;Delegador;5;0;0
-50347;Subcon. multiple;2;1;0
-66194;Delegador;2;1;1
-117640;Subcon. simple;1;1;0
-30790;Deleg. reasig.;3;0;1
-16337;Subcon. coord.;1;1;1
-3486;Delegador;3;1;0
-30667;Deleg. reasig.;5;3;1
-23744;Grupo2;1;2;1
-24337;Subcon. simple;1;0;1
-10792;Subcon. simple;1;1;0
-70409;Deleg. reasig.;8;4;1
-23742;Deleg. reasig.;1;2;0
-30412;Deleg. reasig.;5;1;1
-87072;Subcon. coord.;1;2;0
-71315;Delegador;5;3;1
-26416;Delegador;1;2;1
-69533;Subcon. simple;1;0;1
-32148;Subcon. simple;1;1;0
-3574;Subcon. coord.;1;2;2
-33179;Delegador;2;2;0
-8147;Grupo Int2;3;3;1
-126796;Delegador;2;1;1
-257;Deleg. reasig.;5;3;0
-12561;Delegador;4;3;0
-63854;Subcon. simple;2;0;0
-94168;Delegador;3;4;1
-1233;Deleg. reasig.;4;1;0
-13026;Delegador;6;2;3
-32670;Subcon. simple;0;2;0
-4977;Subcon. multiple;1;1;1
-104108;Delegador;3;0;1
-32108;Subcon. simple;3;1;0
-103556;Delegador;2;2;0
-33200;Deleg. reasig.;1;1;1
-87759;Subcon. simple;1;0;1
-25805;Subcon. simple;1;1;0
-6588;Subcon. multiple;2;1;0
-13169;Grupo Int2;7;3;2
-83225;Grupo Int2;3;2;1
-45022;Subcon. simple;2;0;0
-250;Subcon. coord.;2;1;0
-97145;Deleg. reasig.;6;1;0
-75833;Subcon. simple;1;1;1
-33735;Subcon. coord.;1;4;1
-93458;Subcon. coord.;2;2;1
-23396;Deleg. reasig.;2;2;1
-27092;Subcon. simple;2;1;0
-26461;Deleg. reasig.;3;1;0
-110104;Subcon. multiple;1;1;1
-18762;Deleg. reasig.;3;2;0
-87221;Subcon. multiple;1;1;1
-8335;Subcon. simple;0;1;1
-26682;Subcon. simple;1;1;0
-95283;Deleg. reasig.;3;4;1
-75634;Subcon. simple;2;0;0
-19287;Subcon. coord.;1;2;1
-30246;Delegador;2;3;1
-46385;Subcon. simple;1;0;1
-30469;Subcon. simple;2;0;0
-30744;Subcon. simple;1;1;0
-85328;Delegador;1;3;0
-41524;Subcon. multiple;3;0;1
-723;Subcon. multiple;2;1;1
-20851;Deleg. reasig.;2;0;1
-46773;Grupo4;5;2;2
-13447;Deleg. reasig.;3;1;2
-3284;Subcon. simple;1;1;0
-77273;Subcon. simple;1;0;1
-63993;Delegador;8;3;2
-71949;Grupo Int2;4;1;0
-50035;Grupo Int3;5;4;0
-102383;Deleg. reasig.;1;1;0
-115234;Deleg. reasig.;3;3;1
-7761;Deleg. reasig.;2;0;1
-109420;Deleg. reasig.;6;4;1
-27686;Deleg. reasig.;4;1;0
-43497;Grupo Int2;4;2;1
-41923;Deleg. reasig.;3;3;1
-73593;Delegador;3;3;2
-25794;Deleg. reasig.;3;2;0
-88612;Delegador;6;2;1
-33815;Subcon. multiple;4;0;0
-9498;Deleg. reasig.;4;3;1
-8267;Subcon. simple;1;0;1
-25666;Subcon. multiple;1;0;1
-1967;Delegador;3;0;1
-32363;Grupo Int2;3;2;1
-57324;Delegador;3;0;1
-33352;Delegador;10;1;1
-52317;Deleg. reasig.;4;1;2
-26856;Delegador;2;2;0
-192;Subcon. simple;1;1;0
-17807;Subcon. simple;1;1;0
-81204;Delegador;3;1;0
-9593;Deleg. reasig.;4;3;1
-77698;Deleg. reasig.;2;1;1
-67178;Subcon. simple;2;0;0
-90941;Deleg. reasig.;3;0;1
-114706;Deleg. reasig.;5;5;2
-19897;Grupo2;3;2;0
-59002;Deleg. reasig.;1;2;0
-65466;Deleg. reasig.;4;1;1
-82572;Subcon. multiple;2;2;0
-54279;Deleg. reasig.;1;2;1
-47390;Subcon. simple;1;1;0
-76640;Grupo Int2;6;3;1
-107797;Subcon. multiple;2;1;0
-9272;Grupo2;4;3;3
-39310;Subcon. simple;1;1;0
-102801;Grupo2;3;2;0
-110115;Grupo Int2;9;4;1
-29292;Grupo3;3;2;1
-16698;Deleg. reasig.;3;2;0
-36330;Subcon. simple;1;0;1
-119350;Delegador;5;0;0
-38625;Deleg. reasig.;6;2;1
-117180;Delegador;4;3;0
-5592;Subcon. simple;1;1;0
-57976;Deleg. reasig.;6;1;1
-33528;Deleg. reasig.;7;4;0
-33631;Subcon. coord.;2;0;1
-94036;Deleg. reasig.;8;3;2
-42532;Subcon. simple;3;1;1
-75960;Grupo Int2;5;1;2
-13728;Deleg. reasig.;3;2;0
-54828;Subcon. coord.;3;2;0
-88567;Deleg. reasig.;4;6;1
-51539;Grupo Int3;4;2;1
-86386;Delegador;3;0;1
-115539;Deleg. reasig.;3;2;0
-4996;Subcon. simple;1;1;0
-93953;Grupo Int3;8;4;3
-113394;Deleg. reasig.;6;2;2
-21093;Subcon. coord.;2;2;0
-77513;Deleg. reasig.;5;4;2
-44853;Grupo Int3;9;3;1
-66543;Delegador;8;3;2
-6576;Delegador;2;3;0
-29229;Delegador;4;1;0
-32219;Grupo Int2;7;2;0
-30652;Subcon. coord.;4;3;0
-55818;Deleg. reasig.;5;5;3
-49836;Subcon. simple;1;0;1
-14654;Subcon. simple;1;1;0
-14513;Subcon. simple;0;1;1
-23615;Delegador;6;2;1
-38487;Grupo2;2;2;1
-112106;Subcon. simple;1;1;0
-99702;Deleg. reasig.;7;2;1
-102513;Subcon. coord.;2;3;0
-47311;Subcon. multiple;1;1;1
-25455;Deleg. reasig.;7;2;0
-7067;Grupo Int2;5;4;2
-42793;Subcon. multiple;2;2;0
-113739;Delegador;6;1;0
-98888;Subcon. coord.;2;1;2
-28447;Deleg. reasig.;2;2;1
-8970;Grupo2;1;2;1
-61943;Delegador;3;0;1
-83396;Subcon. multiple;1;1;1
-38174;Deleg. reasig.;8;3;0
-48229;Subcon. simple;2;0;0
-3035;Subcon. coord.;1;2;0
-706;Delegador;5;6;0
-114884;Deleg. reasig.;2;3;1
-119194;Subcon. coord.;4;0;0
-32255;Grupo Int2;4;3;0
-14002;Deleg. reasig.;1;2;0
-58797;Grupo Int2;8;4;2
-105619;Grupo Int2;7;4;2
-72612;Subcon. coord.;2;2;1
-45152;Deleg. reasig.;4;2;1
-120692;Delegador;7;1;2
-581;Delegador;3;3;0
-56008;Grupo Int2;3;2;1
-112804;Deleg. reasig.;2;2;0
-79852;Delegador;8;2;1
-84191;Grupo Int2;7;2;0
-5540;Deleg. reasig.;6;3;0
-29475;Subcon. multiple;2;1;0
-7052;Delegador;4;2;0
-119062;Subcon. multiple;1;1;1
-28028;Subcon. multiple;2;1;0
-48935;Subcon. simple;1;2;0
-16115;Subcon. simple;0;2;0
-107840;Subcon. multiple;1;1;1
-35892;Grupo2;3;1;1
-78707;Subcon. multiple;2;2;0
-26136;Delegador;3;2;1
-61290;Deleg. reasig.;4;2;1
-31943;Subcon. multiple;2;1;0
-60861;Grupo2;5;0;0
-16948;Delegador;4;1;0
-25705;Delegador;4;1;0
-58710;Subcon. multiple;2;1;0
-90642;Deleg. reasig.;3;2;0
-61293;Subcon. simple;2;1;1
-63749;Subcon. coord.;5;2;1
-29080;Delegador;5;0;0
-61030;Subcon. simple;0;2;0
-106782;Subcon. multiple;2;2;0
-104319;Deleg. reasig.;3;3;0
-1477;Grupo Int2;5;3;1
-5145;Subcon. simple;1;1;0
-33020;Delegador;7;2;1
-109709;Subcon. multiple;2;0;1
-23487;Subcon. multiple;2;1;0
-92150;Delegador;2;2;2
-29220;Delegador;5;1;1
-66326;Subcon. simple;1;1;0
-86904;Deleg. reasig.;4;1;0
-384;Subcon. coord.;2;1;0
-21537;Delegador;2;1;1
-49592;Grupo2;2;1;1
-23928;Delegador;7;4;0
-84291;Subcon. multiple;1;1;1
-14259;Subcon. simple;1;1;0
-17366;Deleg. reasig.;4;3;0
-116850;Deleg. reasig.;4;1;1
-50757;Deleg. reasig.;3;2;0
-55929;Delegador;4;1;1
-112847;Delegador;2;2;1
-89370;Deleg. reasig.;3;5;1
-70734;Subcon. coord.;1;1;2
-68915;Deleg. reasig.;7;2;1
-61081;Subcon. simple;2;0;0
-95983;Delegador;2;2;1
-102295;Subcon. coord.;1;2;1
-58898;Delegador;3;2;2
-42832;Subcon. simple;1;1;0
-59137;Delegador;6;3;0
-36030;Deleg. reasig.;6;4;1
-44914;Subcon. multiple;1;2;0
-51305;Delegador;5;1;1
-34087;Deleg. reasig.;5;2;0
-28760;Subcon. coord.;1;1;1
-16779;Delegador;6;6;0
-79202;Subcon. simple;1;1;0
-25652;Deleg. reasig.;5;0;0
-30758;Subcon. multiple;2;1;0
-48258;Subcon. simple;1;1;0
-90855;Deleg. reasig.;4;1;1
-117698;Subcon. multiple;2;2;0
-31842;Subcon. coord.;2;2;1
-59577;Delegador;2;2;2
-87621;Subcon. coord.;1;2;0
-39734;Grupo Int2;6;2;0
-29169;Grupo Int3;4;3;1
-19652;Deleg. reasig.;1;2;0
-56885;Delegador;3;0;1
-71998;Subcon. simple;1;0;1
-36499;Subcon. simple;2;3;0
-2993;Deleg. reasig.;4;3;1
-110238;Grupo Int2;3;3;2
-65129;Deleg. reasig.;2;2;1
-26303;Subcon. multiple;1;1;1
-9294;Subcon. simple;1;1;0
-1938;Deleg. reasig.;6;3;1
-6713;Deleg. reasig.;7;2;0
-64027;Deleg. reasig.;1;3;0
-28792;Subcon. coord.;2;1;0
-33713;Deleg. reasig.;9;2;0
-76264;Subcon. simple;2;0;0
-39303;Deleg. reasig.;2;2;1
-39702;Deleg. reasig.;3;3;2
-33933;Subcon. simple;1;2;0
-21391;Delegador;9;6;0
-93163;Subcon. multiple;0;2;1
-121873;Subcon. simple;1;1;0
-57477;Deleg. reasig.;1;2;1
-8623;Subcon. coord.;2;3;0
-114229;Subcon. simple;1;1;0
-74997;Subcon. simple;1;1;0
-8817;Delegador;4;2;0
-51132;Deleg. reasig.;2;1;0
-64759;Grupo Int3;9;3;1
-90754;Delegador;5;4;0
-136;Delegador;5;7;0
-38858;Delegador;2;1;1
-33037;Deleg. reasig.;4;0;0
-48622;Subcon. multiple;2;0;0
-1556;Deleg. reasig.;0;1;2
-51397;Subcon. multiple;1;1;0
-11362;Grupo Int2;2;3;1
-5964;Deleg. reasig.;2;5;0
-33667;Subcon. simple;2;0;0
-34132;Subcon. simple;1;1;0
-25097;Deleg. reasig.;3;2;0
-28349;Delegador;3;2;1
-33495;Subcon. simple;1;1;0
-125268;Subcon. multiple;1;1;1
-63204;Grupo Int2;3;2;0
-36603;Deleg. reasig.;4;1;0
-116067;Delegador;4;3;0
-105474;Subcon. simple;2;0;0
-21279;Deleg. reasig.;4;1;1
-84783;Grupo Int2;3;4;1
-4226;Deleg. reasig.;3;3;0
-16511;Subcon. simple;1;0;1
-2360;Subcon. coord.;2;1;1
-18893;Delegador;2;3;0
-6568;Delegador;4;2;0
-57544;Delegador;4;0;0
-97509;Subcon. simple;1;1;0
-119300;Delegador;5;3;1
-61722;Deleg. reasig.;4;2;1
-34399;Delegador;4;2;0
-43831;Subcon. simple;1;1;0
-97833;Subcon. simple;1;1;0
-12295;Delegador;2;2;0
-59847;Subcon. simple;1;1;0
-59503;Subcon. simple;2;0;0
-61042;Subcon. simple;1;0;1
-87018;Grupo2;3;2;1
-64240;Deleg. reasig.;6;2;0
-42455;Deleg. reasig.;4;0;1
-7584;Deleg. reasig.;3;1;0
-23720;Grupo3;2;5;0
-16960;Delegador;3;3;0
-56223;Subcon. multiple;1;1;1
-62455;Subcon. coord.;2;3;0
-44313;Grupo Int2;5;3;1
-53877;Subcon. coord.;2;2;0
-60245;Subcon. simple;1;1;0
-111864;Subcon. simple;1;0;1
-51660;Subcon. coord.;3;2;0
-7688;Delegador;3;6;1
-35481;Delegador;6;3;1
-89986;Delegador;3;2;1
-110454;Deleg. reasig.;6;0;2
-114261;Delegador;4;2;2
-17712;Grupo2;2;2;0
-33789;Deleg. reasig.;4;3;0
-31191;Subcon. simple;1;0;1
-84134;Delegador;3;1;0
-65276;Deleg. reasig.;5;3;0
-21513;Subcon. coord.;1;2;1
-27253;Deleg. reasig.;3;3;0
-69202;Subcon. simple;1;1;0
-15430;Delegador;4;5;1
-113208;Subcon. simple;1;0;1
-95218;Subcon. coord.;1;2;0
-113104;Deleg. reasig.;2;0;1
-107357;Deleg. reasig.;4;2;1
-71967;Delegador;5;2;1
-78502;Deleg. reasig.;3;2;0
-4877;Subcon. multiple;1;1;1
-34788;Subcon. simple;1;0;1
-102764;Grupo2;3;3;0
-16399;Subcon. simple;1;1;0
-29969;Grupo Int2;4;3;1
-27510;Delegador;4;0;0
-66634;Grupo Int2;1;4;2
-63896;Subcon. multiple;3;0;1
-44934;Grupo Int2;6;4;1
-55072;Subcon. simple;1;1;0
-64106;Delegador;5;4;1
-36861;Subcon. multiple;2;1;0
-66895;Subcon. simple;1;1;0
-20644;Deleg. reasig.;3;1;0
-28676;Subcon. simple;2;0;0
-76832;Delegador;4;2;0
-85343;Subcon. coord.;1;2;0
-17858;Deleg. reasig.;0;3;0
-741;Deleg. reasig.;3;2;1
-5504;Subcon. multiple;1;2;0
-46807;Subcon. multiple;2;0;0
-63363;Deleg. reasig.;7;3;1
-30170;Delegador;7;2;0
-39939;Delegador;8;4;1
-75260;Grupo Int3;5;3;1
-21246;Delegador;2;1;1
-118770;Deleg. reasig.;5;1;2
-52045;Subcon. multiple;1;1;1
-66009;Delegador;4;0;0
-55303;Grupo Int2;6;2;1
-52866;Subcon. coord.;2;2;0
-91375;Deleg. reasig.;3;3;0
-32618;Subcon. coord.;1;1;1
-22700;Deleg. reasig.;4;4;0
-73330;Deleg. reasig.;4;1;0
-97587;Subcon. simple;1;1;0
-6909;Subcon. simple;1;1;0
-90241;Grupo Int2;3;3;1
-88438;Subcon. simple;1;1;0
-9388;Deleg. reasig.;1;5;1
-14155;Subcon. multiple;1;2;0
-52269;Subcon. simple;1;0;1
-29532;Deleg. reasig.;7;0;1
-37643;Subcon. simple;1;1;0
-9773;Deleg. reasig.;3;3;1
-43879;Subcon. multiple;2;1;0
-90369;Subcon. coord.;3;0;0
-4023;Subcon. simple;1;1;0
-2162;Subcon. simple;1;1;0
-93806;Subcon. simple;1;1;0
-6491;Grupo Int2;2;1;1
-4508;Subcon. multiple;1;1;0
-26799;Subcon. coord.;2;2;0
-123355;Subcon. simple;0;1;1
-27923;Subcon. coord.;8;6;1
-53172;Subcon. simple;2;1;0
-66540;Delegador;4;0;0
-77611;Deleg. reasig.;9;3;2
-110340;Delegador;2;1;1
-40341;Subcon. simple;1;1;0
-48421;Subcon. multiple;0;2;1
-67166;Grupo Int2;4;2;1
-77540;Subcon. simple;1;1;0
-31020;Grupo Int3;4;3;0
-1243;Subcon. multiple;1;1;0
-25161;Deleg. reasig.;2;3;0
-107306;Delegador;4;2;0
-36667;Delegador;2;1;1
-76884;Deleg. reasig.;7;4;2
-84954;Delegador;1;3;0
-100921;Grupo2;2;2;1
-4676;Subcon. simple;1;1;0
-52255;Subcon. simple;2;4;0
-88938;Deleg. reasig.;1;2;0
-29828;Deleg. reasig.;6;0;0
+35029;Casual;4;0;1
+32164;Participativo;3;2;1
+76302;Deleg. reasig.;7;1;1
+83869;Deleg. reasig.;1;4;0
+94036;Deleg. reasig.;7;2;2
+18480;Deleg. reasig.;1;1;1
+11301;Casual;4;3;0
+61489;Deleg. reasig.;6;1;1
+25799;Delegador;1;3;0
+45021;Casual;5;2;1
+11162;Delegador;3;5;0
+115414;Casual;5;3;1
+2185;Delegador;3;4;0
+2462;Interr;4;2;0
+85009;Deleg. reasig.;10;2;0
+43831;Casual;4;4;0
+77898;Delegador;6;2;0
+42074;Interr;4;4;1
+32841;Casual;9;1;0
+111919;Delegador;2;3;0
+44454;Interr;4;1;2
+103623;Participativo;5;6;2
+62739;Casual;6;2;2
+7358;Delegador;5;4;0
+79629;Casual;4;4;0
+44875;Delegador;4;3;2
+50393;Deleg. reasig.;5;4;0
 77055;Deleg. reasig.;4;4;0
-78628;Subcon. simple;1;1;0
-48016;Subcon. simple;1;0;1
-50971;Deleg. reasig.;2;2;0
-13522;Subcon. simple;1;0;1
-25368;Delegador;3;4;0
-10626;Delegador;2;1;2
-25197;Deleg. reasig.;3;3;0
-98351;Subcon. coord.;2;1;0
-92535;Delegador;2;2;0
-56685;Deleg. reasig.;1;3;1
-113812;Subcon. simple;1;1;0
-78501;Subcon. simple;1;1;0
-96388;Subcon. coord.;1;2;0
-53468;Delegador;1;2;1
-28478;Subcon. coord.;5;2;1
-2244;Delegador;4;3;0
-50915;Subcon. simple;1;0;1
-21503;Deleg. reasig.;4;2;0
-5598;Delegador;3;2;0
-86364;Subcon. simple;1;1;0
-122528;Delegador;5;0;0
-28513;Delegador;3;1;0
-27496;Delegador;2;2;0
-115065;Deleg. reasig.;8;2;2
-33467;Subcon. multiple;1;1;1
-89185;Subcon. coord.;1;1;1
-78711;Grupo2;1;2;1
-13956;Subcon. simple;1;0;1
-3732;Deleg. reasig.;3;3;0
-28016;Deleg. reasig.;4;2;0
-45094;Grupo2;2;2;1
-2643;Subcon. simple;2;0;0
-71516;Delegador;6;3;0
-28057;Delegador;3;1;0
-52891;Grupo2;6;2;0
-16084;Subcon. coord.;3;3;0
-39077;Subcon. multiple;1;1;1
-50040;Grupo Int2;5;3;1
-2781;Grupo Int2;4;1;1
-30785;Deleg. reasig.;2;0;1
-26180;Delegador;4;2;0
-60152;Subcon. coord.;5;5;0
-9435;Subcon. coord.;2;3;0
-53878;Subcon. simple;1;1;0
-105809;Deleg. reasig.;1;2;0
-28675;Subcon. simple;4;2;0
-13795;Subcon. simple;1;0;1
-54649;Deleg. reasig.;3;2;0
-57765;Subcon. simple;1;1;0
-13419;Subcon. simple;1;1;0
-46822;Grupo Int3;5;5;1
-5613;Delegador;2;1;1
-113226;Subcon. multiple;1;1;1
-21550;Deleg. reasig.;3;3;1
-63895;Subcon. simple;2;0;0
-57610;Subcon. simple;1;1;0
-2353;Subcon. simple;1;1;0
-88292;Grupo2;3;1;0
-114513;Deleg. reasig.;5;4;2
-64723;Delegador;7;1;1
-26325;Deleg. reasig.;4;4;0
-65731;Subcon. multiple;1;1;1
-85780;Subcon. simple;1;1;0
-112229;Subcon. simple;1;1;0
-46596;Deleg. reasig.;4;3;3
-103410;Delegador;2;1;1
-39819;Subcon. coord.;1;2;1
-121824;Subcon. multiple;2;0;1
-9480;Delegador;5;1;0
-13173;Delegador;5;1;0
-4425;Subcon. simple;1;1;0
-60979;Grupo Int2;3;1;1
-85949;Subcon. coord.;0;3;0
-3506;Deleg. reasig.;1;2;0
-41694;Delegador;6;1;0
-67766;Delegador;3;1;0
-77186;Subcon. coord.;8;3;3
-27085;Grupo Int2;2;2;0
-105782;Subcon. multiple;2;0;1
-16580;Deleg. reasig.;1;2;0
-62867;Grupo Int2;2;1;1
-6921;Grupo Int2;3;3;0
-44082;Delegador;4;4;1
-9176;Deleg. reasig.;4;2;0
-6940;Subcon. coord.;1;2;0
-89676;Subcon. simple;1;1;0
-103310;Grupo4;11;7;2
-4745;Subcon. coord.;5;3;0
-21197;Delegador;2;1;1
-44489;Subcon. multiple;1;1;1
-28826;Grupo Int3;5;2;1
-15717;Delegador;2;2;0
-107823;Delegador;3;3;1
-56002;Delegador;3;0;1
-104989;Deleg. reasig.;3;0;1
-65378;Subcon. simple;1;1;0
-86836;Grupo Int2;4;3;0
-30253;Deleg. reasig.;6;2;0
-90323;Subcon. coord.;2;1;0
-31760;Subcon. simple;2;0;0
-34135;Deleg. reasig.;5;2;0
-55943;Grupo Int2;2;1;1
-28253;Grupo3;5;2;2
-77668;Delegador;5;3;2
-119005;Delegador;2;2;2
-15824;Subcon. multiple;2;2;0
-7776;Subcon. simple;1;1;0
-105827;Subcon. coord.;6;4;2
-72333;Delegador;5;0;1
-88983;Subcon. coord.;2;2;0
-90621;Subcon. simple;1;1;0
-6368;Deleg. reasig.;4;2;0
-27568;Deleg. reasig.;4;2;0
-59442;Grupo Int2;2;2;1
-21052;Deleg. reasig.;1;3;1
-92957;Deleg. reasig.;4;0;0
-110354;Subcon. simple;1;1;0
-9964;Subcon. multiple;2;1;1
-51233;Delegador;6;3;0
-23977;Subcon. simple;0;1;1
-11301;Subcon. simple;1;1;0
-81303;Subcon. multiple;1;0;1
-17881;Subcon. simple;1;0;1
-35149;Deleg. reasig.;4;2;1
-81604;Deleg. reasig.;2;2;0
-28484;Subcon. multiple;2;1;0
-9410;Deleg. reasig.;1;2;0
-70184;Subcon. multiple;3;0;0
-27733;Deleg. reasig.;3;1;1
-33795;Delegador;3;1;1
-50906;Delegador;4;4;0
-102394;Subcon. simple;1;1;0
-17725;Subcon. simple;1;1;0
-46177;Delegador;2;1;1
-26908;Deleg. reasig.;1;3;0
-12524;Deleg. reasig.;3;4;1
-7258;Subcon. simple;1;1;0
-78792;Subcon. coord.;3;1;1
-216;Deleg. reasig.;3;4;1
-55278;Subcon. coord.;3;1;0
-7876;Delegador;8;4;0
-48503;Grupo Int2;6;3;2
-2031;Deleg. reasig.;4;2;0
-36169;Deleg. reasig.;3;1;1
-457;Delegador;5;3;0
-11502;Delegador;2;2;1
-76597;Subcon. multiple;1;1;1
-37020;Subcon. coord.;4;3;1
-124456;Delegador;2;2;1
-235;Grupo Int2;6;4;1
-110110;Grupo Int2;7;4;1
-39136;Subcon. simple;1;0;1
-35561;Subcon. coord.;1;1;1
-65403;Deleg. reasig.;4;1;2
-117545;Deleg. reasig.;2;0;1
-20068;Delegador;3;1;0
-70185;Grupo2;3;1;1
-29494;Subcon. multiple;2;2;0
-33101;Delegador;5;3;0
-31841;Deleg. reasig.;6;1;1
-25542;Subcon. coord.;1;3;0
-94211;Subcon. multiple;2;1;0
-89190;Delegador;3;4;0
-8528;Delegador;2;1;1
-113728;Grupo Int3;8;4;2
-125199;Deleg. reasig.;2;1;0
-114523;Deleg. reasig.;2;2;0
-46188;Subcon. simple;1;0;1
-97939;Subcon. simple;1;1;0
-40388;Deleg. reasig.;7;2;1
-9247;Delegador;2;2;0
-89172;Delegador;3;0;1
-98575;Deleg. reasig.;6;3;0
-9218;Subcon. multiple;2;1;0
-105714;Deleg. reasig.;0;3;0
-127272;Deleg. reasig.;1;1;0
-108548;Subcon. simple;1;1;0
-72727;Subcon. simple;2;0;0
-60337;Subcon. simple;1;1;1
-121861;Delegador;2;1;2
-17363;Delegador;4;5;2
-27450;Delegador;6;1;1
-77282;Deleg. reasig.;2;2;1
-56620;Subcon. coord.;3;2;0
-86447;Subcon. simple;1;0;1
-72607;Deleg. reasig.;3;1;0
-106211;Subcon. coord.;2;3;2
-84351;Subcon. simple;1;1;0
-3243;Deleg. reasig.;3;2;1
-27570;Deleg. reasig.;3;6;1
-61713;Subcon. coord.;2;1;0
-106726;Delegador;2;2;0
-97418;Deleg. reasig.;2;3;0
-32550;Deleg. reasig.;6;3;0
-75203;Subcon. coord.;7;6;1
-106098;Grupo Int2;5;3;1
-127205;Delegador;2;1;1
-64376;Grupo Int2;4;3;1
-116737;Subcon. multiple;2;1;1
-42569;Grupo Int4;4;3;2
-39330;Grupo Int2;5;2;1
-50265;Grupo Int2;3;3;1
-11643;Deleg. reasig.;2;4;0
-119487;Deleg. reasig.;4;0;1
-52047;Subcon. simple;1;1;1
-27809;Deleg. reasig.;5;2;0
-82979;Subcon. coord.;2;2;0
-2378;Subcon. simple;1;0;1
-72874;Deleg. reasig.;8;3;1
-43033;Subcon. coord.;3;1;1
-79216;Deleg. reasig.;1;2;0
-124384;Deleg. reasig.;2;0;1
-67957;Deleg. reasig.;7;3;1
-106991;Delegador;4;3;0
-15416;Deleg. reasig.;2;1;1
-44408;Subcon. simple;1;1;0
-48814;Deleg. reasig.;8;5;2
-71126;Grupo Int3;3;3;2
-51347;Subcon. multiple;2;0;1
-20999;Deleg. reasig.;7;2;0
-50438;Subcon. multiple;1;1;1
-9805;Delegador;2;1;1
-7610;Subcon. simple;1;1;0
-110364;Subcon. multiple;2;1;0
-43789;Deleg. reasig.;6;4;1
-106083;Delegador;6;2;0
-24451;Subcon. simple;1;1;0
-94128;Delegador;4;1;0
-72790;Subcon. simple;2;0;0
-112516;Grupo Int2;2;4;2
-28593;Subcon. simple;1;1;0
-2692;Subcon. multiple;1;1;1
-115204;Deleg. reasig.;4;0;0
-13678;Grupo2;2;3;0
-16435;Deleg. reasig.;3;5;3
-59648;Grupo Int3;8;3;1
-7986;Deleg. reasig.;3;4;0
-53663;Subcon. simple;2;0;0
-24566;Deleg. reasig.;4;3;0
-1603;Grupo2;5;3;0
-117807;Delegador;4;1;2
-9387;Deleg. reasig.;3;1;0
-2185;Subcon. simple;2;0;0
-83431;Subcon. multiple;2;0;1
-62053;Delegador;8;4;1
-48939;Deleg. reasig.;7;2;1
-112183;Grupo2;1;2;2
-57606;Subcon. simple;1;0;1
-14459;Delegador;3;2;2
-53275;Deleg. reasig.;8;3;0
-67764;Subcon. simple;0;2;0
-27516;Delegador;3;2;0
-68809;Delegador;2;1;1
-46275;Deleg. reasig.;3;0;2
-99286;Deleg. reasig.;6;4;1
-43626;Subcon. simple;1;1;0
-3599;Subcon. simple;1;1;0
-80642;Deleg. reasig.;2;5;2
-47837;Subcon. coord.;4;2;0
-19926;Deleg. reasig.;1;2;0
-63951;Subcon. simple;1;0;1
-87613;Subcon. multiple;2;1;0
-94489;Subcon. simple;0;2;0
-62928;Deleg. reasig.;2;1;0
-62739;Grupo Int2;6;1;1
-93480;Grupo Int2;6;5;1
-98931;Delegador;5;0;0
-104911;Grupo2;2;1;1
-32164;Subcon. coord.;4;2;1
-40222;Delegador;4;1;1
-62903;Grupo Int2;5;3;1
-104869;Grupo Int4;5;3;2
-36300;Grupo Int2;4;1;1
-87709;Grupo Int3;5;2;3
-15458;Subcon. multiple;1;2;0
-80303;Subcon. simple;2;0;2
-63507;Subcon. multiple;1;1;0
-8681;Grupo2;2;2;0
-72642;Subcon. coord.;2;1;1
-123087;Delegador;1;2;1
-117107;Subcon. simple;1;0;1
-123290;Subcon. simple;1;0;1
-50197;Subcon. coord.;3;0;0
-124972;Delegador;3;1;1
-94020;Deleg. reasig.;5;2;2
-32143;Deleg. reasig.;4;1;0
-28133;Grupo2;3;2;1
-79720;Deleg. reasig.;5;2;2
-62231;Subcon. coord.;4;2;0
-34245;Deleg. reasig.;6;1;0
-65092;Subcon. coord.;1;1;1
-46182;Subcon. coord.;5;4;1
-19077;Deleg. reasig.;3;2;0
-68853;Delegador;2;1;1
-44855;Delegador;4;0;1
-56965;Grupo2;2;2;0
-110126;Grupo Int2;2;2;2
-35029;Subcon. simple;2;0;1
-117823;Deleg. reasig.;4;1;0
-52880;Deleg. reasig.;3;3;1
-57009;Deleg. reasig.;4;1;0
-28512;Deleg. reasig.;4;2;0
-46666;Subcon. coord.;3;3;2
-2356;Subcon. simple;2;0;0
-118102;Deleg. reasig.;5;2;2
-81315;Subcon. simple;1;1;0
-52829;Delegador;3;3;1
-5966;Deleg. reasig.;4;2;0
-86676;Grupo Int3;5;2;1
-119165;Deleg. reasig.;2;0;1
-23866;Subcon. simple;0;2;0
-55591;Subcon. simple;1;1;1
-2025;Deleg. reasig.;5;2;2
-47988;Subcon. multiple;2;1;0
-39844;Deleg. reasig.;7;4;0
-66058;Subcon. simple;1;1;0
-46569;Delegador;4;0;0
-46927;Grupo Int2;7;4;1
-87109;Deleg. reasig.;6;2;0
-69199;Deleg. reasig.;4;2;1
-26125;Deleg. reasig.;7;3;2
-9588;Delegador;2;2;0
-56232;Delegador;2;1;1
-49054;Delegador;4;1;0
-117172;Subcon. coord.;2;2;2
-117085;Delegador;3;2;0
-7015;Subcon. simple;0;2;0
-79566;Deleg. reasig.;3;2;2
-30394;Subcon. coord.;2;1;1
-7882;Delegador;1;2;1
-25226;Delegador;2;1;1
-3780;Subcon. simple;1;1;0
-23779;Subcon. coord.;1;5;0
-57867;Subcon. simple;0;1;1
-65669;Deleg. reasig.;3;1;2
-121590;Subcon. coord.;2;1;1
-43691;Delegador;2;3;0
-59213;Deleg. reasig.;8;3;3
-94122;Subcon. simple;1;1;0
-17859;Subcon. simple;1;1;0
-45680;Delegador;5;3;1
-65419;Delegador;2;2;1
-86546;Deleg. reasig.;1;2;0
-15375;Deleg. reasig.;0;1;0
-43440;Subcon. coord.;1;2;1
-82041;Subcon. simple;1;1;0
-29793;Grupo Int2;7;4;1
-10090;Delegador;3;1;0
-83649;Subcon. simple;1;1;0
-11955;Delegador;4;4;0
-55291;Delegador;2;1;1
-38165;Delegador;3;0;1
-108870;Subcon. coord.;1;3;0
-60556;Deleg. reasig.;2;1;0
-62277;Subcon. coord.;2;1;0
-33898;Deleg. reasig.;2;3;0
-3350;Subcon. simple;1;1;0
-76534;Delegador;3;1;1
-45819;Deleg. reasig.;3;1;1
-12525;Deleg. reasig.;2;2;1
-94484;Deleg. reasig.;1;2;0
-78003;Grupo2;2;1;1
-43034;Subcon. simple;1;1;0
-903;Grupo Int3;5;4;1
-37688;Subcon. simple;1;1;0
-5675;Subcon. multiple;1;1;1
-77524;Subcon. multiple;2;1;1
-78043;Subcon. coord.;4;3;2
-122220;Subcon. multiple;3;0;1
-67398;Deleg. reasig.;3;2;0
-57779;Deleg. reasig.;1;1;0
-97915;Delegador;2;2;2
-36682;Deleg. reasig.;8;1;0
-79821;Subcon. simple;1;1;0
-52225;Grupo Int2;5;2;1
-44051;Delegador;3;3;0
-2497;Subcon. simple;1;1;0
-89324;Delegador;3;1;0
-8255;Deleg. reasig.;2;3;1
-89705;Deleg. reasig.;8;3;0
-42453;Grupo2;4;1;2
-38402;Deleg. reasig.;5;3;0
-81442;Subcon. multiple;2;1;0
-32983;Subcon. simple;2;0;0
-62787;Deleg. reasig.;7;3;2
-11941;Delegador;5;4;1
-82463;Grupo Int2;4;2;2
-73988;Delegador;4;3;0
-3364;Deleg. reasig.;2;1;0
-113306;Subcon. coord.;2;1;1
-6517;Delegador;4;1;0
-94400;Delegador;5;0;0
-32640;Delegador;3;3;0
-35222;Grupo2;3;2;0
-17726;Grupo Int2;4;4;2
-103867;Subcon. simple;1;1;0
-1545;Subcon. simple;1;1;0
-93817;Grupo Int3;3;4;1
-116259;Subcon. coord.;3;0;1
-47641;Subcon. simple;2;1;0
-6444;Deleg. reasig.;2;2;0
-90486;Subcon. coord.;1;2;1
-23315;Deleg. reasig.;1;5;0
-80732;Subcon. simple;2;0;0
-13954;Deleg. reasig.;3;2;0
-30179;Subcon. coord.;1;2;1
-9776;Deleg. reasig.;4;2;0
-29351;Subcon. simple;1;0;1
-118046;Subcon. simple;2;0;0
-48909;Grupo2;2;3;1
-28239;Deleg. reasig.;10;4;1
-74031;Subcon. simple;1;1;0
-24993;Grupo Int2;4;1;1
-24407;Delegador;4;3;0
-2792;Deleg. reasig.;2;4;0
-2231;Deleg. reasig.;1;4;0
-86656;Subcon. multiple;2;1;1
-69467;Delegador;2;2;1
-40627;Subcon. multiple;1;2;0
-46323;Delegador;3;1;1
-91107;Subcon. simple;0;2;0
-16243;Subcon. coord.;1;3;0
-3671;Subcon. simple;1;1;0
-42967;Deleg. reasig.;6;0;0
-82060;Grupo2;1;2;1
-64478;Subcon. multiple;1;0;1
-78747;Delegador;2;2;0
-27867;Grupo2;5;0;0
-76721;Subcon. coord.;2;2;0
-29620;Subcon. multiple;1;1;1
-26854;Delegador;2;1;1
-24086;Deleg. reasig.;5;3;0
-69075;Subcon. coord.;1;2;1
-80271;Delegador;2;4;1
-37081;Subcon. coord.;3;0;0
-113993;Deleg. reasig.;4;1;1
-4329;Subcon. multiple;1;1;0
-14299;Deleg. reasig.;5;3;0
-53767;Grupo Int2;2;2;1
-27813;Subcon. simple;1;1;0
-33293;Deleg. reasig.;6;4;1
-42274;Grupo Int2;3;2;1
-1098;Subcon. simple;0;2;0
-111706;Subcon. multiple;2;1;0
-10899;Subcon. coord.;3;1;0
-86930;Subcon. simple;1;1;0
-38660;Delegador;1;5;0
-99378;Subcon. coord.;1;1;1
-2462;Grupo2;3;1;0
-76027;Subcon. simple;3;0;2
-50694;Deleg. reasig.;6;2;2
-35056;Delegador;1;2;1
-102435;Grupo2;3;2;0
-38686;Subcon. simple;2;0;0
-60986;Deleg. reasig.;2;1;0
-109755;Deleg. reasig.;7;2;0
-97868;Subcon. multiple;2;2;0
-7693;Deleg. reasig.;2;5;1
-113938;Subcon. multiple;1;1;1
-46184;Subcon. multiple;3;0;0
-117269;Subcon. multiple;2;0;1
-63913;Deleg. reasig.;4;2;1
-37065;Subcon. multiple;2;1;0
-6876;Deleg. reasig.;2;2;1
-50393;Deleg. reasig.;6;4;0
-45021;Grupo2;3;2;1
-65569;Subcon. multiple;1;1;0
-41655;Deleg. reasig.;5;1;1
-35997;Subcon. simple;1;0;1
-89887;Subcon. multiple;1;1;0
-37393;Deleg. reasig.;3;1;0
-48184;Grupo Int2;5;1;2
-80450;Grupo Int2;7;3;0
-110116;Subcon. multiple;2;1;1
-66927;Grupo Int3;5;3;2
-15356;Subcon. simple;1;1;0
-115553;Delegador;5;3;0
-54621;Subcon. multiple;1;1;1
-84781;Subcon. coord.;3;2;2
-378;Subcon. multiple;2;0;1
-45257;Deleg. reasig.;3;2;0
-10030;Delegador;2;1;1
-45480;Grupo2;4;1;1
-59027;Grupo Int2;4;1;1
-43139;Subcon. simple;0;1;1
-46224;Deleg. reasig.;3;1;2
-34224;Subcon. multiple;2;1;0
-34672;Grupo Int2;5;2;1
-96392;Subcon. multiple;1;1;0
-39100;Subcon. multiple;2;0;1
-17462;Deleg. reasig.;1;2;0
-115465;Subcon. multiple;2;0;1
-52110;Grupo2;3;3;0
-12083;Deleg. reasig.;5;1;0
-55097;Subcon. coord.;2;2;1
-30351;Subcon. multiple;2;0;1
-53883;Grupo Int3;6;4;0
-4172;Deleg. reasig.;6;2;0
-29107;Deleg. reasig.;4;1;1
-59197;Subcon. multiple;2;1;0
-44454;Grupo Int2;4;1;2
-100079;Subcon. coord.;1;1;1
-71990;Subcon. coord.;2;1;0
-94765;Subcon. coord.;2;1;0
-37874;Deleg. reasig.;9;2;0
-81900;Delegador;3;2;1
-85084;Deleg. reasig.;5;1;0
-61092;Deleg. reasig.;4;1;1
-45668;Grupo Int2;5;5;0
-57382;Subcon. multiple;1;2;1
-40008;Subcon. simple;1;1;0
-76096;Deleg. reasig.;7;2;1
-43443;Deleg. reasig.;6;3;2
-32019;Subcon. simple;0;1;1
-4995;Deleg. reasig.;2;4;0
-32369;Deleg. reasig.;7;2;1
-57640;Grupo Int2;6;4;1
-94888;Deleg. reasig.;9;1;1
-30614;Subcon. coord.;2;3;0
-103572;Subcon. simple;2;0;0
-27596;Delegador;3;2;0
-80701;Deleg. reasig.;4;1;0
-32979;Subcon. simple;1;0;1
-25104;Deleg. reasig.;2;0;2
-73483;Subcon. multiple;2;1;1
-13196;Delegador;1;3;0
-65277;Grupo2;4;2;0
-28635;Subcon. coord.;2;1;0
-47142;Deleg. reasig.;9;4;2
-40971;Subcon. simple;1;1;0
-62150;Delegador;8;2;2
-62322;Grupo Int2;5;2;1
-116873;Delegador;3;0;1
-106078;Subcon. simple;1;1;0
-45653;Delegador;4;0;1
-62880;Delegador;2;1;1
-56296;Subcon. multiple;1;1;1
-119562;Subcon. simple;0;2;0
-52669;Subcon. coord.;2;2;1
-51915;Deleg. reasig.;5;3;2
-80329;Deleg. reasig.;2;3;1
-8409;Deleg. reasig.;2;1;0
-5546;Deleg. reasig.;2;3;0
-44607;Grupo Int2;6;3;1
-29654;Subcon. multiple;2;1;1
-21326;Subcon. simple;1;1;0
-61460;Deleg. reasig.;2;1;0
-53272;Subcon. simple;2;0;0
-40064;Subcon. multiple;2;1;1
-28796;Subcon. simple;1;1;0
-53246;Deleg. reasig.;2;3;0
-11895;Deleg. reasig.;5;0;1
-60674;Deleg. reasig.;4;1;1
-94339;Grupo Int2;3;3;2
-44185;Subcon. coord.;4;1;1
-56934;Subcon. simple;1;0;1
-83602;Subcon. multiple;1;1;1
-14203;Delegador;4;5;0
-54603;Deleg. reasig.;4;2;1
-32125;Delegador;7;6;2
-1406;Deleg. reasig.;5;1;1
-59187;Subcon. simple;1;0;1
-8264;Deleg. reasig.;2;0;1
-112801;Delegador;3;1;0
-17117;Subcon. simple;1;0;1
-34505;Delegador;4;2;0
-38099;Subcon. coord.;2;2;1
-27324;Subcon. simple;1;1;0
-18553;Delegador;1;4;0
-90285;Deleg. reasig.;4;0;0
-34332;Subcon. multiple;2;1;0
-7935;Deleg. reasig.;6;2;1
-103733;Subcon. multiple;1;1;1
-74808;Subcon. multiple;2;1;0
-16292;Deleg. reasig.;3;3;0
-88578;Deleg. reasig.;2;3;0
-10732;Delegador;4;1;1
-67143;Subcon. simple;2;0;0
-104767;Deleg. reasig.;6;3;2
-104377;Delegador;4;2;0
-37628;Subcon. coord.;1;2;1
-49735;Deleg. reasig.;3;1;0
-53699;Delegador;4;2;2
-39214;Delegador;2;2;1
-62188;Deleg. reasig.;3;2;2
-6575;Deleg. reasig.;2;1;2
-43330;Subcon. coord.;2;2;0
-107408;Subcon. simple;0;1;1
-32058;Grupo Int2;6;3;1
-3466;Subcon. multiple;1;2;0
-17695;Deleg. reasig.;1;1;1
-114811;Delegador;4;0;1
-12962;Subcon. simple;0;2;0
-14130;Subcon. multiple;1;1;0
-36788;Subcon. simple;1;1;0
-27892;Subcon. coord.;1;2;1
-9921;Grupo2;2;2;0
-49214;Subcon. multiple;0;2;1
-6511;Grupo Int2;4;2;1
-111704;Deleg. reasig.;4;0;0
-104973;Delegador;1;2;0
-62333;Delegador;3;0;1
-87553;Grupo Int2;3;3;0
-28761;Subcon. multiple;1;1;1
-93305;Grupo Int2;5;2;0
-25772;Grupo Int2;2;4;2
-87401;Subcon. multiple;2;1;0
-79057;Subcon. simple;1;1;0
-78226;Subcon. coord.;4;2;1
-59915;Subcon. simple;1;1;0
-92664;Subcon. multiple;1;2;0
-66485;Subcon. simple;1;2;0
-32519;Subcon. multiple;1;2;1
-10067;Subcon. simple;1;0;1
-90883;Subcon. simple;0;1;1
-61179;Grupo2;3;1;0
-61387;Deleg. reasig.;6;3;1
-77477;Subcon. coord.;2;1;1
-8701;Subcon. simple;1;0;1
-27357;Subcon. simple;1;1;0
-44535;Delegador;4;1;1
-103717;Subcon. simple;2;0;0
-22277;Delegador;5;3;0
-96478;Deleg. reasig.;1;2;0
-39251;Deleg. reasig.;5;1;0
-7220;Deleg. reasig.;2;3;0
-103047;Subcon. coord.;1;1;1
-47611;Subcon. simple;1;1;0
-67135;Delegador;1;3;1
-117628;Deleg. reasig.;4;3;1
-30488;Deleg. reasig.;2;1;0
-3578;Grupo Int2;4;3;0
-36199;Subcon. simple;1;1;0
-62859;Subcon. multiple;2;1;0
-84835;Subcon. multiple;2;0;1
-98875;Subcon. simple;2;0;0
-55155;Subcon. simple;1;1;0
-77836;Deleg. reasig.;2;2;0
-108009;Grupo2;2;2;1
-91735;Grupo Int2;5;2;2
-98765;Grupo Int2;7;2;2
-17337;Deleg. reasig.;5;0;1
-42601;Grupo Int2;6;2;0
-79667;Subcon. simple;1;0;1
-33460;Delegador;4;0;0
-3650;Delegador;5;4;0
-43980;Deleg. reasig.;11;1;0
-10167;Deleg. reasig.;3;2;1
-118417;Subcon. simple;1;0;1
-107516;Delegador;2;2;0
-50651;Subcon. simple;1;1;0
-82447;Grupo2;4;2;1
-32836;Deleg. reasig.;3;2;1
-40126;Deleg. reasig.;8;1;1
-13167;Delegador;7;4;2
-113210;Subcon. coord.;3;2;1
-15902;Subcon. simple;1;1;0
-33165;Subcon. simple;2;0;1
-119253;Grupo2;2;0;2
-6102;Subcon. coord.;2;3;0
-69578;Delegador;2;1;2
-33664;Subcon. multiple;2;1;0
-64979;Subcon. simple;2;0;0
-119771;Delegador;3;0;1
-24715;Deleg. reasig.;1;1;2
+51132;Deleg. reasig.;2;1;0
+16475;Deleg. reasig.;4;3;0
+107797;Deleg. reasig.;4;2;1
+9593;Deleg. reasig.;3;1;1
+17337;Deleg. reasig.;2;0;0
+86918;Interr;4;4;0
+30458;Casual;5;4;1
+28387;Interr;3;2;1
+71126;Interr;6;3;2
+728;Deleg. reasig.;3;6;0
+1938;Deleg. reasig.;5;2;0
+13243;Casual;4;4;1
+17712;Casual;4;3;0
+27809;Deleg. reasig.;5;1;0
+34449;Casual;9;3;0
+600;Delegador;2;2;0
+2993;Deleg. reasig.;3;3;1
+49592;Interr;2;1;1
+29828;Deleg. reasig.;6;0;0
+107320;Casual;8;2;1
+33143;Deleg. reasig.;3;2;0
+57009;Deleg. reasig.;3;0;0
+89451;Deleg. reasig.;6;1;1
+56480;Interr;7;6;2
+102510;Delegador;5;1;0
+4086;Casual;0;4;3
+4226;Deleg. reasig.;3;3;0
+92998;Deleg. reasig.;1;1;1
+88567;Deleg. reasig.;4;5;1
+66895;Delegador;4;1;2
+43521;Casual;7;2;0
+60152;Participativo;5;5;0
+60978;Delegador;5;2;0
+2852;Deleg. reasig.;2;3;0
+2637;Deleg. reasig.;4;2;1
+96129;Delegador;4;2;1
+8817;Delegador;3;2;0
+79667;Participativo;1;0;1
+24086;Delegador;5;3;0
+88468;Interr;6;3;2
+2231;Delegador;1;4;0
+17117;Casual;1;2;1
+93480;Casual;6;5;1
+29080;Delegador;5;0;0
+52279;Interr;7;1;2
+17185;Casual;2;1;1
+37281;Delegador;3;1;0
+108337;Delegador;3;1;0
+66471;Delegador;1;2;1
+61971;Casual;3;2;2
+71235;Delegador;9;3;1
+76522;Casual;7;3;1
+94334;Delegador;3;1;0
+5966;Deleg. reasig.;3;2;0
+47390;Casual;6;4;1
+5172;Delegador;4;3;0
+88232;Participativo;5;1;1
+57477;Deleg. reasig.;1;2;1
+17859;Delegador;1;1;0
+1233;Deleg. reasig.;4;1;0
+107576;Casual;1;2;1
+66009;Delegador;4;0;0
+78986;Delegador;7;2;0
+51923;Interr;5;3;1
+52866;Casual;6;4;1
+53967;Delegador;3;1;1
+22277;Delegador;3;2;0
+820;Interr;2;1;0
+40913;Delegador;2;4;0
+103281;Interr;4;4;0
+87018;Interr;3;2;2
+25319;Interr;4;5;0
+75708;Interr;8;1;2
+1920;Casual;6;3;2
+82427;Casual;3;4;1
+59213;Deleg. reasig.;6;3;2
+13116;Deleg. reasig.;4;5;0
+28796;Casual;4;5;1
+37090;Deleg. reasig.;4;1;0
+44913;Casual;3;2;0
+34763;Delegador;4;1;0
+60140;Deleg. reasig.;2;0;1
+107552;Delegador;4;2;1
+74031;Participativo;2;1;1
+13522;Casual;1;4;1
+70969;Casual;5;4;1
 55869;Deleg. reasig.;8;2;1
-28652;Subcon. simple;1;1;0
-2727;Subcon. multiple;2;1;0
-47257;Grupo2;2;1;2
-16611;Subcon. simple;1;1;0
-71338;Subcon. simple;1;1;0
-16618;Deleg. reasig.;2;0;1
-28246;Subcon. multiple;1;1;1
-1654;Delegador;2;5;0
-105852;Subcon. simple;0;2;0
-96129;Subcon. multiple;1;1;1
-36088;Subcon. simple;1;1;0
-26992;Delegador;4;0;1
-57415;Grupo Int2;2;1;2
-27380;Deleg. reasig.;6;3;1
-115124;Subcon. multiple;2;1;1
-66733;Subcon. simple;2;0;0
-6450;Subcon. multiple;1;2;0
-185;Delegador;5;2;0
-52340;Grupo Int2;2;2;2
-84376;Delegador;1;2;0
-28851;Subcon. coord.;4;2;1
-58844;Grupo Int2;2;6;0
-27887;Grupo Int2;2;4;1
-114337;Subcon. simple;1;1;0
-28685;Subcon. simple;1;0;1
-35461;Delegador;5;1;0
-366;Grupo Int2;4;1;2
-28328;Grupo Int2;3;2;0
-70660;Grupo Int3;5;2;1
-5746;Deleg. reasig.;2;2;0
-3053;Deleg. reasig.;1;4;0
-27239;Subcon. coord.;1;2;0
-27509;Subcon. simple;1;0;1
-13500;Subcon. simple;1;0;1
-56653;Delegador;3;0;1
-88539;Delegador;2;1;2
-65532;Delegador;1;2;1
-94744;Deleg. reasig.;8;4;1
-6172;Subcon. coord.;2;2;1
-12819;Delegador;1;2;1
-33416;Subcon. simple;1;0;1
-80625;Grupo Int2;4;4;1
-33387;Deleg. reasig.;3;0;0
-111930;Delegador;1;3;0
-17180;Subcon. coord.;4;1;1
-53757;Deleg. reasig.;2;0;1
-820;Subcon. coord.;2;1;0
-113432;Delegador;3;4;1
-89003;Delegador;1;1;2
-60632;Subcon. simple;1;1;0
-112423;Deleg. reasig.;4;1;0
-5900;Subcon. simple;1;1;0
-33656;Deleg. reasig.;2;1;0
-25833;Deleg. reasig.;4;3;0
-78037;Delegador;2;1;1
-77168;Delegador;6;2;3
-45092;Deleg. reasig.;4;2;2
-70504;Deleg. reasig.;4;0;0
-61288;Subcon. simple;1;0;1
-22181;Deleg. reasig.;4;3;0
-7979;Deleg. reasig.;5;5;0
-23610;Deleg. reasig.;5;3;0
-34618;Delegador;3;3;1
-46836;Grupo Int2;4;1;1
-68524;Subcon. multiple;0;2;1
-94994;Subcon. simple;1;1;0
-12291;Subcon. simple;1;1;0
-25274;Subcon. simple;1;0;1
-93640;Subcon. simple;0;2;0
-14416;Subcon. simple;1;1;0
-50079;Grupo Int2;3;3;0
-71740;Subcon. simple;2;0;0
-97742;Deleg. reasig.;6;1;0
-20978;Subcon. multiple;1;1;1
-82464;Subcon. coord.;1;2;0
-39482;Delegador;3;2;0
-90859;Delegador;6;1;0
-122167;Subcon. multiple;1;1;0
-65153;Delegador;4;2;1
-31502;Delegador;6;2;1
-78983;Subcon. simple;1;0;1
-13958;Deleg. reasig.;5;2;0
-35353;Grupo3;6;2;0
-65088;Deleg. reasig.;1;1;0
-29540;Subcon. coord.;3;1;0
-5179;Deleg. reasig.;6;3;0
-54152;Subcon. multiple;2;0;1
-97794;Deleg. reasig.;7;3;0
-20697;Deleg. reasig.;2;3;0
-7770;Subcon. simple;1;1;0
-28790;Deleg. reasig.;4;3;1
-90485;Subcon. simple;1;1;0
-103713;Subcon. simple;1;1;0
-32638;Deleg. reasig.;3;1;1
-75074;Delegador;3;2;1
-57094;Delegador;2;3;1
-5193;Subcon. coord.;2;3;0
-71173;Grupo2;3;2;1
-58688;Delegador;4;1;1
-41298;Subcon. multiple;1;1;1
-39778;Delegador;5;4;0
-39796;Delegador;6;2;1
-96146;Grupo Int2;4;4;2
+28414;Deleg. reasig.;5;4;0
+4498;Delegador;2;2;0
+25794;Delegador;2;2;0
+50520;Deleg. reasig.;1;3;0
+82979;Interr;4;3;1
+89816;Casual;4;5;1
+100003;Interr;2;1;0
+41187;Delegador;1;2;1
+22009;Casual;5;2;1
+93305;Interr;5;3;0
+48503;Casual;5;3;1
+97587;Casual;3;3;1
+82572;Delegador;3;2;0
+107614;Interr;1;2;2
+9259;Delegador;5;2;1
+87553;Casual;6;4;2
+3891;Participativo;3;3;0
+31482;Participativo;4;1;1
+6102;Deleg. reasig.;4;3;0
+78628;Casual;4;2;1
+14498;Deleg. reasig.;4;3;0
+42274;Casual;9;2;2
+33326;Deleg. reasig.;5;4;1
+33352;Delegador;9;1;1
+61290;Deleg. reasig.;4;2;1
+103834;Casual;4;4;1
+81737;Casual;5;5;0
+38811;Delegador;4;0;0
+90602;Participativo;5;2;1
+112175;Casual;7;3;1
+67559;Deleg. reasig.;2;1;1
+91281;Casual;4;6;1
+39310;Delegador;5;1;1
+22526;Delegador;2;2;0
+37424;Casual;7;4;2
+94211;Interr;9;3;1
+59322;Interr;3;4;1
+42832;Casual;1;2;0
+73843;Delegador;4;3;0
+28484;Casual;7;2;1
+26130;Interr;1;2;0
+47164;Interr;3;2;1
+37892;Delegador;5;3;0
+4557;Participativo;1;1;0
+44082;Delegador;4;4;1
+94198;Deleg. reasig.;3;4;0
+14970;Casual;3;4;0
+10917;Delegador;3;2;0
+113347;Casual;5;4;1
+10609;Deleg. reasig.;2;4;0
+4174;Deleg. reasig.;4;5;0
+5193;Participativo;4;3;0
+107840;Casual;4;4;1
+29793;Interr;8;5;1
+27686;Deleg. reasig.;3;1;0
+62455;Casual;8;5;1
+25149;Delegador;2;2;0
+85001;Deleg. reasig.;4;2;1
+13579;Delegador;2;2;0
+21550;Deleg. reasig.;3;3;1
+34659;Deleg. reasig.;8;1;0
+88439;Interr;1;4;0
+90073;Casual;7;5;2
+4200;Deleg. reasig.;6;3;0
+106035;Delegador;3;1;0
+50694;Deleg. reasig.;5;1;1
+29541;Casual;5;5;1
+34332;Interr;5;1;0
+25097;Deleg. reasig.;3;2;0
+68937;Deleg. reasig.;2;2;1
+73677;Casual;8;1;0
+27685;Deleg. reasig.;4;2;1
+97400;Interr;4;5;0
+92198;Deleg. reasig.;2;3;1
+35933;Participativo;4;3;1
+8592;Delegador;1;5;0
+79852;Delegador;6;2;0
+37020;Casual;4;3;1
+20467;Interr;1;2;1
+51915;Deleg. reasig.;5;2;1
+37643;Casual;4;3;0
+39077;Delegador;4;0;0
+45532;Casual;4;2;0
+25731;Participativo;3;2;1
+74868;Delegador;2;3;0
+58797;Interr;8;4;2
+104460;Deleg. reasig.;5;4;2
+4329;Interr;4;3;1
+112042;Delegador;3;1;1
+61288;Casual;4;1;3
+83801;Casual;9;3;2
+72452;Deleg. reasig.;5;3;1
+14012;Deleg. reasig.;3;2;1
+71718;Casual;7;4;1
+35937;Casual;6;0;1
+33131;Deleg. reasig.;7;2;1
+28459;Delegador;6;0;0
+33713;Deleg. reasig.;8;2;0
+107855;Casual;8;2;0
+77282;Deleg. reasig.;1;2;1
+40222;Delegador;4;1;1
+13479;Interr;4;4;2
+1839;Casual;7;3;2
+34618;Delegador;2;3;1
+2794;Deleg. reasig.;3;1;0
+112516;Participativo;2;4;1
+102435;Delegador;4;3;0
+30529;Casual;4;3;1
+82248;Casual;4;1;1
+52891;Interr;6;2;0
+63985;Delegador;4;1;0
+59062;Interr;6;3;2
+21052;Deleg. reasig.;1;3;1
+50079;Interr;3;4;0
+25226;Delegador;2;1;1
+27461;Delegador;5;0;0
+24527;Interr;3;2;0
+39332;Interr;4;2;1
+35149;Deleg. reasig.;4;1;1
+581;Delegador;3;3;0
+679;Casual;3;1;2
+63363;Deleg. reasig.;5;3;1
+86447;Casual;4;1;1
+63918;Deleg. reasig.;6;5;1
+77915;Deleg. reasig.;2;2;1
+1603;Delegador;5;4;1
+102746;Participativo;5;2;2
+2340;Deleg. reasig.;3;3;0
+53468;Delegador;1;2;1
+34133;Delegador;5;2;0
+38174;Deleg. reasig.;7;3;0
+47185;Casual;7;4;0
+3340;Deleg. reasig.;2;1;1
+15902;Casual;2;3;0
+33795;Delegador;3;1;1
+54521;Interr;5;3;1
+70660;Interr;5;2;1
+30394;Deleg. reasig.;1;2;0
+27450;Delegador;6;1;1
+46882;Deleg. reasig.;8;1;0
+70411;Casual;9;2;1
+113226;Delegador;5;1;1
+54030;Deleg. reasig.;2;1;2
+80642;Deleg. reasig.;1;4;1
+97794;Deleg. reasig.;7;2;0
+1922;Deleg. reasig.;3;1;0
+16698;Deleg. reasig.;3;1;0
+2353;Casual;4;2;0
+74684;Deleg. reasig.;6;3;0
+83431;Casual;5;5;1
+15034;Participativo;1;1;0
+24827;Interr;6;4;1
+22198;Deleg. reasig.;3;4;0
+64723;Delegador;6;1;1
+10358;Deleg. reasig.;4;3;0
+22474;Interr;5;3;2
+82464;Deleg. reasig.;2;2;0
+55155;Deleg. reasig.;3;2;1
+73470;Delegador;3;2;1
+103713;Casual;6;5;1
+48909;Casual;5;3;1
+99702;Deleg. reasig.;7;2;1
+16282;Interr;4;3;2
+61179;Interr;4;1;0
+33669;Deleg. reasig.;10;2;0
+9247;Delegador;2;2;0
+11580;Delegador;6;3;0
 16793;Delegador;3;5;0
-46879;Subcon. coord.;6;1;1
-22424;Deleg. reasig.;1;2;1
-46346;Subcon. multiple;1;2;0
-42196;Grupo2;4;1;1
-63757;Delegador;5;1;0
-113093;Subcon. coord.;2;1;2
-13724;Grupo Int2;2;3;1
-28346;Subcon. simple;1;1;0
-67096;Subcon. coord.;0;1;2
-57615;Subcon. multiple;2;1;0
-65705;Deleg. reasig.;4;2;1
-27994;Grupo Int3;5;4;2
-98025;Subcon. simple;1;1;0
-14289;Subcon. multiple;1;2;0
-34722;Deleg. reasig.;8;3;1
-84693;Subcon. simple;2;0;0
-11945;Deleg. reasig.;4;2;1
-8190;Delegador;3;5;0
-66603;Deleg. reasig.;1;3;1
-37284;Delegador;3;0;1
-31010;Subcon. simple;2;0;0
-77915;Subcon. simple;1;1;0
-32611;Delegador;2;1;1
-98492;Deleg. reasig.;2;1;0
-50535;Subcon. simple;1;1;0
-57394;Delegador;3;2;1
-4051;Subcon. multiple;2;0;1
-5172;Deleg. reasig.;5;3;0
-103707;Subcon. multiple;1;1;1
-2376;Subcon. simple;1;1;0
-48224;Delegador;3;2;1
-4505;Deleg. reasig.;3;3;0
-9118;Delegador;2;2;0
-67761;Deleg. reasig.;5;1;2
-52562;Deleg. reasig.;7;2;0
-36445;Subcon. coord.;1;3;0
-630;Subcon. coord.;2;1;0
-3565;Subcon. simple;1;1;0
-58540;Delegador;3;0;1
-3250;Subcon. simple;1;1;0
-46376;Deleg. reasig.;11;3;1
-59880;Delegador;4;1;0
-90171;Subcon. coord.;2;1;0
-15035;Subcon. multiple;2;1;0
-69716;Subcon. multiple;2;1;1
-91819;Subcon. simple;1;1;0
-89555;Subcon. multiple;1;1;0
-33174;Subcon. coord.;4;3;1
-48230;Subcon. coord.;2;1;0
-1904;Deleg. reasig.;3;4;1
-20804;Subcon. coord.;2;1;1
-43326;Subcon. multiple;3;1;0
-53435;Deleg. reasig.;8;4;1
-78777;Delegador;7;4;1
-98955;Grupo Int2;5;2;1
-46345;Deleg. reasig.;1;2;0
-112736;Deleg. reasig.;2;0;0
-89305;Deleg. reasig.;7;2;2
-21318;Subcon. simple;0;1;1
-64487;Grupo Int2;5;3;0
-40378;Delegador;2;1;1
-35933;Subcon. coord.;4;3;1
-94358;Subcon. simple;1;1;0
-1301;Grupo Int3;5;2;1
-72083;Grupo Int2;6;2;1
-69273;Subcon. simple;2;0;0
-112620;Subcon. simple;1;0;1
-13116;Subcon. multiple;2;2;0
-99062;Deleg. reasig.;3;2;0
-23054;Subcon. simple;1;0;1
-79314;Deleg. reasig.;3;0;0
-29101;Grupo Int3;7;2;0
+101337;Delegador;5;3;0
+1563;Interr;2;2;0
+76640;Interr;7;4;1
+27994;Casual;6;6;2
+74094;Delegador;2;2;0
+44040;Casual;4;4;0
+57976;Deleg. reasig.;4;1;1
+85780;Casual;3;3;0
+113416;Participativo;8;2;1
+101471;Casual;4;2;0
+60179;Deleg. reasig.;2;4;1
+31841;Deleg. reasig.;6;1;1
+84782;Casual;10;4;2
+7876;Delegador;7;4;0
+27631;Deleg. reasig.;8;7;1
+59187;Casual;7;1;1
+6517;Delegador;4;1;0
+70531;Deleg. reasig.;3;3;0
+28057;Delegador;3;1;0
+62928;Deleg. reasig.;2;1;0
+7610;Casual;4;4;0
+91434;Casual;8;3;1
+67761;Deleg. reasig.;4;0;1
+8147;Casual;4;5;1
+87109;Deleg. reasig.;6;2;0
+77513;Deleg. reasig.;5;4;1
+59136;Deleg. reasig.;6;3;0
+71173;Casual;5;2;0
+89256;Delegador;4;4;1
+28593;Deleg. reasig.;3;1;0
+94765;Casual;2;2;0
+83920;Delegador;5;3;0
+87430;Deleg. reasig.;3;2;0
+57606;Deleg. reasig.;7;1;1
+61036;Interr;4;2;1
+107508;Casual;11;3;1
+6909;Deleg. reasig.;8;3;1
+103717;Deleg. reasig.;8;6;2
+35087;Interr;7;6;1
+114425;Deleg. reasig.;6;3;1
+102626;Interr;2;4;1
+43164;Casual;9;3;0
+31010;Delegador;4;0;0
+113984;Interr;2;2;1
+53699;Delegador;4;2;1
+92070;Deleg. reasig.;8;3;1
+80701;Delegador;3;1;0
+1413;Interr;3;3;2
+52988;Casual;3;2;1
+44934;Casual;8;4;1
+28279;Deleg. reasig.;6;1;0
+36689;Casual;6;3;1
+3284;Delegador;3;1;1
+1477;Interr;4;3;1
+16084;Participativo;3;3;0
+53272;Casual;11;3;2
+4897;Interr;4;3;0
+112177;Deleg. reasig.;4;1;2
+19928;Deleg. reasig.;4;2;0
+863;Deleg. reasig.;3;1;0
+67036;Interr;3;2;2
+27752;Interr;3;5;1
+51919;Delegador;5;2;1
+84573;Deleg. reasig.;4;4;0
+29292;Interr;7;4;1
+91672;Delegador;3;1;1
+86422;Delegador;4;1;0
+88612;Delegador;5;2;0
+46666;Interr;6;3;2
+21163;Deleg. reasig.;2;2;1
+78711;Deleg. reasig.;2;4;1
+84561;Interr;6;3;2
+49054;Delegador;4;1;0
+105873;Casual;2;1;1
+43216;Deleg. reasig.;5;3;1
+61387;Deleg. reasig.;6;3;0
+22907;Deleg. reasig.;4;2;0
+38625;Deleg. reasig.;5;2;1
+28761;Deleg. reasig.;1;1;1
+3243;Deleg. reasig.;3;2;1
+45975;Deleg. reasig.;3;1;0
+17726;Casual;5;5;2
+60632;Casual;6;2;2
+18762;Deleg. reasig.;3;2;0
+48939;Deleg. reasig.;7;2;1
+76876;Delegador;2;1;2
+112106;Deleg. reasig.;7;1;1
+65561;Delegador;1;3;0
+56034;Deleg. reasig.;7;1;1
+71505;Delegador;5;5;1
+39844;Deleg. reasig.;7;2;0
+70185;Interr;5;3;1
+30981;Participativo;6;2;1
+250;Delegador;3;3;0
+42392;Participativo;1;2;0
+46449;Casual;4;1;0
+45819;Deleg. reasig.;3;1;1
+14259;Casual;4;1;0
+17180;Interr;6;4;2
+14049;Delegador;3;2;0
+113394;Deleg. reasig.;5;2;2
+13724;Interr;2;4;1
+11058;Casual;2;4;1
+44489;Casual;5;1;1
+65277;Deleg. reasig.;6;2;0
+108362;Interr;8;0;0
+63748;Interr;3;2;0
+7380;Interr;5;3;1
+73391;Participativo;4;1;1
+50394;Interr;4;3;0
+36731;Interr;5;5;1
+53767;Casual;5;3;1
+36591;Interr;3;0;1
+33420;Casual;8;3;1
+22152;Interr;4;5;1
+56347;Casual;5;2;0
+33898;Deleg. reasig.;2;3;0
+2817;Participativo;4;2;0
+9508;Casual;5;3;0
+41694;Delegador;6;1;0
+90855;Deleg. reasig.;4;1;1
+738;Delegador;3;1;0
+9218;Casual;4;5;0
+105714;Deleg. reasig.;0;3;0
+102394;Deleg. reasig.;1;1;0
+44854;Interr;5;2;2
+17807;Casual;3;3;1
+12441;Participativo;3;2;2
+59095;Deleg. reasig.;5;1;2
+81462;Deleg. reasig.;9;4;1
+28826;Interr;7;3;1
+91740;Delegador;3;1;0
+1687;Delegador;5;3;1
+93458;Casual;5;2;2
+33020;Delegador;6;2;0
+48868;Deleg. reasig.;5;1;1
+52651;Casual;2;4;1
+88983;Interr;4;3;0
+27850;Delegador;4;3;1
+46206;Deleg. reasig.;6;2;1
+6997;Delegador;3;4;0
+5964;Deleg. reasig.;1;4;0
+26465;Deleg. reasig.;5;3;1
+86743;Casual;10;3;2
+25833;Deleg. reasig.;4;2;0
+43497;Interr;6;4;2
+5675;Casual;7;4;1
+53539;Casual;7;4;0
+9655;Participativo;1;3;0
+13082;Delegador;5;3;1
+86208;Deleg. reasig.;5;1;1
+97939;Casual;5;3;0
+64487;Interr;6;4;1
+24549;Deleg. reasig.;4;1;0
+5540;Delegador;5;2;0
+2603;Casual;4;2;1
+74449;Casual;2;2;0
+18441;Interr;3;4;0
+2244;Delegador;4;3;0
+5019;Delegador;3;7;0
+94168;Delegador;3;3;1
+61460;Deleg. reasig.;2;1;0
+30081;Deleg. reasig.;3;3;2
+7052;Delegador;3;2;0
+2977;Deleg. reasig.;1;3;0
+216;Deleg. reasig.;3;4;1
+13152;Delegador;3;2;0
+46184;Participativo;4;0;1
+251;Casual;6;2;0
+52045;Casual;5;2;1
+7264;Delegador;3;1;0
+16435;Delegador;3;5;2
+60393;Deleg. reasig.;5;1;0
+31361;Casual;7;5;1
+4051;Casual;3;2;2
+83486;Deleg. reasig.;1;1;0
+103662;Interr;2;1;0
+3671;Casual;1;2;0
+13026;Delegador;6;2;3
+32369;Deleg. reasig.;4;1;0
+3599;Casual;2;3;0
+6444;Deleg. reasig.;2;2;0
+21391;Delegador;9;6;0
+16618;Deleg. reasig.;2;0;1
+62150;Delegador;8;2;1
+53460;Interr;8;3;1
+36961;Casual;6;4;0
+51735;Interr;8;2;0
+52466;Interr;9;2;2
+57298;Casual;4;3;2
+7224;Casual;4;2;1
+86479;Casual;7;4;0
+10067;Interr;3;1;1
+88132;Delegador;3;3;0
+33792;Deleg. reasig.;4;4;0
+94226;Interr;4;5;0
+39330;Casual;5;1;0
+21093;Participativo;2;1;0
+70218;Deleg. reasig.;6;0;0
+96392;Casual;1;4;0
+46316;Casual;4;2;1
+111466;Casual;5;4;0
+38165;Delegador;3;0;1
+52880;Deleg. reasig.;3;3;1
+35896;Delegador;4;1;0
+9545;Delegador;3;2;0
+89730;Deleg. reasig.;5;2;1
+29193;Delegador;6;4;0
+32255;Interr;4;3;1
+50265;Casual;7;3;1
+42455;Delegador;3;0;1
+71949;Casual;5;2;0
+13565;Deleg. reasig.;2;2;0
+74307;Interr;6;1;1
+42055;Casual;10;3;1
+39100;Casual;4;0;1
+78174;Deleg. reasig.;4;2;0
+44432;Interr;6;3;2
+44031;Casual;8;6;2
+20688;Deleg. reasig.;1;4;0
+40971;Deleg. reasig.;7;4;1
+15427;Delegador;4;2;0
+6375;Casual;3;2;0
+42275;Delegador;3;3;1
+34867;Casual;5;2;1
+83246;Delegador;2;2;0
+86364;Participativo;1;2;0
+28016;Deleg. reasig.;4;2;0
+6379;Deleg. reasig.;2;1;0
+46294;Casual;3;2;1
+46346;Deleg. reasig.;4;2;0
+81303;Casual;6;0;1
+89461;Deleg. reasig.;2;2;0
+115663;Interr;3;1;0
+6993;Interr;5;2;2
+61713;Interr;3;1;0
+36451;Casual;3;1;0
+89705;Deleg. reasig.;6;1;0
+28239;Deleg. reasig.;8;4;1
+70847;Deleg. reasig.;6;2;2
+45680;Delegador;4;3;1
+37412;Delegador;3;5;0
+112529;Deleg. reasig.;3;3;0
+59915;Deleg. reasig.;3;2;1
+15712;Deleg. reasig.;1;3;0
+66058;Casual;5;3;0
+97356;Casual;6;3;2
+6511;Casual;5;2;2
+19287;Casual;2;5;2
+67096;Interr;1;1;1
+558;Interr;4;3;0
+105524;Casual;6;5;2
+12956;Casual;2;3;1
+52110;Interr;3;4;0
+4439;Delegador;3;1;1
+53246;Deleg. reasig.;2;3;0
+76740;Casual;4;4;0
+92396;Casual;4;3;1
+15035;Interr;4;3;0
+97019;Delegador;2;2;0
+20697;Deleg. reasig.;2;3;0
 74162;Deleg. reasig.;3;2;0
-71235;Subcon. simple;2;0;0
-56967;Delegador;13;6;1
-107599;Grupo Int2;3;1;2
-58286;Subcon. simple;1;1;0
-60610;Grupo Int2;5;1;0
-35115;Deleg. reasig.;5;0;0
-34133;Deleg. reasig.;5;3;0
-24127;Deleg. reasig.;4;3;0
+65419;Delegador;2;2;1
+95506;Delegador;0;4;0
+81045;Interr;5;4;1
+57224;Interr;6;3;1
+38066;Delegador;4;0;0
+90754;Delegador;4;4;0
+12045;Deleg. reasig.;3;3;1
+113938;Casual;3;2;2
+34505;Delegador;4;2;0
+92692;Deleg. reasig.;3;1;1
+29351;Casual;6;1;1
+25198;Delegador;2;3;0
+36169;Deleg. reasig.;2;1;1
+21279;Deleg. reasig.;4;1;0
+42532;Casual;7;6;1
+77186;Casual;7;2;2
+88852;Deleg. reasig.;3;2;0
+14028;Delegador;4;4;0
+25161;Deleg. reasig.;2;3;0
+30488;Deleg. reasig.;2;0;0
+39761;Interr;6;4;1
+44177;Casual;7;1;1
+44736;Delegador;3;5;0
+64886;Interr;6;4;1
+72607;Deleg. reasig.;3;1;0
+41972;Deleg. reasig.;4;1;0
+19897;Interr;5;3;0
+64140;Casual;5;4;0
+14155;Casual;5;6;1
+14416;Interr;1;1;0
+33174;Participativo;5;4;1
+73620;Deleg. reasig.;5;1;1
+81166;Delegador;3;0;1
+46822;Interr;5;5;1
+33514;Deleg. reasig.;8;2;1
+21397;Interr;6;3;1
+72899;Deleg. reasig.;0;2;1
+47570;Interr;6;4;1
+113661;Interr;1;1;2
+80732;Delegador;4;0;0
+23779;Participativo;1;6;0
+10724;Deleg. reasig.;5;1;1
+13958;Deleg. reasig.;5;2;0
+24350;Delegador;4;3;0
+54649;Deleg. reasig.;3;2;0
+105474;Casual;6;4;0
+93806;Interr;4;1;0
+28512;Deleg. reasig.;4;1;0
+68979;Casual;3;1;0
+30513;Casual;5;4;1
+37065;Deleg. reasig.;6;3;1
+73076;Casual;5;5;1
+42569;Interr;5;5;3
+48097;Interr;3;5;2
+30102;Deleg. reasig.;7;0;0
+31798;Casual;8;3;1
+61330;Participativo;7;4;2
+6714;Delegador;1;4;0
+72333;Delegador;4;0;1
+4740;Interr;2;1;3
+89430;Delegador;7;2;0
+111898;Interr;4;2;2
+92664;Interr;2;3;0
+83115;Deleg. reasig.;2;2;0
+21322;Casual;5;5;0
+43084;Interr;4;2;1
+89665;Deleg. reasig.;5;2;0
+38420;Participativo;6;0;1
+30179;Casual;7;5;1
+38265;Deleg. reasig.;6;3;2
+30536;Interr;4;1;1
+24491;Deleg. reasig.;1;1;1
+110116;Casual;6;2;2
+30469;Delegador;5;1;0
+24993;Deleg. reasig.;5;4;2
+686;Deleg. reasig.;2;1;1
+99121;Participativo;3;3;2
+32091;Delegador;8;1;0
+53877;Participativo;2;3;0
+68466;Delegador;5;1;1
+84781;Interr;6;3;3
+93264;Deleg. reasig.;5;3;2
+29220;Delegador;5;1;1
+10090;Delegador;3;1;0
+63757;Delegador;4;1;0
+9387;Deleg. reasig.;2;1;0
+108142;Delegador;7;3;2
+32143;Deleg. reasig.;4;1;0
+28760;Casual;1;1;1
+59503;Casual;8;0;0
+42793;Participativo;2;2;0
+43981;Delegador;6;2;1
+2643;Casual;2;3;0
+83642;Casual;7;3;0
+107516;Delegador;2;2;0
+94744;Deleg. reasig.;7;4;0
+82060;Casual;5;2;1
+28447;Deleg. reasig.;2;2;1
+33177;Delegador;4;2;1
+12897;Interr;1;2;0
+12066;Interr;2;2;0
+6121;Delegador;4;3;0
+53516;Casual;5;1;0
+2792;Deleg. reasig.;1;4;0
+78248;Delegador;3;5;0
+40814;Deleg. reasig.;6;1;1
+29969;Casual;6;3;1
+36605;Delegador;5;3;0
+67143;Casual;8;0;1
+12291;Delegador;2;3;0
+3053;Deleg. reasig.;1;3;0
+96388;Interr;1;2;0
+3191;Delegador;4;2;1
+65088;Deleg. reasig.;1;1;0
+68515;Participativo;1;1;2
+61681;Delegador;7;1;0
+40126;Casual;8;1;1
+3799;Delegador;2;2;0
+27892;Interr;2;3;1
+12524;Deleg. reasig.;3;2;1
+94490;Casual;4;2;0
+6225;Deleg. reasig.;5;2;0
+85352;Casual;4;1;0
+16779;Delegador;6;6;0
+86611;Deleg. reasig.;3;3;3
+29026;Deleg. reasig.;4;2;0
+12561;Delegador;3;3;0
+32152;Delegador;3;2;0
+4996;Deleg. reasig.;0;1;0
+83253;Casual;8;2;1
+46879;Interr;10;1;1
+90621;Interr;4;2;0
+102295;Interr;3;1;2
+63896;Casual;6;0;1
+65449;Delegador;2;2;0
+61374;Delegador;5;1;0
+74475;Delegador;3;3;0
+78502;Deleg. reasig.;3;2;0
+9502;Deleg. reasig.;0;1;0
+51834;Delegador;8;2;1
+7015;Deleg. reasig.;1;3;1
+87709;Casual;7;2;3
+79287;Deleg. reasig.;4;2;0
+12039;Delegador;2;1;1
+62133;Delegador;7;2;2
+28635;Casual;6;1;1
+106991;Delegador;3;2;0
+60385;Interr;6;4;2
+9388;Delegador;0;5;1
+114706;Deleg. reasig.;5;4;2
+29339;Participativo;3;4;1
+70986;Interr;2;3;0
+62859;Casual;7;2;1
+14203;Delegador;4;4;0
+59137;Delegador;6;3;0
+92419;Casual;7;2;1
+7861;Casual;1;3;0
+30272;Delegador;2;1;1
+59847;Interr;1;2;1
+58082;Interr;2;1;1
+27085;Casual;3;3;0
+31903;Casual;5;3;0
+80271;Delegador;2;4;1
+24725;Deleg. reasig.;4;3;0
+66634;Casual;1;5;2
+77102;Participativo;1;2;0
+5093;Casual;3;1;0
+23720;Casual;2;5;0
+51667;Deleg. reasig.;5;4;1
+18917;Casual;7;2;1
+17254;Deleg. reasig.;1;2;1
+42440;Casual;2;3;0
+17366;Deleg. reasig.;4;3;0
+19186;Interr;9;3;2
+33656;Deleg. reasig.;2;1;0
+45480;Interr;5;1;1
+44415;Delegador;3;1;0
+92362;Interr;2;1;0
+6302;Casual;4;3;1
+91735;Casual;8;2;3
+66485;Interr;1;2;0
+27867;Interr;6;0;0
+33110;Delegador;3;3;0
+48301;Deleg. reasig.;5;2;0
+36453;Casual;7;1;1
+15350;Deleg. reasig.;2;1;0
+80406;Deleg. reasig.;5;3;0
+94312;Casual;3;2;2
+21501;Delegador;4;1;0
+89190;Delegador;3;4;0
+3127;Interr;2;1;0
+28104;Casual;7;2;1
+53172;Interr;3;3;2
+35198;Casual;7;6;1
+29169;Interr;7;4;1
+34368;Interr;3;2;0
+72479;Deleg. reasig.;3;2;0
+59546;Deleg. reasig.;4;0;0
+9992;Deleg. reasig.;3;1;0
+5494;Delegador;2;2;0
+106211;Casual;7;4;3
+113739;Delegador;4;1;0
+46836;Interr;5;2;1
+33664;Casual;10;3;1
+100655;Casual;5;3;1
+58141;Interr;4;0;0
+104911;Casual;3;4;2
+94128;Delegador;4;1;0
+44881;Interr;6;3;2
+36667;Delegador;2;1;1
+112423;Deleg. reasig.;2;1;0
+27456;Interr;8;5;1
+26125;Deleg. reasig.;7;3;2
+33200;Deleg. reasig.;1;1;1
+35563;Deleg. reasig.;4;3;0
+74808;Deleg. reasig.;5;2;0
+90965;Deleg. reasig.;0;3;1
+67135;Delegador;1;3;1
+51527;Deleg. reasig.;4;3;3
+16948;Delegador;3;1;0
+114884;Deleg. reasig.;2;3;1
+111704;Deleg. reasig.;4;0;0
+6414;Interr;1;1;2
+70689;Deleg. reasig.;6;6;2
+36386;Delegador;3;1;1
+73330;Deleg. reasig.;4;1;0
+90323;Deleg. reasig.;4;3;1
+76630;Casual;9;4;2
+48622;Deleg. reasig.;6;2;0
+25455;Deleg. reasig.;6;2;0
+27380;Delegador;6;2;1
+41923;Deleg. reasig.;2;2;0
+18553;Delegador;1;4;0
+24127;Deleg. reasig.;4;2;0
+81442;Interr;2;2;0
+40341;Deleg. reasig.;5;2;2
+32640;Delegador;3;3;0
+72612;Casual;6;3;1
+88756;Deleg. reasig.;0;4;1
+42494;Deleg. reasig.;7;1;1
+47611;Casual;3;1;0
+36495;Casual;4;7;1
+71338;Casual;5;2;0
+48814;Deleg. reasig.;7;5;1
+6418;Casual;1;2;1
+7654;Interr;1;3;0
+48346;Casual;5;2;1
+112847;Delegador;1;2;1
+44051;Delegador;3;2;0
+57544;Delegador;4;0;0
+27529;Interr;4;4;1
+2031;Deleg. reasig.;3;1;0
+115539;Deleg. reasig.;3;2;0
+96578;Interr;5;2;1
+25666;Casual;5;5;1
+50915;Deleg. reasig.;5;2;1
+73343;Delegador;2;3;1
+53178;Interr;3;3;0
+59459;Interr;9;2;2
+57503;Interr;4;5;2
+79464;Deleg. reasig.;6;4;2
+31615;Delegador;2;3;0
+57615;Interr;3;2;1
+8623;Deleg. reasig.;2;3;0
+78707;Interr;5;4;0
+43440;Casual;3;4;1
+78325;Casual;5;3;1
+103587;Interr;7;4;2
+115527;Delegador;2;5;1
+58286;Delegador;2;1;0
+78043;Casual;8;4;2
+15356;Interr;1;2;1
+58798;Casual;5;4;2
+6940;Casual;2;3;0
+56008;Interr;3;2;1
+55097;Participativo;4;2;1
+17858;Deleg. reasig.;0;3;0
+63749;Participativo;7;5;1
+75260;Interr;5;3;1
+28676;Deleg. reasig.;4;2;0
+78626;Casual;8;2;2
+35561;Participativo;2;2;1
+32019;Delegador;1;2;1
+93817;Casual;4;4;1
+33843;Delegador;4;2;1
+102773;Deleg. reasig.;1;2;0
+17191;Delegador;3;4;3
+35552;Deleg. reasig.;1;1;0
+73988;Delegador;3;3;0
+16115;Delegador;1;3;0
+3409;Delegador;3;4;1
+65731;Casual;5;2;1
+112026;Participativo;2;1;2
+57640;Casual;6;4;1
+46410;Casual;4;0;1
+110115;Casual;10;4;1
+60674;Deleg. reasig.;3;0;1
+57779;Deleg. reasig.;1;1;0
+22185;Casual;5;3;0
+81815;Casual;4;2;2
+87448;Participativo;1;2;1
+71108;Delegador;4;2;1
+112271;Delegador;5;2;1
+50532;Interr;3;5;1
+20218;Deleg. reasig.;6;2;2
+51233;Delegador;6;3;0
+56432;Interr;4;4;2
+17881;Deleg. reasig.;4;5;1
+35690;Casual;4;3;1
+73483;Delegador;6;1;1
+104983;Interr;6;3;1
+62220;Casual;10;3;1
+91160;Deleg. reasig.;3;3;0
+30217;Delegador;6;1;0
+66326;Interr;2;1;0
+66540;Delegador;4;0;0
+35115;Deleg. reasig.;4;0;0
+13196;Delegador;1;3;0
+98847;Delegador;3;2;1
+78003;Interr;2;2;2
+64027;Deleg. reasig.;1;3;0
+6576;Delegador;2;2;0
+97509;Interr;5;2;0
+68809;Delegador;2;1;1
+14950;Delegador;3;2;0
+57765;Casual;5;2;0
+106078;Casual;6;3;0
+58499;Deleg. reasig.;4;3;1
+70613;Delegador;6;1;1
+62352;Participativo;6;4;0
+47837;Delegador;5;4;0
+10379;Deleg. reasig.;6;4;0
+82915;Casual;3;4;1
+10732;Delegador;3;1;1
+87613;Casual;2;2;0
+32219;Interr;7;2;0
+8681;Deleg. reasig.;3;4;0
+44373;Casual;7;2;1
+104869;Casual;6;3;2
+74429;Casual;4;3;1
+38660;Delegador;1;4;0
+30351;Casual;8;3;1
+8261;Delegador;4;1;0
+59363;Casual;6;5;0
+26799;Participativo;2;1;0
+104319;Deleg. reasig.;3;3;0
+41372;Interr;5;3;2
+13447;Deleg. reasig.;3;1;2
+57763;Interr;7;6;1
+4505;Deleg. reasig.;2;2;0
+42093;Delegador;2;1;1
+20661;Interr;3;2;2
+98025;Deleg. reasig.;6;4;1
+57753;Interr;4;2;3
+72790;Interr;4;1;0
+10792;Delegador;3;1;0
+23791;Deleg. reasig.;3;2;0
+13325;Deleg. reasig.;3;1;0
+4297;Deleg. reasig.;1;2;0
+101312;Deleg. reasig.;5;1;1
+16323;Delegador;1;2;1
+62787;Deleg. reasig.;6;3;1
+52158;Interr;6;3;0
+22794;Deleg. reasig.;2;3;0
+45226;Casual;7;3;2
+19673;Deleg. reasig.;3;1;0
+32148;Casual;5;4;2
+70102;Interr;4;2;2
+62053;Delegador;7;4;1
+28256;Delegador;6;6;1
+27568;Deleg. reasig.;3;2;0
+23233;Delegador;3;3;0
+96155;Casual;2;2;0
+51637;Deleg. reasig.;1;2;1
+75833;Interr;3;2;1
+2642;Deleg. reasig.;1;1;0
+100079;Interr;1;2;1
+62353;Casual;6;3;1
+109755;Deleg. reasig.;7;1;0
+30295;Participativo;3;2;0
+29352;Casual;9;5;1
+32524;Interr;1;2;2
+75687;Interr;5;5;1
+107823;Delegador;3;2;1
+7584;Deleg. reasig.;3;1;0
+13639;Delegador;2;2;0
+17190;Deleg. reasig.;4;3;2
+14459;Delegador;1;2;2
+47194;Delegador;2;1;1
+88292;Casual;6;5;1
+89185;Casual;4;2;2
+1904;Delegador;3;4;0
+88160;Interr;3;1;2
+13795;Delegador;3;2;2
+28513;Delegador;3;1;0
+5077;Delegador;2;2;0
+66543;Delegador;8;2;1
+34477;Delegador;3;0;1
+97868;Delegador;3;3;0
+86676;Interr;6;2;1
+37628;Participativo;2;3;1
+75960;Casual;7;2;3
+106098;Interr;6;3;1
+53663;Casual;6;2;1
+36300;Casual;4;1;1
+48184;Casual;6;1;2
+30551;Interr;7;2;1
+84896;Casual;7;2;1
+10427;Delegador;3;1;0
+52047;Delegador;3;1;1
+65092;Casual;8;3;2
+78748;Interr;1;3;0
+80625;Casual;5;4;3
+13011;Deleg. reasig.;3;2;0
+2550;Delegador;1;3;0
+23396;Deleg. reasig.;2;1;1
+47641;Interr;4;3;0
+38028;Delegador;3;0;0
+94084;Interr;4;2;1
+6879;Delegador;0;3;0
+56685;Deleg. reasig.;1;3;1
+6568;Delegador;3;2;0
+106782;Delegador;6;3;0
+77794;Interr;8;1;2
+27749;Interr;5;4;0
+92843;Delegador;1;2;1
+13173;Delegador;3;1;0
+70504;Deleg. reasig.;4;0;0
+74997;Interr;2;2;0
+30667;Deleg. reasig.;4;2;0
+61536;Casual;7;5;0
+25662;Deleg. reasig.;3;2;1
+67165;Delegador;9;3;0
+43014;Deleg. reasig.;4;2;1
+9657;Interr;6;4;0
+105121;Interr;3;1;2
+32435;Delegador;5;2;2
+40644;Interr;3;2;1
+48016;Delegador;3;1;2
+77489;Deleg. reasig.;4;1;1
+27813;Casual;5;4;0
+84351;Interr;5;2;0
+6678;Casual;3;2;1
+100921;Casual;7;4;1
+113093;Interr;5;1;1
+52648;Casual;3;4;0
+7693;Deleg. reasig.;2;4;0
+78501;Interr;2;2;0
+2521;Deleg. reasig.;3;2;1
+70410;Casual;3;2;0
+13419;Deleg. reasig.;3;4;0
+93953;Casual;9;4;3
+23910;Delegador;4;2;2
+16243;Casual;2;4;0
+31838;Casual;9;4;1
+34173;Deleg. reasig.;7;1;0
+25652;Deleg. reasig.;5;0;0
+3597;Deleg. reasig.;3;2;0
+11941;Delegador;4;4;0
+17458;Casual;4;4;2
+68456;Interr;4;1;1
+55683;Deleg. reasig.;1;1;1
+70841;Deleg. reasig.;6;2;0
+5164;Delegador;4;2;0
+46569;Delegador;4;0;0
+51539;Casual;9;2;2
+105960;Delegador;1;4;0
+3980;Delegador;3;2;0
+65276;Deleg. reasig.;4;3;0
+32295;Casual;3;5;1
+46275;Deleg. reasig.;2;0;1
+27253;Delegador;2;3;0
+15430;Delegador;3;5;1
+52317;Deleg. reasig.;3;1;2
+33946;Deleg. reasig.;5;1;1
+57610;Casual;4;3;0
+50140;Casual;8;2;1
+23742;Deleg. reasig.;1;2;0
+97801;Participativo;1;4;3
+53275;Deleg. reasig.;8;3;0
+27581;Interr;2;5;1
+50651;Interr;1;1;0
+37116;Interr;4;3;1
+76096;Deleg. reasig.;7;1;1
+65257;Delegador;7;2;2
+110126;Deleg. reasig.;6;4;1
+48822;Casual;5;2;0
+23315;Deleg. reasig.;1;5;0
+28806;Delegador;4;3;1
+50035;Interr;5;4;0
+29510;Casual;9;5;0
+82463;Interr;4;3;2
+38193;Deleg. reasig.;10;0;0
+46224;Deleg. reasig.;3;1;0
+39669;Deleg. reasig.;3;3;0
+48248;Delegador;1;4;1
+60149;Interr;4;1;2
+14130;Deleg. reasig.;1;1;1
+20174;Delegador;3;1;1
+97415;Delegador;6;4;0
+31771;Delegador;6;1;0
+39251;Deleg. reasig.;5;1;0
+50353;Casual;7;5;1
+107357;Deleg. reasig.;4;2;1
+96193;Interr;6;4;2
+9594;Casual;3;4;0
+53316;Casual;8;4;2
+114513;Deleg. reasig.;3;3;2
+36989;Interr;7;5;0
+51179;Casual;1;3;1
+13167;Delegador;6;4;1
+9176;Delegador;4;2;0
 38605;Deleg. reasig.;3;3;0
-48729;Subcon. multiple;3;0;0
-42055;Subcon. coord.;4;1;0
-119539;Subcon. simple;2;0;0
-118376;Deleg. reasig.;2;1;1
-20184;Subcon. coord.;3;2;1
-96912;Subcon. multiple;1;2;0
-70704;Deleg. reasig.;4;2;1
-56432;Subcon. coord.;1;2;1
-74449;Subcon. simple;1;1;0
-14552;Subcon. coord.;1;1;1
-27421;Grupo4;6;4;1
+89555;Casual;3;4;0
+77713;Deleg. reasig.;5;2;1
+67534;Deleg. reasig.;3;0;0
+46807;Interr;5;0;0
+108283;Delegador;3;4;1
+5110;Interr;5;5;1
+44408;Casual;3;4;1
+26416;Delegador;1;2;1
+73781;Deleg. reasig.;7;1;0
+7935;Deleg. reasig.;4;1;1
+8409;Deleg. reasig.;2;1;0
+27092;Deleg. reasig.;2;2;0
+3732;Deleg. reasig.;3;3;0
+112739;Deleg. reasig.;3;2;0
+2356;Casual;5;1;0
+14002;Deleg. reasig.;1;2;0
+37248;Delegador;6;1;0
+56223;Participativo;1;1;1
+113104;Deleg. reasig.;2;0;1
+29259;Casual;9;3;0
+67957;Delegador;6;2;0
+33789;Deleg. reasig.;3;2;0
+11955;Delegador;3;4;0
+66927;Interr;6;3;1
+36054;Delegador;3;1;0
+77661;Interr;5;4;1
+110219;Delegador;2;1;1
+62322;Participativo;5;2;1
+89305;Deleg. reasig.;7;2;2
+54891;Delegador;5;2;1
+23865;Delegador;1;1;1
+25111;Interr;4;4;2
+50278;Delegador;3;1;0
+44535;Delegador;4;1;1
+89059;Deleg. reasig.;1;2;0
+61198;Interr;5;4;2
+81997;Interr;5;4;2
+13255;Deleg. reasig.;1;1;0
+28671;Casual;4;2;1
+35733;Casual;4;3;0
+109679;Casual;2;1;1
+67398;Deleg. reasig.;3;2;0
+27887;Casual;3;6;1
+89385;Casual;6;4;3
+59603;Delegador;2;2;0
+37453;Deleg. reasig.;4;4;1
+97418;Deleg. reasig.;2;3;0
+82526;Deleg. reasig.;1;3;0
+32014;Delegador;3;2;1
+75336;Interr;5;3;1
+44914;Casual;5;3;2
+114764;Interr;7;3;2
+96889;Interr;2;1;1
+42166;Casual;8;5;1
+28849;Casual;6;4;1
+58029;Interr;11;3;0
+68836;Deleg. reasig.;1;5;0
+45022;Casual;7;2;1
+48667;Deleg. reasig.;4;4;0
+47142;Deleg. reasig.;8;4;1
+28668;Deleg. reasig.;5;3;0
+26682;Delegador;2;3;1
+10791;Delegador;1;4;0
+30652;Casual;3;3;0
+42746;Deleg. reasig.;8;2;1
+83396;Casual;2;3;1
+57797;Casual;4;3;0
+28246;Delegador;3;4;1
+67636;Deleg. reasig.;5;3;0
+62509;Delegador;4;0;1
+25274;Interr;3;2;1
+27567;Delegador;5;2;0
+87621;Casual;6;5;1
+62188;Deleg. reasig.;2;2;2
+45094;Casual;6;3;2
+28253;Casual;5;3;1
+42577;Casual;8;3;0
+44313;Casual;4;2;0
+1545;Casual;2;3;0
+44600;Delegador;8;3;1
+100618;Interr;6;2;2
+62559;Deleg. reasig.;2;1;1
+58480;Casual;10;5;1
+2360;Deleg. reasig.;2;4;1
+113261;Deleg. reasig.;3;1;1
+29540;Deleg. reasig.;1;1;0
+58549;Interr;8;2;2
+723;Deleg. reasig.;0;3;1
+55995;Interr;6;3;2
+52237;Casual;8;4;1
+76036;Interr;2;4;1
+26041;Delegador;3;3;1
+8960;Delegador;4;3;0
+84191;Interr;7;2;0
+102463;Deleg. reasig.;4;4;0
+27510;Delegador;4;0;0
+91380;Deleg. reasig.;4;2;1
+69533;Delegador;3;1;1
+78792;Casual;6;4;1
+2012;Deleg. reasig.;3;4;0
+31434;Interr;6;3;0
+44853;Interr;9;3;1
+61059;Deleg. reasig.;2;1;1
+36445;Casual;1;4;0
+2614;Participativo;1;1;2
+24451;Casual;3;2;1
+29194;Casual;3;2;0
+82250;Interr;3;3;1
+1406;Deleg. reasig.;3;1;1
+86359;Interr;4;1;1
+70481;Casual;9;2;0
+83741;Casual;3;2;1
+46345;Deleg. reasig.;1;2;0
+33903;Delegador;7;1;1
+36662;Deleg. reasig.;1;2;0
+3574;Participativo;1;2;2
+59863;Deleg. reasig.;5;3;1
+28799;Interr;5;2;1
+69519;Interr;4;2;1
+107599;Interr;2;2;3
+3350;Casual;2;2;1
+25340;Casual;5;1;1
+92274;Casual;7;3;1
+71951;Delegador;3;2;1
+61254;Delegador;4;1;1
+13879;Delegador;4;2;0
+25930;Interr;1;2;2
+6491;Casual;3;4;1
+34224;Interr;6;1;0
+46182;Casual;5;4;1
+8718;Interr;4;5;2
+22700;Deleg. reasig.;4;3;0
+83907;Casual;4;4;0
+76397;Casual;3;4;3
+51155;Casual;8;2;0
+57867;Casual;5;1;1
+2335;Delegador;2;4;0
+1686;Delegador;3;3;0
+24222;Deleg. reasig.;5;2;1
+55303;Casual;7;2;1
+42429;Deleg. reasig.;6;2;1
+64478;Deleg. reasig.;5;1;2
+85084;Deleg. reasig.;5;1;0
+110364;Delegador;5;4;1
+15824;Delegador;5;4;0
+35017;Participativo;2;1;0
+102790;Casual;2;4;1
+30614;Interr;5;4;1
+31430;Deleg. reasig.;8;4;1
+102434;Interr;1;2;0
+57711;Delegador;6;2;1
+5604;Deleg. reasig.;4;2;0
+72229;Casual;6;6;0
+67031;Delegador;1;3;0
+630;Casual;3;4;0
+94358;Casual;7;4;0
+16502;Casual;4;2;1
+57025;Participativo;6;1;1
+15458;Delegador;4;4;1
+10699;Deleg. reasig.;3;3;2
+86961;Casual;2;3;1
+109416;Deleg. reasig.;5;1;1
+30253;Deleg. reasig.;6;2;0
+9535;Deleg. reasig.;3;2;0
+25705;Delegador;3;1;0
+114280;Interr;7;1;0
+36965;Deleg. reasig.;4;2;0
+95218;Casual;7;2;0
+55943;Casual;4;2;1
+25772;Casual;3;7;2
+80329;Deleg. reasig.;2;3;1
+83863;Delegador;1;2;0
+3971;Delegador;1;3;1
+97742;Deleg. reasig.;4;1;0
+2621;Deleg. reasig.;0;3;0
+98955;Casual;5;2;2
+92682;Delegador;2;1;1
+113728;Casual;6;3;2
+60507;Casual;10;5;1
+11453;Deleg. reasig.;4;1;1
+1923;Delegador;2;3;0
+91483;Casual;6;2;2
+114620;Casual;1;1;1
+104681;Deleg. reasig.;4;4;0
+33631;Casual;3;4;1
+5992;Deleg. reasig.;2;2;2
+12295;Delegador;2;2;0
+79419;Casual;4;2;0
+62308;Casual;9;2;2
+105782;Casual;7;2;1
+57485;Casual;4;5;1
+39939;Delegador;7;3;0
+9776;Delegador;3;2;0
+59023;Casual;8;1;2
+50347;Casual;7;5;0
+13916;Casual;3;3;0
+61081;Casual;5;1;0
+23569;Deleg. reasig.;5;3;0
+38468;Deleg. reasig.;3;2;1
+82121;Delegador;3;3;1
+98227;Interr;6;5;1
+26136;Delegador;2;2;0
+113812;Casual;2;1;0
+40008;Deleg. reasig.;6;4;0
+65378;Interr;2;1;0
+3035;Casual;3;7;1
+46177;Delegador;2;1;1
+59648;Casual;6;3;1
+33583;Deleg. reasig.;9;0;0
+16610;Delegador;4;3;1
+80273;Interr;3;2;0
+48351;Delegador;2;4;0
+27587;Delegador;1;2;0
+4508;Casual;3;1;0
+51947;Casual;4;3;1
+57747;Deleg. reasig.;5;3;0
+85328;Delegador;1;3;0
+47069;Casual;5;3;1
+93409;Casual;11;5;2
+36584;Deleg. reasig.;6;3;0
+39734;Casual;6;2;0
+94339;Casual;4;3;2
+3370;Interr;3;3;1
+97178;Casual;10;2;2
+48150;Delegador;6;2;1
+58938;Casual;11;4;1
+39136;Deleg. reasig.;2;1;0
+80450;Interr;9;3;0
+9480;Delegador;4;0;0
+72642;Casual;9;5;2
+1979;Casual;5;2;1
+105852;Casual;1;2;1
+815;Deleg. reasig.;3;1;1
+93281;Casual;7;3;1
+52225;Casual;5;2;1
+4548;Delegador;2;3;1
+64240;Deleg. reasig.;5;2;0
+46425;Casual;7;2;0
+11945;Delegador;3;2;1
+35106;Casual;5;0;1
+903;Interr;6;4;1
+36330;Deleg. reasig.;7;3;1
+20640;Delegador;3;1;0
+102467;Deleg. reasig.;1;3;1
+102888;Deleg. reasig.;4;3;0
+95283;Deleg. reasig.;3;4;1
+60979;Casual;4;2;1
+2505;Casual;1;2;0
+36607;Casual;5;3;1
+78747;Delegador;2;2;0
+20740;Delegador;2;1;0
+1225;Casual;4;0;3
+109155;Casual;3;2;2
+53734;Casual;4;5;1
+61030;Deleg. reasig.;3;2;0
+72659;Interr;5;0;1
+20068;Delegador;3;1;0
+2727;Deleg. reasig.;5;3;0
+48990;Deleg. reasig.;3;2;1
+33528;Deleg. reasig.;6;3;0
+15612;Participativo;2;2;1
+36846;Casual;3;1;1
+87205;Delegador;9;3;0
+2251;Deleg. reasig.;2;1;0
+9773;Deleg. reasig.;3;2;1
+39725;Deleg. reasig.;3;3;0
+67484;Delegador;3;3;0
+2497;Casual;4;4;2
+61753;Deleg. reasig.;1;2;1
+35838;Delegador;3;2;1
+63689;Deleg. reasig.;3;4;0
+28652;Casual;7;2;1
+7123;Deleg. reasig.;4;2;0
+34848;Participativo;1;1;1
+79940;Delegador;2;1;1
+28366;Delegador;4;3;1
+47524;Casual;7;1;1
+73287;Deleg. reasig.;4;5;1
+25061;Interr;1;2;1
+24407;Delegador;3;3;0
+31020;Casual;8;5;1
+94416;Interr;5;1;1
+97833;Delegador;10;3;1
+23054;Casual;5;2;2
+71740;Casual;5;1;1
+71315;Delegador;4;2;0
+76884;Deleg. reasig.;6;4;1
+49099;Delegador;6;5;1
+51961;Interr;3;4;1
+2611;Deleg. reasig.;1;0;0
+56131;Interr;4;6;0
+35892;Participativo;3;1;1
+27516;Delegador;3;2;0
+112736;Deleg. reasig.;2;0;0
+77168;Delegador;5;2;3
+9668;Deleg. reasig.;1;1;0
+27895;Interr;7;5;2
+47392;Casual;4;3;2
+28035;Deleg. reasig.;1;1;1
+93995;Delegador;5;0;0
+110454;Deleg. reasig.;5;0;1
+50757;Deleg. reasig.;2;2;0
+71967;Delegador;5;2;1
+92668;Deleg. reasig.;7;1;0
+20741;Casual;1;2;0
+59002;Deleg. reasig.;1;2;0
+33460;Delegador;4;0;0
+90241;Casual;4;3;1
+71497;Casual;10;3;2
+66143;Casual;4;1;0
+29620;Casual;3;2;1
+108167;Casual;10;1;0
+7979;Deleg. reasig.;4;5;0
+25805;Casual;4;4;0
+11993;Delegador;3;2;0
+4995;Deleg. reasig.;2;4;0
+21513;Interr;2;4;2
+35459;Delegador;4;2;0
+24807;Delegador;1;4;1
+86546;Deleg. reasig.;1;2;0
+682;Casual;4;7;2
+24087;Deleg. reasig.;3;4;0
+16611;Delegador;3;3;0
+44372;Casual;5;4;1
+97145;Deleg. reasig.;6;1;0
+235;Casual;5;5;1
+105809;Deleg. reasig.;1;2;0
+4412;Deleg. reasig.;2;1;1
+21326;Casual;5;3;0
+31332;Interr;6;2;1
+30170;Delegador;6;2;0
+59027;Casual;6;3;1
+6575;Deleg. reasig.;2;1;2
+115438;Delegador;4;2;0
+109233;Casual;5;4;0
+43789;Deleg. reasig.;5;4;1
+14766;Delegador;2;2;0
+70184;Interr;6;3;1
+79874;Casual;4;4;2
+63854;Casual;7;3;1
+43033;Deleg. reasig.;5;2;1
+25741;Delegador;2;2;0
+5504;Interr;3;4;0
+99494;Interr;1;1;0
+12962;Delegador;3;2;0
+110081;Casual;6;5;1
+24208;Interr;2;1;0
+6921;Casual;5;4;0
+21197;Delegador;2;1;1
+44185;Interr;5;3;1
+59880;Delegador;3;1;0
+77540;Delegador;1;3;0
+33495;Casual;5;3;1
+85952;Delegador;3;4;0
+78983;Casual;2;0;1
+28478;Participativo;5;2;1
+16524;Interr;5;3;1
+86642;Casual;5;1;1
+5998;Casual;1;2;0
+17791;Interr;4;2;1
+5179;Deleg. reasig.;5;3;0
+63366;Deleg. reasig.;3;2;0
+19926;Deleg. reasig.;1;2;0
+4745;Interr;5;4;0
+28028;Deleg. reasig.;3;2;0
+102763;Casual;3;4;2
+6713;Deleg. reasig.;6;2;0
+112620;Casual;2;1;1
+46908;Casual;5;4;0
+30744;Casual;4;2;0
+27420;Casual;2;3;1
+1269;Casual;6;5;1
+43139;Casual;6;4;4
+75634;Casual;5;2;0
+53121;Deleg. reasig.;3;2;1
+86563;Deleg. reasig.;3;3;2
+97552;Deleg. reasig.;2;2;2
+65338;Interr;3;3;1
+113939;Delegador;2;3;1
+25466;Delegador;3;1;0
+70869;Casual;4;5;1
+43007;Delegador;1;1;2
+106832;Delegador;3;2;0
+29261;Interr;8;1;0
+50377;Interr;4;2;1
+77611;Deleg. reasig.;7;3;2
+3953;Deleg. reasig.;0;3;1
+107408;Interr;2;1;1
+24163;Delegador;3;3;0
+70704;Deleg. reasig.;3;2;0
+50481;Interr;4;2;0
+44607;Interr;6;3;1
+2781;Interr;4;2;1
+28133;Interr;8;2;1
+94169;Delegador;3;1;0
+23428;Delegador;1;3;2
+33479;Delegador;4;1;0
+29537;Interr;4;4;0
+9410;Deleg. reasig.;1;2;0
+27496;Delegador;2;2;0
+9402;Casual;1;2;0
+54603;Deleg. reasig.;4;2;0
+62424;Interr;2;2;0
+7290;Casual;2;3;0
+47992;Delegador;4;6;1
+52985;Casual;4;2;2
+41655;Deleg. reasig.;3;1;0
+50376;Delegador;5;0;0
+94888;Delegador;8;1;1
+22181;Deleg. reasig.;4;3;0
+6368;Deleg. reasig.;4;2;0
+85949;Casual;7;3;0
+29736;Casual;5;4;1
+50197;Casual;7;3;0
+57094;Delegador;2;3;1
+57710;Casual;3;3;1
+61975;Delegador;3;2;1
+36682;Deleg. reasig.;7;1;0
+55551;Interr;3;2;0
+37390;Delegador;7;1;1
+113980;Casual;3;1;1
+57258;Deleg. reasig.;3;1;1
+15757;Delegador;3;1;0
+89351;Deleg. reasig.;5;0;0
+77311;Deleg. reasig.;4;2;1
+93163;Casual;7;5;2
+69351;Deleg. reasig.;2;1;1
+36088;Casual;4;4;1
+14289;Casual;3;3;1
+15577;Deleg. reasig.;4;2;0
+47043;Delegador;4;2;1
+34714;Deleg. reasig.;5;1;0
+21537;Delegador;2;1;1
+6588;Deleg. reasig.;3;3;0
+84309;Delegador;5;4;1
+42782;Delegador;4;1;1
+59328;Participativo;3;1;1
+9294;Casual;2;2;0
+79216;Deleg. reasig.;1;2;0
+54597;Interr;3;3;0
+14654;Casual;5;2;0
+96912;Deleg. reasig.;4;4;1
+85343;Interr;2;3;0
+102764;Casual;4;3;0
+54028;Interr;4;3;1
+14513;Interr;1;3;1
+71999;Interr;7;5;1
+59771;Participativo;6;2;1
+44152;Casual;5;2;0
+12448;Delegador;3;3;1
+33722;Casual;9;4;1
+12989;Delegador;1;2;1
+109709;Deleg. reasig.;6;0;1
+27047;Deleg. reasig.;1;4;0
+29654;Deleg. reasig.;4;2;1
+67166;Interr;6;3;1
+56084;Casual;8;6;1
+50965;Casual;4;2;1
+103707;Interr;1;1;1
+33993;Casual;5;2;2
+2376;Interr;4;1;0
+114802;Delegador;6;2;0
+52269;Interr;2;0;2
+52562;Delegador;6;1;0
+21633;Deleg. reasig.;4;5;0
+62903;Interr;7;3;1
+9278;Delegador;2;4;0
+84008;Delegador;1;3;1
+71966;Deleg. reasig.;5;2;2
+43153;Delegador;7;2;1
+35481;Delegador;5;3;1
+83225;Casual;3;3;1
+19976;Deleg. reasig.;3;2;0
+28792;Casual;8;4;1
+16711;Deleg. reasig.;3;3;0
+85795;Casual;6;3;1
+47070;Casual;9;4;1
+90038;Casual;5;2;0
+9693;Delegador;1;2;1
+33491;Casual;7;3;1
+42601;Interr;6;2;1
+32883;Delegador;4;3;0
+95478;Delegador;2;3;0
+63913;Deleg. reasig.;4;2;1
+55323;Deleg. reasig.;3;3;0
+43326;Casual;7;3;0
+99062;Deleg. reasig.;3;2;0
+39796;Delegador;6;2;1
+50280;Delegador;5;2;0
+11598;Deleg. reasig.;2;3;0
+34199;Deleg. reasig.;7;5;0
+104358;Interr;1;4;0
+115124;Interr;4;2;1
+84693;Interr;6;1;0
+69527;Deleg. reasig.;7;2;0
+67800;Delegador;4;4;0
+5546;Deleg. reasig.;2;3;0
+39303;Deleg. reasig.;2;2;1
+23486;Deleg. reasig.;3;2;1
+34245;Deleg. reasig.;6;1;0
+4172;Deleg. reasig.;5;1;0
+26908;Deleg. reasig.;1;3;0
+32108;Interr;8;1;0
+57443;Casual;7;1;1
+57529;Deleg. reasig.;7;1;0
+50906;Delegador;4;4;0
+17792;Deleg. reasig.;1;1;0
+26172;Interr;5;5;2
+29394;Casual;8;3;1
+7220;Delegador;1;3;0
+9435;Interr;4;4;1
+34821;Casual;5;2;0
+46323;Delegador;2;1;1
+11979;Deleg. reasig.;5;2;0
+55818;Deleg. reasig.;4;5;3
+21611;Deleg. reasig.;3;3;0
+8970;Interr;2;3;1
+6199;Interr;2;3;2
+21187;Delegador;7;3;0
+22145;Interr;5;3;0
+49508;Interr;5;1;3
+104431;Delegador;2;4;0
+37874;Deleg. reasig.;8;2;0
+499;Interr;3;4;0
+8190;Delegador;2;5;0
+52669;Interr;9;2;2
+90859;Delegador;6;1;0
+39482;Delegador;2;2;0
+8739;Deleg. reasig.;1;3;0
+13169;Interr;8;4;2
+31943;Delegador;9;3;0
+39819;Interr;5;3;1
+89299;Delegador;4;0;1
+9118;Delegador;2;2;0
+45152;Deleg. reasig.;3;2;1
+5746;Deleg. reasig.;2;2;0
+21178;Interr;3;3;1
+65669;Deleg. reasig.;3;1;2
+94977;Interr;7;2;1
+58710;Casual;6;2;1
+35638;Casual;3;3;1
+75549;Delegador;5;4;0
+79202;Delegador;5;3;1
+62277;Interr;6;4;0
+56967;Delegador;12;4;1
+56067;Delegador;2;1;1
+58305;Casual;7;4;0
+64979;Interr;6;1;1
+84208;Interr;4;1;1
+32363;Interr;4;4;1
+7859;Deleg. reasig.;5;2;1
+77698;Deleg. reasig.;2;1;1
+29774;Participativo;1;1;1
+36199;Interr;5;2;1
+85499;Delegador;2;1;1
+17146;Deleg. reasig.;2;1;0
+5146;Delegador;5;4;0
+64374;Casual;4;2;1
+42319;Delegador;2;1;1
+8255;Deleg. reasig.;1;3;0
+37081;Casual;5;0;0
+98351;Interr;4;3;0
+11895;Deleg. reasig.;5;0;1
+81437;Casual;5;1;1
+11734;Delegador;3;1;0
+51350;Deleg. reasig.;7;2;0
+33735;Interr;6;5;1
+31339;Casual;6;3;1
+84134;Delegador;3;1;0
+82041;Interr;4;2;1
+79720;Deleg. reasig.;5;1;1
+29372;Deleg. reasig.;4;0;0
+1228;Deleg. reasig.;1;2;0
+13956;Deleg. reasig.;4;2;2
+58230;Casual;8;2;2
+49214;Casual;6;3;1
+43980;Deleg. reasig.;11;1;0
+30788;Deleg. reasig.;5;2;0
+53562;Deleg. reasig.;6;3;0
+115105;Delegador;2;3;2
+71754;Delegador;4;2;1
+40979;Deleg. reasig.;10;3;0
+12852;Delegador;2;6;0
+91375;Deleg. reasig.;3;2;0
+4887;Casual;1;7;0
+2373;Deleg. reasig.;2;3;0
+110238;Casual;4;4;1
+30758;Delegador;3;2;0
+8024;Casual;5;6;0
+5598;Delegador;3;1;0
+65779;Delegador;3;3;2
+6172;Interr;4;4;2
+86930;Delegador;3;2;0
+32332;Casual;3;1;0
+15223;Deleg. reasig.;5;2;0
+3486;Delegador;3;1;0
+25892;Deleg. reasig.;4;3;0
+50982;Interr;6;2;0
+34672;Casual;7;2;1
+70409;Casual;6;4;1
+42325;Deleg. reasig.;5;2;1
+69199;Deleg. reasig.;4;2;1
+92012;Interr;5;5;1
+33347;Casual;7;2;1
+38027;Casual;3;2;0
+27395;Casual;5;3;2
+7258;Interr;3;3;0
+30156;Interr;6;2;1
+72061;Casual;7;3;1
+7911;Casual;6;4;0
+66603;Deleg. reasig.;1;3;1
+96462;Casual;3;1;1
+56889;Delegador;7;4;1
+36030;Deleg. reasig.;6;3;1
+3391;Casual;2;2;1
+75203;Participativo;9;6;1
+63917;Deleg. reasig.;5;4;1
+3466;Delegador;3;5;1
+23744;Casual;5;5;1
+114679;Interr;3;2;0
+42640;Casual;6;0;1
+53435;Deleg. reasig.;7;4;0
+87072;Interr;3;3;1
+40388;Deleg. reasig.;7;2;1
+50638;Interr;6;2;1
+7770;Casual;2;7;0
+30220;Interr;7;3;0
+18893;Delegador;2;3;0
+13733;Deleg. reasig.;2;1;0
+54828;Interr;11;2;1
+9272;Participativo;4;3;3
+64106;Delegador;5;4;1
+32106;Casual;4;3;0
+507;Deleg. reasig.;3;1;0
+64042;Casual;4;2;1
+98765;Casual;8;2;2
+6450;Interr;2;2;0
+84144;Casual;7;5;0
+6749;Delegador;2;3;1
+81620;Interr;9;1;0
+3578;Interr;5;5;1
+96146;Casual;4;5;2
+110843;Participativo;2;0;0
+40878;Interr;6;4;1
+102513;Interr;8;3;1
+4023;Casual;3;4;0
+27324;Interr;1;2;0
+24514;Casual;1;3;0
+60337;Casual;2;3;1
+65705;Deleg. reasig.;2;2;1
+34087;Deleg. reasig.;5;2;0
+95962;Casual;4;1;0
+35522;Deleg. reasig.;1;1;0
+89370;Deleg. reasig.;1;5;0
+84783;Participativo;3;4;1
+60909;Deleg. reasig.;2;2;1
+37019;Casual;4;2;1
+58007;Delegador;3;1;0
+30412;Deleg. reasig.;3;1;1
+89324;Delegador;3;1;0
+63204;Casual;7;5;2
+8267;Casual;3;4;2
+64888;Casual;9;4;1
+48438;Delegador;6;4;0
+43115;Participativo;7;4;1
+16337;Casual;3;2;1
+14552;Interr;1;1;1
+78778;Delegador;2;2;0
+79105;Interr;5;2;1
+35353;Interr;6;2;0
+104711;Casual;5;3;2
+97904;Interr;4;3;1
+384;Casual;5;4;0
+13174;Deleg. reasig.;4;3;0
+33029;Delegador;3;1;0
+40835;Deleg. reasig.;5;1;1
+15094;Deleg. reasig.;1;0;0
+99904;Deleg. reasig.;5;2;0
+92957;Deleg. reasig.;4;0;0
+70998;Delegador;3;1;0
+69075;Casual;5;3;1
+16292;Delegador;3;3;0
+78777;Delegador;7;3;1
+112801;Delegador;3;1;0
+98631;Interr;3;3;2
+29575;Casual;4;1;1
+26303;Casual;5;3;2
+2162;Casual;4;4;1
+43879;Casual;4;3;2
+5870;Deleg. reasig.;1;2;0
+76832;Delegador;3;2;0
+41524;Interr;3;3;1
+8335;Deleg. reasig.;1;2;1
+33250;Deleg. reasig.;9;5;0
+51397;Interr;3;2;0
+70967;Casual;0;2;3
+3780;Casual;2;2;1
+31342;Delegador;6;2;1
+91496;Casual;2;2;1
+7796;Interr;3;4;0
+68807;Deleg. reasig.;5;2;1
+33482;Casual;4;7;1
+36788;Interr;1;1;0
+41359;Casual;7;5;2
+51090;Casual;9;1;0
+30246;Delegador;2;3;1
+37615;Interr;7;2;1
+43519;Casual;4;3;1
+27694;Casual;6;4;1
+7624;Delegador;2;2;0
+34127;Casual;6;1;1
+29107;Delegador;3;1;1
+110110;Interr;8;4;3
+54405;Interr;5;2;2
+50535;Delegador;4;3;1
+105827;Participativo;6;3;2
+44599;Deleg. reasig.;9;3;0
+21417;Participativo;2;1;1
+112448;Interr;6;2;1
+20733;Participativo;1;2;0
+65129;Deleg. reasig.;2;2;1
+111706;Deleg. reasig.;3;1;0
+29356;Delegador;5;2;1
+18376;Casual;6;3;1
+68853;Delegador;2;1;1
+90369;Casual;9;1;1
+107815;Casual;4;4;0
+13678;Casual;3;6;0
+20880;Deleg. reasig.;4;5;1
+21653;Delegador;4;4;0
+34135;Deleg. reasig.;5;2;0
+27923;Delegador;7;5;1
+42453;Deleg. reasig.;4;2;1
+88122;Casual;11;2;1
+185;Delegador;4;1;0
+25542;Interr;2;3;0
+79566;Deleg. reasig.;3;2;2
+98492;Deleg. reasig.;2;1;0
+67766;Delegador;3;1;0
+61092;Deleg. reasig.;4;1;1
+55503;Delegador;4;3;0
+28790;Deleg. reasig.;4;3;1
+48398;Casual;4;1;1
+32125;Delegador;7;6;2
+28300;Deleg. reasig.;8;2;1
+112804;Delegador;2;2;0
+2443;Casual;2;3;1
+76027;Casual;6;1;2
+42196;Interr;6;1;2
+68524;Casual;5;2;1
+67178;Deleg. reasig.;7;4;0
+110022;Delegador;4;0;0
+74034;Delegador;3;1;0
+29546;Deleg. reasig.;2;2;1
+65153;Delegador;4;2;1
+11362;Casual;6;4;1
+86902;Deleg. reasig.;5;4;1
+46376;Deleg. reasig.;9;3;1
+40652;Delegador;3;1;0
+71990;Participativo;2;1;0
+41298;Casual;8;6;1
+87503;Casual;2;0;1
+64054;Participativo;3;1;1
+17868;Casual;2;3;0
+23610;Deleg. reasig.;4;3;0
+28851;Deleg. reasig.;4;2;1
+28349;Delegador;2;2;1
+25976;Deleg. reasig.;2;4;1
+48935;Casual;1;3;0
+3060;Delegador;3;2;0
+83963;Delegador;2;2;0
+94587;Deleg. reasig.;2;6;0
+36193;Interr;5;2;0
+88938;Deleg. reasig.;1;2;0
+65466;Deleg. reasig.;3;1;1
+7551;Delegador;6;3;1
+88997;Deleg. reasig.;5;2;2
+7067;Interr;4;3;2
+22424;Deleg. reasig.;1;2;1
+5318;Deleg. reasig.;3;1;1
+27570;Deleg. reasig.;2;5;1
+10167;Deleg. reasig.;3;2;1
+42116;Casual;4;2;0
+85394;Interr;4;2;2
+33165;Casual;6;1;1
+671;Deleg. reasig.;3;1;1
+51793;Casual;6;4;1
+27239;Interr;3;1;2
+25557;Delegador;4;4;0
+96478;Deleg. reasig.;1;2;0
+58548;Deleg. reasig.;7;2;0
+23866;Deleg. reasig.;1;2;0
+52255;Interr;4;4;0
+99286;Deleg. reasig.;5;3;1
+63895;Casual;3;1;0
+28224;Interr;5;3;1
+78030;Delegador;3;1;0
+72083;Participativo;6;3;1
+11679;Casual;5;4;0
+68915;Deleg. reasig.;7;2;1
+30054;Delegador;7;0;0
+107306;Delegador;4;2;0
+86435;Casual;7;1;0
+24869;Deleg. reasig.;4;3;0
+58898;Delegador;3;2;2
+86430;Delegador;4;4;2
+113993;Deleg. reasig.;2;1;1
+21756;Interr;3;1;0
+11047;Delegador;6;4;0
+34955;Casual;10;5;1
+586;Deleg. reasig.;3;1;0
+55072;Casual;3;2;0
+43306;Interr;8;4;1
+56699;Interr;8;3;0
+103047;Deleg. reasig.;2;2;2
+34788;Delegador;3;1;0
+3506;Deleg. reasig.;1;2;0
+10575;Deleg. reasig.;5;2;0
+69716;Interr;4;1;1
+79168;Casual;7;3;2
+40451;Delegador;2;3;0
+706;Delegador;5;6;0
+28675;Participativo;6;2;1
+77668;Delegador;4;2;1
+53883;Casual;6;4;0
+43330;Interr;7;4;1
+48219;Deleg. reasig.;6;3;0
+54992;Delegador;4;4;0
+33378;Casual;5;4;2
+98758;Delegador;2;1;1
+27596;Delegador;2;2;0
+366;Interr;6;6;2
+62305;Deleg. reasig.;8;2;3
+5145;Casual;2;2;0
+5660;Casual;2;4;1
+90419;Interr;6;3;1
+76721;Interr;5;3;0
+57394;Delegador;2;2;1
+16603;Casual;1;3;1
+108869;Casual;3;3;0
+64377;Delegador;1;4;0
+17363;Delegador;3;5;1
+10458;Deleg. reasig.;4;3;0
+37688;Deleg. reasig.;3;2;0
+90171;Participativo;2;2;0
+87401;Interr;4;1;0
+104773;Interr;2;1;0
+51305;Delegador;4;1;1
+69229;Deleg. reasig.;3;2;1
+46664;Casual;8;3;2
+1654;Delegador;2;4;0
+34124;Interr;6;4;1
+84376;Delegador;1;2;0
+35607;Casual;2;2;1
+38402;Delegador;5;3;0
+52340;Casual;3;2;2
+61293;Participativo;3;2;1
+38013;Casual;6;2;0
+66733;Casual;8;2;1
+62231;Interr;7;2;1
+17725;Interr;4;2;0
+57382;Deleg. reasig.;6;4;1
+3343;Participativo;1;1;0
+16399;Casual;4;2;1
+44855;Delegador;3;0;1
+257;Delegador;5;3;0
+33686;Casual;5;3;2
+60610;Casual;7;1;1
+637;Delegador;3;1;0
+1098;Delegador;1;4;0
+48230;Casual;6;5;0
+77477;Interr;5;1;1
+33293;Deleg. reasig.;5;4;0
+92651;Deleg. reasig.;2;2;0
+42747;Casual;8;2;1
+30153;Interr;8;3;1
+89986;Delegador;2;2;1
+4438;Deleg. reasig.;3;3;0
+3299;Delegador;2;3;0
+70648;Deleg. reasig.;4;4;2
+54083;Deleg. reasig.;4;2;0
+34603;Interr;5;2;2
+25197;Deleg. reasig.;2;2;0
+59197;Casual;6;2;1
+10858;Delegador;1;3;0
+110104;Casual;5;2;2
+102801;Interr;5;3;0
+90066;Deleg. reasig.;0;4;0
+72727;Delegador;3;1;0
+55823;Deleg. reasig.;11;0;1
+115276;Deleg. reasig.;3;1;1
+34667;Casual;5;3;0
+40627;Deleg. reasig.;5;5;0
+37192;Interr;7;2;0
+5900;Deleg. reasig.;1;3;1
+33815;Deleg. reasig.;12;3;0
+28997;Interr;5;3;1
+378;Delegador;7;1;2
+47417;Casual;8;2;2
+19077;Deleg. reasig.;2;2;0
+46374;Casual;10;2;2
+60326;Casual;6;4;2
+90883;Participativo;0;1;1
+78156;Delegador;3;3;0
+3110;Interr;5;2;0
+31504;Deleg. reasig.;5;1;1
+73593;Delegador;3;1;1
+13728;Deleg. reasig.;2;2;0
+21506;Deleg. reasig.;2;4;0
+63993;Delegador;7;3;2
+84291;Casual;4;3;1
+4473;Delegador;2;3;0
+52733;Delegador;1;3;0
+42057;Casual;6;5;3
+111864;Delegador;2;2;2
+30077;Casual;7;3;1
+50040;Casual;5;3;1
+664;Casual;3;3;2
+6642;Deleg. reasig.;3;2;0
+39304;Delegador;4;2;0
+57794;Delegador;3;3;0
+62810;Casual;6;5;1
+55563;Participativo;4;2;0
+7533;Interr;2;2;0
+56296;Delegador;5;1;2
+46773;Participativo;5;2;2
+71167;Casual;6;6;1
+29494;Participativo;3;3;0
+29100;Casual;4;2;2
+2025;Deleg. reasig.;4;1;2
+37389;Deleg. reasig.;4;3;1
+16960;Delegador;3;3;0
+9921;Deleg. reasig.;4;4;0
+42614;Delegador;2;2;0
+93991;Casual;5;1;1
+26325;Deleg. reasig.;3;3;0
+91407;Deleg. reasig.;6;5;0
+40243;Delegador;5;0;0
+22375;Delegador;3;4;0
+110064;Participativo;4;1;1
+114337;Casual;2;2;1
+94994;Interr;4;2;1
+66043;Casual;6;1;2
+15129;Delegador;1;5;0
+64380;Deleg. reasig.;7;3;0
+59656;Deleg. reasig.;2;0;1
+70734;Interr;1;1;2
+1422;Casual;3;2;2
+45092;Deleg. reasig.;3;2;2
+107260;Delegador;4;1;0
+94293;Casual;3;2;1
+34217;Deleg. reasig.;6;1;2
+43691;Delegador;2;3;0
+43994;Delegador;3;2;0
+12083;Deleg. reasig.;4;1;0
+27207;Casual;3;3;0
+94489;Casual;3;3;0
+66997;Casual;7;0;2
+12810;Delegador;7;2;1
+113230;Deleg. reasig.;5;2;1
+9536;Casual;2;0;1
+68548;Interr;6;2;0
+78868;Casual;7;4;1
+31842;Casual;2;2;1
+457;Delegador;5;3;0
+65628;Delegador;6;0;0
+21503;Deleg. reasig.;4;2;0
+32979;Casual;6;2;1
+8742;Deleg. reasig.;2;2;1
+64759;Interr;8;5;1
+6057;Participativo;3;5;2
+81708;Casual;7;2;0
+2051;Casual;2;2;2
+56620;Interr;7;2;0
+8616;Delegador;2;1;1
+7882;Delegador;1;2;1
+65569;Interr;2;2;1
+32638;Deleg. reasig.;2;1;1
+3565;Interr;2;1;1
+26173;Deleg. reasig.;2;2;0
+41165;Deleg. reasig.;6;1;0
+90285;Deleg. reasig.;4;0;0
+64357;Delegador;2;2;0
+20804;Casual;2;2;1
+44071;Casual;6;1;1
+14299;Deleg. reasig.;4;2;0
+55953;Delegador;8;3;0
+36431;Delegador;3;1;0
+77524;Interr;6;2;1
+97636;Deleg. reasig.;1;2;0
+90485;Casual;2;1;0
+98575;Deleg. reasig.;5;3;0
+34382;Delegador;4;1;0
+3650;Delegador;4;4;0
+67399;Deleg. reasig.;2;3;0
+47988;Casual;5;3;0
+35222;Interr;5;4;0
+114013;Interr;6;2;1
+71759;Casual;8;2;1
+108754;Delegador;2;2;0
+90941;Deleg. reasig.;3;0;1
+93880;Deleg. reasig.;2;2;1
+30009;Casual;3;4;1
+94399;Interr;6;0;1
+32983;Casual;5;1;0
+32550;Deleg. reasig.;6;2;0
+93459;Deleg. reasig.;3;2;1
+58844;Casual;4;6;0
+93640;Delegador;3;3;1
+104565;Interr;11;2;1
+67764;Casual;3;6;0
+12205;Deleg. reasig.;1;1;1
+24337;Deleg. reasig.;4;4;0
+105619;Deleg. reasig.;8;4;3
+79821;Casual;3;1;0
+45668;Casual;5;4;0
+39778;Delegador;4;3;0
+44597;Delegador;6;3;1
+28077;Interr;7;5;1
+90907;Deleg. reasig.;3;2;0
+2414;Deleg. reasig.;3;1;0
+53878;Casual;6;2;0
+92018;Delegador;4;1;0
+88578;Deleg. reasig.;1;3;0
+90486;Interr;2;3;1
+114957;Deleg. reasig.;8;3;2
+42237;Casual;3;1;0
+88452;Interr;6;3;3
+62867;Interr;3;1;1
+4877;Interr;3;2;1
+25368;Delegador;3;4;0
+82938;Deleg. reasig.;2;2;0
+45553;Delegador;6;1;1
+103572;Delegador;2;1;0
+31321;Interr;2;2;2
+77185;Interr;2;2;2
+1556;Deleg. reasig.;0;1;2
+23977;Casual;2;2;1
+95064;Deleg. reasig.;5;2;1
+89183;Interr;4;6;1
+43034;Casual;8;3;0
+81888;Delegador;8;5;1
+36861;Interr;5;1;0
+57415;Casual;3;3;3
+91819;Casual;2;4;0
+42530;Casual;4;2;1
+136;Delegador;5;6;0
+67927;Delegador;2;1;1
+103310;Casual;10;6;1
+46560;Deleg. reasig.;4;2;0
+3970;Deleg. reasig.;2;4;1
+111855;Casual;3;4;1
+2378;Deleg. reasig.;2;0;1
+42286;Delegador;2;2;1
+27866;Casual;7;4;1
+6955;Deleg. reasig.;2;1;0
+55892;Interr;3;1;2
+42967;Deleg. reasig.;6;0;0
+94400;Delegador;5;0;0
+1301;Interr;5;2;1
+9498;Deleg. reasig.;3;2;1
+97034;Deleg. reasig.;1;2;0
+106083;Delegador;5;1;0
+87281;Casual;5;4;2
+56934;Delegador;2;4;0
+56260;Deleg. reasig.;4;5;1
+63507;Interr;5;1;0
+24249;Participativo;5;2;2
+20999;Deleg. reasig.;7;2;0
+76264;Casual;4;1;1
+54783;Interr;4;5;2
+26238;Participativo;2;1;0
+115204;Deleg. reasig.;4;0;0
+11643;Delegador;2;4;0
+33672;Deleg. reasig.;8;4;1
+35266;Casual;6;3;0
+66966;Interr;3;6;1
+21318;Delegador;1;2;1
+26772;Delegador;4;3;0
+23928;Delegador;7;4;0
+113208;Casual;3;3;1
+110328;Interr;5;3;0
+32618;Deleg. reasig.;2;2;1
+25329;Deleg. reasig.;2;1;0
+28874;Casual;8;3;0
+71517;Casual;6;4;0
+32139;Casual;7;5;1
+48258;Interr;4;4;0
+23719;Casual;2;3;0
+21970;Delegador;2;2;0
+86836;Interr;7;6;1
+31868;Casual;6;5;0
+28856;Delegador;6;1;0
+77785;Deleg. reasig.;3;2;0
+104207;Deleg. reasig.;4;2;1
+12988;Participativo;1;3;1
+7283;Deleg. reasig.;4;1;0
+20184;Interr;6;4;2
+80303;Casual;3;0;2
+32058;Casual;10;5;0
+10521;Deleg. reasig.;4;1;0
+81315;Casual;8;5;1
+48729;Casual;5;2;1
+56965;Casual;6;3;1
+79057;Casual;8;3;1
+64376;Interr;6;4;1
+87759;Casual;3;1;1
+46927;Interr;10;4;2
+94122;Interr;3;2;1
+11022;Casual;3;5;0
+50122;Delegador;1;2;1
+1286;Casual;6;3;0
+58998;Deleg. reasig.;8;3;1
+49836;Delegador;5;2;2
+108870;Participativo;1;5;0
+66008;Deleg. reasig.;7;3;1
+60861;Casual;6;2;1
+27357;Casual;5;1;0
+97419;Delegador;2;3;0
+40064;Deleg. reasig.;7;2;1
+7688;Delegador;3;5;1
+85753;Deleg. reasig.;3;4;1
+55567;Deleg. reasig.;8;5;0
+89887;Deleg. reasig.;2;2;0
+71516;Delegador;5;3;0
+92653;Delegador;1;3;0
+15375;Deleg. reasig.;0;1;0
+7986;Deleg. reasig.;3;3;0
+10899;Participativo;4;1;0
+103556;Delegador;2;2;0
+27421;Participativo;4;4;0
+61722;Deleg. reasig.;3;2;1
+29101;Interr;7;2;0
+50533;Deleg. reasig.;3;2;0
+33667;Deleg. reasig.;7;1;0
+65095;Participativo;1;1;1
+23487;Interr;4;5;0
+35283;Casual;10;4;1
+26968;Deleg. reasig.;2;1;1
+28716;Deleg. reasig.;8;3;1
+57799;Deleg. reasig.;8;1;1
+11501;Delegador;6;3;0
+91107;Deleg. reasig.;6;3;1
+2368;Casual;2;2;1
+23615;Delegador;5;2;1
+34121;Delegador;5;1;0
+29532;Delegador;7;0;1
+17833;Deleg. reasig.;2;1;0
+28734;Delegador;4;3;0
+36603;Delegador;3;1;0
+37745;Casual;3;2;1
+99568;Deleg. reasig.;4;2;0
+104377;Delegador;4;2;0
+4676;Casual;4;4;0
+36618;Deleg. reasig.;3;1;1

@@ -1,0 +1,9 @@
+digraph "Interacciones" { rankdir=TB;
+concentrate = true;
+bgcolor = "#646464";
+fontcolor = "white";
+label = "ED labeled relation frequency (Subcon. coord.). Derivations:4118 Sample: 274
+relation threshold = 0   time = 120   node freq = 0   relation freq = 0.001";
+labelloc = "t";
+NO_INFO->NO_INFO[arrowsize = 0.5 color = "white" label = "  1.0" arrowhead = normal fontcolor = "yellow" fontsize = "12" style = "solid" penwidth = 3.0]
+}

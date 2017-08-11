@@ -1,8 +1,8 @@
 __author__ = 'Camilo'
 
 import numpy as np
-import pylab as pl
-from scipy.stats import t, norm, f
+#import pylab as pl
+#from scipy.stats import t, norm, f
 import operator
 
 chi_table = {}
@@ -486,7 +486,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             print(reader.readline().split(';')[2])
             s1 = []
             for line in reader:
@@ -496,7 +496,7 @@ def detailed_adherence_test(clusters):
                 
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             reader.readline()
             s2 = []
             for line in reader:
@@ -542,7 +542,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             print(reader.readline().split(';')[4])
             s1 = []
             for line in reader:
@@ -551,7 +551,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[3])/float(lista[4]))
 
             reader.close()
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             reader.readline()
             s2 = []
             for line in reader:
@@ -594,7 +594,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -605,7 +605,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[5])/float(lista[6]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[6])
             s2 = []
@@ -649,7 +649,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -660,7 +660,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[7])/float(lista[8]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[8])
             s2 = []
@@ -705,7 +705,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -716,7 +716,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[9])/float(lista[10]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[10])
             s2 = []
@@ -759,7 +759,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -770,7 +770,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[11])/float(lista[12]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[12])
             s2 = []
@@ -813,7 +813,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -824,7 +824,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[13])/float(lista[14]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[14])
             s2 = []
@@ -868,7 +868,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -879,7 +879,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[15])/float(lista[16]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[16])
             s2 = []
@@ -923,7 +923,7 @@ def detailed_adherence_test(clusters):
     for i in range(len(clusters)-1):
         writer.write(clusters[i] + ';' + ';'*index_list)
         for j in range(i+1, len(clusters)):
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[i]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[i]+'.csv', 'r')
             s = reader.readline().split(';')
             #print(s)
             #print(s[6])
@@ -934,7 +934,7 @@ def detailed_adherence_test(clusters):
                     s1.append(float(lista[17])/float(lista[18]))
             reader.close()
 
-            reader = open('Reports/Explicit Derivation/PAD R '+clusters[j]+'.csv', 'r')
+            reader = open('Reports/Explicit Derivation/Nuevos Clusters/PAD R '+clusters[j]+'.csv', 'r')
             s = reader.readline().split(';')
             print(s[18])
             s2 = []
@@ -1092,8 +1092,8 @@ if __name__ == "__main__":
     clusters = ['Delegador', 'Deleg. reasig.', 'Subcon. simple', 'Subcon. multiple', 'Subcon. coord.', "Grupo2", "Grupo Int2"]
     
     #indepence_test("AdherenciaCTCV_label.csv", 0.99)
-    adherence_test(clusters)
-    #detailed_adherence_test(clusters)
+    #adherence_test(clusters)
+    detailed_adherence_test(clusters)
     #normalized_explicit_test(clusters, 1)
 
     '''

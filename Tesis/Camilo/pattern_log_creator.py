@@ -1,13 +1,15 @@
 from datetime import datetime, timedelta
 
 reader = open("report_log_adherencia_V4.csv", "r")
-writer = open("transition_log_V5.csv", "w")
+writer = open("transition_log_V6.csv", "w")
 
 report = open("report_interruption.csv", "w")
 report.write("paciente;secuencia;nodos X;nodos O;duracion X;duracion O;Proporcion grupo\n")
 
 reader.readline()
 patient_dic = {}
+patient_prof = {}
+patient_t = {}
 
 lineal_label = "Delegador"
 lineal_auto_label = "Deleg. reasig."
@@ -19,12 +21,14 @@ sin_tipo_label = "sin_tipo"
 
 times_matter = False
 sin_tipo = True
+corrected_treatment = {}
 
 for line in reader:
     lista = line.strip().split(';')
     patient = lista[1]
     start = lista[2]
     end = lista[3]
+    prof = lista[5]
     type = lista[8]
     number = lista[9]
 
@@ -32,6 +36,7 @@ for line in reader:
         new = True
         diff = 0
         patient_dic[patient] = []
+        patient_prof[patient] = []
 
     if type in [collaboration_label, hybrid_label, derivation_label]:
         if new:
@@ -48,6 +53,12 @@ for line in reader:
         else:
             continue
 
+    if type == lineal_label:
+        if prof not in patient_prof[patient]:
+            patient_prof[patient].append(prof)
+        else:
+            patient_t[patient] = "Delegador"
+
     if len(patient_dic[patient]) > 0:
         last = patient_dic[patient][-1]
         if last[0] != type or last[1] != number:
@@ -57,7 +68,7 @@ for line in reader:
     else:
         patient_dic[patient].append([type, number, start, end])
 
-corrected_treatment = {}
+
 ###########################FALTA CONSIDERAR TIEMPO DE TRANSICION ENTRE DOS GRUPOS
 
 for p in patient_dic:
@@ -110,14 +121,14 @@ for p in patient_dic:
             #print(p, t)
             continue
 
-        if time_in_group_treatment > 0.7:
+        if time_in_group_treatment > 0.5:
             corrected_treatment[p] = [["Participativo", "", t[pattern_index][2], t[last_index][3]]]
 
-        elif time_in_group_treatment > 0.3:
+        #elif time_in_group_treatment > 0.3:
             #if 'OO' in s:
             #    corrected_treatment[p] = [["Interr conj", "", t[pattern_index][2], t[last_index][3]]]
             #else:
-                corrected_treatment[p] = [["Interr", "", t[pattern_index][2], t[last_index][3]]]
+        #        corrected_treatment[p] = [["Interr", "", t[pattern_index][2], t[last_index][3]]]
 
         else:
             corrected_treatment[p] = [["Casual", "", t[pattern_index][2], t[last_index][3]]]
@@ -134,6 +145,8 @@ for p in patient_dic:
                 continue
             if t[0] in [derivation_label, collaboration_label, star_label]:
                 t[0] = "Participativo"
+            if t[0] == "Delegador" and p not in patient_t:
+                t[0] = "Delegador puro"
             if times_matter:
                 writer.write(p + ';' + p + ';' + t[0] + t[1] + ';' + t[2]+ ';' + t[3] + '\n')
             else:

@@ -1,0 +1,20 @@
+digraph "Interacciones" { rankdir=TB;
+concentrate = true;
+bgcolor = "#646464";
+fontcolor = "white";
+label = "ED adherence (Subcon. multiple). Derivations:4021 Sample: 324
+relation threshold = 0   time = 120   node freq = 0   relation freq = 0.001";
+labelloc = "t";
+MEDICO [label =MEDICO shape = hexagon style = "filled" fillcolor = "#6666FF" fontcolor = black]
+ENFERMERA [label =ENFERMERA shape = box style = "filled" fillcolor = "#8888FF" fontcolor = black]
+NUTRICIONISTA [label =NUTRICIONISTA shape = ellipse style = "filled" fillcolor = "#BBBBFF" fontcolor = black]
+ENFERMERA->ENFERMERA[arrowsize = 0.695894224078 color = "#F2F000" label = " 56.3%, 215" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.40346099023]
+MEDICO->MEDICO[arrowsize = 0.765110941086 color = "#81E400" label = " 69.3%, 1200" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.68320052259]
+ENFERMERA->MEDICO[arrowsize = 0.771604938272 color = "#35E400" label = " 70.4%, 777" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.70600530846]
+NUTRICIONISTA->MEDICO[arrowsize = 0.793650793651 color = "#35E400" label = " 74.0%, 281" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.77975160615]
+ENFERMERA->NUTRICIONISTA[arrowsize = 0.724112961622 color = "#81E400" label = " 61.9%, 147" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.52634639343]
+MEDICO->NUTRICIONISTA[arrowsize = 0.693962526024 color = "#F2F000" label = " 55.9%, 247" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.39453874229]
+MEDICO->ENFERMERA[arrowsize = 0.705716302047 color = "#F2F000" label = " 58.3%, 967" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.44777900046]
+NUTRICIONISTA->ENFERMERA[arrowsize = 0.741839762611 color = "#81E400" label = " 65.2%, 155" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.59704828936]
+NUTRICIONISTA->NUTRICIONISTA[arrowsize = 0.6038647343 color = "#F06800" label = " 34.4%, 32" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 1.88342456212]
+}

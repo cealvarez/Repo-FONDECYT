@@ -1,36 +1,54 @@
-mal_empeora;0.1;5
-mal_igual;0.05;20
-mal_mejora;0.106995884774;81
+Mejora;0.643583099703;241
+Compensado;0.65279958585;531
+Medianamente Descompensado;0.623280019757;298
+Altamente Descompensado;0.609110152738;918
+Global;0.627082833609;1988
 
-mal_empeora;0.0;2
-mal_igual;0.5;10
-mal_mejora;0.301724137931;58
+Mejora;0.585579044772;223
+Compensado;0.595168774581;561
+Medianamente Descompensado;0.58212693104;299
+Altamente Descompensado;0.516466810105;837
+Global;0.557714834355;1920
 
-mal_empeora;0.5;2
-mal_igual;1.0;3
-mal_mejora;0.714285714286;28
+Mejora;0.551851851852;135
+Compensado;0.584370946822;257
+Medianamente Descompensado;0.557291666667;160
+Altamente Descompensado;0.509824787703;443
+Global;0.542414453218;995
 
-mal_empeora;0.5;2
-mal_igual;0.4;5
-mal_mejora;0.381481481481;45
+Mejora;0.663410314054;233
+Compensado;0.677288459243;532
+Medianamente Descompensado;0.669834699884;302
+Altamente Descompensado;0.617959049498;845
+Global;0.648199550043;1912
 
-mal_empeora;0.0;1
-mal_igual;0.0;2
-mal_mejora;0.3;15
+Mejora;0.512121212121;110
+Compensado;0.532083333333;240
+Medianamente Descompensado;0.515185185185;135
+Altamente Descompensado;0.485009057971;368
+Global;0.506525986714;853
 
-mal_empeora;0.0;1
-mal_igual;1.0;1
-mal_mejora;0.375;8
+Mejora;0.576291079812;71
+Compensado;0.677892918826;193
+Medianamente Descompensado;0.613861386139;101
+Altamente Descompensado;0.540519877676;218
+Global;0.603058890795;583
 
-mal_empeora;nan;0
-mal_igual;0.25;2
-mal_mejora;0.4;40
+Mejora;0.735382513661;122
+Compensado;0.755190658639;261
+Medianamente Descompensado;0.768444444444;150
+Altamente Descompensado;0.704593253968;480
+Global;0.730792553942;1013
 
-mal_empeora;0.0;1
-mal_igual;0.0;4
-mal_mejora;0.477272727273;22
+Mejora;0.591575091575;91
+Compensado;0.724954462659;183
+Medianamente Descompensado;0.639455782313;98
+Altamente Descompensado;0.581666666667;300
+Global;0.630456349206;672
 
-mal_empeora;nan;0
-mal_igual;0.0;1
-mal_mejora;0.0;3
+Mejora;0.561594202899;23
+Compensado;0.535087719298;38
+Medianamente Descompensado;0.533333333333;15
+Altamente Descompensado;0.383333333333;70
+Global;0.466324200913;146
 

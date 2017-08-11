@@ -1,45 +1,63 @@
 MEDICO->MEDICO
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;32.945%;47.687%
-mal_igual;;;18.698%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;36.858%;24.84%;8.039%;23.433%
+Compensado;;;12.339%;0.929%;6.736%
+Medianamente Descompensado;;;;26.314%;42.722%
+Altamente Descompensado;;;;;7.733%
 
 MEDICO->ENFERMERA
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;0.748%;0.0%
-mal_igual;;;11.029%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;36.617%;45.629%;0.548%;13.574%
+Compensado;;;30.239%;0.003%;1.434%
+Medianamente Descompensado;;;;0.328%;13.58%
+Altamente Descompensado;;;;;0.275%
 
 MEDICO->NUTRICIONISTA
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;25.0%;26.966%
-mal_igual;;;0.141%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;25.301%;45.885%;17.073%;41.006%
+Compensado;;;27.732%;1.789%;9.329%
+Medianamente Descompensado;;;;12.453%;34.925%
+Altamente Descompensado;;;;;10.263%
 
 ENFERMERA->MEDICO
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;42.284%;36.877%
-mal_igual;;;46.797%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;30.857%;41.617%;4.364%;26.828%
+Compensado;;;38.234%;0.129%;4.645%
+Medianamente Descompensado;;;;1.43%;16.031%
+Altamente Descompensado;;;;;1.972%
 
 ENFERMERA->ENFERMERA
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;N/A;-
-mal_igual;;;0.746%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;35.322%;47.935%;29.351%;45.21%
+Compensado;;;36.585%;10.783%;22.265%
+Medianamente Descompensado;;;;25.62%;41.915%
+Altamente Descompensado;;;;;22.568%
 
 ENFERMERA->NUTRICIONISTA
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;-;-
-mal_igual;;;-
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;5.303%;29.989%;29.313%;32.438%
+Compensado;;;12.296%;0.151%;2.564%
+Medianamente Descompensado;;;;10.037%;41.478%
+Altamente Descompensado;;;;;4.766%
 
 NUTRICIONISTA->MEDICO
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;-;-
-mal_igual;;;33.436%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;32.384%;24.271%;23.101%;45.257%
+Compensado;;;36.792%;5.256%;18.914%
+Medianamente Descompensado;;;;4.602%;13.965%
+Altamente Descompensado;;;;;12.182%
 
 NUTRICIONISTA->ENFERMERA
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;N/A;-
-mal_igual;;;0.01%
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;0.825%;23.603%;42.959%;22.224%
+Compensado;;;5.636%;0.036%;0.565%
+Medianamente Descompensado;;;;14.287%;42.733%
+Altamente Descompensado;;;;;6.294%
 
 NUTRICIONISTA->NUTRICIONISTA
-;mal_empeora;mal_igual;mal_mejora
-mal_empeora;;N/A;N/A
-mal_igual;;;N/A
+;Mejora;Compensado;Medianamente Descompensado;Altamente Descompensado;Global
+Mejora;;41.799%;43.187%;5.89%;18.881%
+Compensado;;;49.538%;5.75%;21.702%
+Medianamente Descompensado;;;;13.564%;30.508%
+Altamente Descompensado;;;;;11.603%
 

@@ -1,0 +1,19 @@
+digraph "Interacciones" { rankdir=TB;
+concentrate = true;
+bgcolor = "#646464";
+fontcolor = "white";
+label = "Mean Adherence MTC. Derivations: Sample: 784";
+labelloc = "t";
+MEDICO [label =MEDICO shape = hexagon style = "filled" fillcolor = "#7777FF" fontcolor = black]
+ENFERMERA [label =ENFERMERA shape = box style = "filled" fillcolor = "#7777FF" fontcolor = black]
+NUTRICIONISTA [label =NUTRICIONISTA shape = ellipse style = "filled" fillcolor = "#7777FF" fontcolor = black]
+ENFERMERA->ENFERMERA[arrowsize = 0.624804748516 color = "#F06800" label = " 39.95%, 326" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.02168057813]
+MEDICO->MEDICO[arrowsize = 0.680364675466 color = "#F2F000" label = " 53.02%, 680" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.32971013143]
+ENFERMERA->MEDICO[arrowsize = 0.66746762782 color = "#F2F000" label = " 50.18%, 743" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.26474660811]
+NUTRICIONISTA->MEDICO[arrowsize = 0.741949844191 color = "#81E400" label = " 65.22%, 213" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.59747303528]
+ENFERMERA->NUTRICIONISTA[arrowsize = 0.670600858369 color = "#F2F000" label = " 50.88%, 113" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.28085602546]
+MEDICO->NUTRICIONISTA[arrowsize = 0.632071297642 color = "#F0A800" label = " 41.79%, 235" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.06649182231]
+MEDICO->ENFERMERA[arrowsize = 0.690607734807 color = "#F2F000" label = " 55.2%, 648" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.37887723122]
+NUTRICIONISTA->ENFERMERA[arrowsize = 0.712352186921 color = "#F2F000" label = " 59.62%, 136" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.47676477861]
+NUTRICIONISTA->NUTRICIONISTA[arrowsize = 0.654535934023 color = "#F0A800" label = " 47.22%, 117" arrowhead = normal fontcolor = "white" fontsize = "12" style = "solid" penwidth = 2.19590754153]
+}

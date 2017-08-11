@@ -1,0 +1,2217 @@
+id_paciente;transicion;medicos;enfermeras;nutricionistas;medicos NC;enfermeras NC;nutricionistas NC
+25799;Delegador;0;0;0;1;3;0
+77915;Deleg. reasig.;0;0;0;2;2;1
+33347;Casual;2;0;0;6;2;1
+90907;Deleg. reasig.;0;0;0;3;2;0
+36689;Casual;1;1;0;5;3;1
+60326;Casual;1;0;1;5;4;2
+31903;Casual;1;1;0;4;3;0
+28734;Delegador;0;0;0;4;3;0
+28512;Deleg. reasig.;0;0;0;4;1;0
+47641;Interr;2;1;0;3;2;0
+46569;Delegador;0;0;0;4;0;0
+30077;Casual;2;2;0;5;1;1
+49836;Delegador;0;0;0;5;2;2
+46177;Delegador;0;0;0;2;1;1
+77168;Delegador;0;0;0;5;2;3
+101471;Casual;1;1;0;3;2;0
+27421;Participativo;4;4;0;0;0;0
+20467;Interr;1;1;0;0;1;1
+29654;Deleg. reasig.;0;0;0;4;2;1
+50140;Casual;2;1;0;7;1;1
+55818;Deleg. reasig.;0;0;0;4;5;3
+47070;Casual;1;1;0;9;3;1
+78986;Delegador;0;0;0;7;2;0
+70841;Deleg. reasig.;0;0;0;6;2;0
+57747;Deleg. reasig.;0;0;0;5;3;0
+378;Delegador;0;0;0;7;1;2
+97418;Deleg. reasig.;0;0;0;2;3;0
+113812;Casual;1;1;0;1;1;0
+1654;Delegador;0;0;0;2;4;0
+101312;Deleg. reasig.;0;0;0;5;1;1
+92998;Deleg. reasig.;0;0;0;1;1;1
+38402;Delegador;0;0;0;5;3;0
+80303;Casual;2;0;2;2;0;0
+13167;Delegador;0;0;0;6;4;1
+37424;Casual;2;1;1;5;3;1
+52651;Casual;1;2;1;2;2;0
+96462;Casual;1;1;0;3;0;1
+107516;Delegador;0;0;0;2;2;0
+91672;Delegador;0;0;0;3;1;1
+104911;Casual;1;1;1;3;3;2
+36989;Interr;5;2;0;4;3;0
+21756;Interr;2;0;0;1;1;0
+28792;Casual;2;1;0;7;4;1
+4086;Casual;0;1;1;0;3;2
+50197;Casual;2;0;0;5;3;0
+39310;Delegador;0;0;0;5;1;1
+235;Casual;1;2;0;4;4;1
+48346;Casual;1;1;1;4;2;0
+85780;Casual;1;1;0;2;2;0
+27866;Casual;2;2;1;5;2;0
+33667;Deleg. reasig.;0;0;0;7;1;0
+5604;Deleg. reasig.;0;0;0;4;2;0
+28256;Delegador;0;0;0;6;6;1
+1228;Deleg. reasig.;0;0;0;1;2;0
+113347;Casual;3;1;1;3;4;0
+103834;Casual;1;1;0;3;3;1
+27085;Casual;1;1;0;2;2;0
+27380;Delegador;0;0;0;6;2;1
+70967;Casual;0;2;1;0;1;3
+22700;Deleg. reasig.;0;0;0;4;3;0
+24350;Delegador;0;0;0;4;3;0
+10732;Delegador;0;0;0;3;1;1
+32058;Casual;1;1;0;10;5;0
+103587;Interr;2;2;2;6;3;0
+75833;Interr;1;1;1;2;1;0
+366;Interr;3;1;2;3;6;1
+84573;Deleg. reasig.;0;0;0;4;4;0
+47417;Casual;1;2;1;7;1;1
+11047;Delegador;0;0;0;6;4;0
+91434;Casual;1;1;0;7;2;1
+36731;Interr;3;2;1;2;3;1
+48822;Casual;1;1;0;4;2;0
+33993;Casual;1;1;2;5;1;1
+60179;Deleg. reasig.;0;0;0;2;4;1
+3980;Delegador;0;0;0;3;2;0
+57529;Deleg. reasig.;0;0;0;7;1;0
+4745;Interr;3;2;0;2;3;0
+36054;Delegador;0;0;0;3;1;0
+47043;Delegador;0;0;0;4;2;1
+81303;Casual;1;0;1;5;0;0
+12988;Participativo;1;2;1;0;2;0
+52269;Interr;1;0;1;2;0;1
+39330;Casual;1;1;0;4;0;0
+10858;Delegador;0;0;0;1;3;0
+34124;Interr;2;1;0;5;3;1
+113984;Interr;1;0;1;1;2;0
+97742;Deleg. reasig.;0;0;0;4;1;0
+91107;Deleg. reasig.;0;0;0;6;3;1
+86546;Deleg. reasig.;0;0;0;1;2;0
+2621;Deleg. reasig.;0;0;0;0;3;0
+78707;Interr;2;2;0;3;2;0
+15375;Deleg. reasig.;0;0;0;0;1;0
+43007;Delegador;0;0;0;1;1;2
+30667;Deleg. reasig.;0;0;0;4;2;0
+4995;Deleg. reasig.;0;0;0;2;4;0
+14416;Interr;1;1;0;1;0;0
+38165;Delegador;0;0;0;3;0;1
+89705;Deleg. reasig.;0;0;0;6;1;0
+1477;Interr;1;2;1;3;1;0
+3970;Deleg. reasig.;0;0;0;2;4;1
+37874;Deleg. reasig.;0;0;0;8;2;0
+52562;Delegador;0;0;0;6;1;0
+26173;Deleg. reasig.;0;0;0;2;2;0
+49099;Delegador;0;0;0;6;5;1
+26325;Deleg. reasig.;0;0;0;3;3;0
+40814;Deleg. reasig.;0;0;0;6;1;1
+29793;Interr;2;2;1;6;3;1
+52317;Deleg. reasig.;0;0;0;3;1;2
+57258;Deleg. reasig.;0;0;0;3;1;1
+13916;Casual;1;1;0;2;3;0
+86359;Interr;2;0;0;2;1;1
+97904;Interr;2;2;0;2;1;1
+7979;Deleg. reasig.;0;0;0;4;5;0
+115527;Delegador;0;0;0;2;5;1
+58798;Casual;2;2;1;3;3;1
+98351;Interr;2;1;0;2;2;0
+104358;Interr;1;2;0;0;2;0
+50376;Delegador;0;0;0;5;0;0
+33672;Deleg. reasig.;0;0;0;8;4;1
+74808;Deleg. reasig.;0;0;0;5;2;0
+93458;Casual;1;2;1;5;0;1
+28796;Casual;1;1;0;3;4;1
+69519;Interr;2;1;0;2;1;1
+62509;Delegador;0;0;0;4;0;1
+8335;Deleg. reasig.;0;0;0;1;2;1
+38605;Deleg. reasig.;0;0;0;3;3;0
+76832;Delegador;0;0;0;3;2;0
+36431;Delegador;0;0;0;3;1;0
+50481;Interr;3;2;0;1;0;0
+70648;Deleg. reasig.;0;0;0;4;4;2
+102434;Interr;0;2;0;1;0;0
+46294;Casual;1;1;0;3;1;1
+27587;Delegador;0;0;0;1;2;0
+98765;Casual;1;2;0;7;1;2
+54028;Interr;2;0;0;2;3;1
+91375;Deleg. reasig.;0;0;0;3;2;0
+28077;Interr;5;4;1;3;1;0
+92664;Interr;1;2;0;1;1;0
+14289;Casual;1;2;0;2;1;1
+71516;Delegador;0;0;0;5;3;0
+67166;Interr;4;1;1;2;2;0
+2637;Deleg. reasig.;0;0;0;4;2;1
+57394;Delegador;0;0;0;2;2;1
+39939;Delegador;0;0;0;7;3;0
+82464;Deleg. reasig.;0;0;0;2;2;0
+44934;Casual;1;2;0;7;2;1
+58082;Interr;2;1;0;0;0;1
+86961;Casual;1;1;0;1;2;1
+64979;Interr;2;0;0;4;1;1
+3343;Participativo;1;1;0;0;0;0
+42196;Interr;4;1;1;4;0;2
+23791;Deleg. reasig.;0;0;0;3;2;0
+27923;Delegador;0;0;0;7;5;1
+53967;Delegador;0;0;0;3;1;1
+79629;Casual;0;2;0;4;2;0
+637;Delegador;0;0;0;3;1;0
+50915;Deleg. reasig.;0;0;0;5;2;1
+25794;Delegador;0;0;0;2;2;0
+47837;Delegador;0;0;0;5;4;0
+17458;Casual;1;0;1;3;4;1
+62424;Interr;1;1;0;1;1;0
+72333;Delegador;0;0;0;4;0;1
+2443;Casual;1;1;1;1;2;0
+114013;Interr;3;1;0;3;1;1
+38028;Delegador;0;0;0;3;0;0
+94122;Interr;1;1;0;2;1;1
+581;Delegador;0;0;0;3;3;0
+48301;Deleg. reasig.;0;0;0;5;2;0
+58230;Casual;2;1;0;6;1;2
+5193;Participativo;2;3;0;3;0;0
+32524;Interr;1;1;1;1;1;1
+88468;Interr;3;2;1;3;2;2
+77524;Interr;2;1;1;4;1;0
+2462;Interr;3;1;0;1;1;0
+18376;Casual;1;1;0;5;2;1
+65277;Deleg. reasig.;0;0;0;6;2;0
+44372;Casual;2;2;1;4;3;0
+36961;Casual;0;2;0;6;2;0
+73781;Deleg. reasig.;0;0;0;7;1;0
+6379;Deleg. reasig.;0;0;0;2;1;0
+114513;Deleg. reasig.;0;0;0;3;3;2
+58844;Casual;1;2;0;3;4;0
+4508;Casual;1;1;0;2;0;0
+100655;Casual;1;1;0;4;3;1
+9594;Casual;0;2;0;3;2;0
+50353;Casual;4;1;1;3;5;1
+60507;Casual;1;2;0;9;3;1
+82121;Delegador;0;0;0;3;3;1
+11022;Casual;1;1;0;3;4;0
+35933;Participativo;3;3;1;1;1;0
+94084;Interr;1;1;0;3;2;1
+21178;Interr;2;1;1;2;2;0
+16711;Deleg. reasig.;0;0;0;3;3;0
+13173;Delegador;0;0;0;3;1;0
+97415;Delegador;0;0;0;6;4;0
+70704;Deleg. reasig.;0;0;0;3;2;0
+30351;Casual;2;0;1;7;3;0
+6172;Interr;1;1;1;3;4;2
+6909;Deleg. reasig.;0;0;0;8;3;1
+22145;Interr;2;1;0;3;2;0
+6576;Delegador;0;0;0;2;2;0
+110022;Delegador;0;0;0;4;0;0
+13522;Casual;1;0;1;0;4;0
+29546;Deleg. reasig.;0;0;0;2;2;1
+40341;Deleg. reasig.;0;0;0;5;2;2
+37116;Interr;1;2;1;3;3;1
+25319;Interr;2;3;0;2;2;0
+62455;Casual;2;3;0;6;2;1
+8817;Delegador;0;0;0;3;2;0
+903;Interr;4;2;1;2;2;1
+1233;Deleg. reasig.;0;0;0;4;1;0
+4505;Deleg. reasig.;0;0;0;2;2;0
+88578;Deleg. reasig.;0;0;0;1;3;0
+1301;Interr;3;1;0;2;1;1
+80642;Deleg. reasig.;0;0;0;1;4;1
+79566;Deleg. reasig.;0;0;0;3;2;2
+58499;Deleg. reasig.;0;0;0;4;3;1
+50982;Interr;2;0;0;4;2;0
+60978;Delegador;0;0;0;5;2;0
+92012;Interr;1;1;1;4;4;1
+50520;Deleg. reasig.;0;0;0;1;3;0
+98758;Delegador;0;0;0;2;1;1
+3953;Deleg. reasig.;0;0;0;0;3;1
+72061;Casual;3;2;1;4;1;0
+68853;Delegador;0;0;0;2;1;1
+85328;Delegador;0;0;0;1;3;0
+93880;Deleg. reasig.;0;0;0;2;2;1
+46773;Participativo;5;2;1;1;0;1
+42782;Delegador;0;0;0;4;1;1
+23615;Delegador;0;0;0;5;2;1
+6713;Deleg. reasig.;0;0;0;6;2;0
+66927;Interr;3;1;1;5;2;0
+89351;Deleg. reasig.;0;0;0;5;0;0
+114884;Deleg. reasig.;0;0;0;2;3;1
+51834;Delegador;0;0;0;8;2;1
+25892;Deleg. reasig.;0;0;0;4;3;0
+28246;Delegador;0;0;0;3;4;1
+21397;Interr;1;2;1;5;1;1
+89461;Deleg. reasig.;0;0;0;2;2;0
+14155;Casual;1;2;0;5;5;1
+42640;Casual;3;0;0;3;0;1
+31321;Interr;0;1;1;2;1;1
+30272;Delegador;0;0;0;2;1;1
+6057;Participativo;3;4;1;0;1;1
+24725;Deleg. reasig.;0;0;0;4;3;0
+25805;Casual;1;1;0;3;3;0
+2817;Participativo;4;2;0;0;0;0
+7776;Interr;1;1;0;1;3;0
+35266;Casual;1;1;0;5;2;0
+52255;Interr;2;4;0;2;0;0
+85009;Deleg. reasig.;0;0;0;10;2;0
+52110;Interr;3;3;0;0;1;0
+97509;Interr;1;1;0;4;1;0
+94226;Interr;1;2;0;3;3;0
+57025;Participativo;4;0;0;2;1;1
+63917;Deleg. reasig.;0;0;0;5;4;1
+59648;Casual;2;2;1;4;2;0
+59062;Interr;2;0;1;4;3;1
+40451;Delegador;0;0;0;2;3;0
+12441;Participativo;2;2;2;1;0;1
+63748;Interr;2;1;0;1;1;0
+84144;Casual;1;3;0;6;3;0
+36788;Interr;1;1;0;1;0;0
+1687;Delegador;0;0;0;5;3;1
+48939;Deleg. reasig.;0;0;0;7;2;1
+50694;Deleg. reasig.;0;0;0;5;1;1
+6714;Delegador;0;0;0;1;4;0
+52225;Casual;1;1;0;4;1;1
+97019;Delegador;0;0;0;2;2;0
+33722;Casual;3;3;0;6;1;1
+73391;Participativo;3;1;0;1;1;1
+36169;Deleg. reasig.;0;0;0;2;1;1
+27752;Interr;2;3;0;2;2;1
+108754;Delegador;0;0;0;2;2;0
+70102;Interr;2;0;1;3;2;1
+79202;Delegador;0;0;0;5;3;1
+7624;Delegador;0;0;0;2;2;0
+27239;Interr;1;1;0;2;0;2
+109709;Deleg. reasig.;0;0;0;6;0;1
+27092;Deleg. reasig.;0;0;0;2;2;0
+28593;Deleg. reasig.;0;0;0;3;1;0
+17254;Deleg. reasig.;0;0;0;1;2;1
+36603;Delegador;0;0;0;3;1;0
+20999;Deleg. reasig.;0;0;0;7;2;0
+1839;Casual;1;1;1;6;2;1
+6568;Delegador;0;0;0;3;2;0
+36445;Casual;1;2;0;1;2;0
+90241;Casual;2;2;1;2;1;0
+108362;Interr;4;0;0;5;0;0
+29736;Casual;1;2;1;5;2;0
+70410;Casual;1;1;0;2;2;0
+42494;Deleg. reasig.;0;0;0;7;1;1
+51793;Casual;1;1;1;5;3;0
+44082;Delegador;0;0;0;4;4;1
+67143;Casual;2;0;0;7;0;1
+65276;Deleg. reasig.;0;0;0;4;3;0
+39136;Deleg. reasig.;0;0;0;2;1;0
+12039;Delegador;0;0;0;2;1;1
+36495;Casual;4;2;1;1;6;1
+107357;Deleg. reasig.;0;0;0;4;2;1
+76721;Interr;2;2;0;3;1;0
+107408;Interr;0;1;1;2;0;0
+26799;Participativo;2;1;0;0;0;0
+64478;Deleg. reasig.;0;0;0;5;1;2
+95962;Casual;1;1;0;3;0;0
+109233;Casual;1;1;0;4;3;0
+60140;Deleg. reasig.;0;0;0;2;0;1
+8267;Casual;1;0;1;2;4;1
+108869;Casual;1;1;0;2;2;0
+98227;Interr;3;1;1;3;4;0
+57298;Casual;0;3;1;4;1;1
+9176;Delegador;0;0;0;4;2;0
+56067;Delegador;0;0;0;2;1;1
+27253;Delegador;0;0;0;2;3;0
+6749;Delegador;0;0;0;2;3;1
+28028;Deleg. reasig.;0;0;0;3;2;0
+114620;Casual;1;1;1;0;1;0
+59771;Participativo;5;1;1;3;2;0
+4438;Deleg. reasig.;0;0;0;3;3;0
+25705;Delegador;0;0;0;3;1;0
+13011;Deleg. reasig.;0;0;0;3;2;0
+22424;Deleg. reasig.;0;0;0;1;2;1
+30179;Casual;1;2;1;7;3;0
+51350;Deleg. reasig.;0;0;0;7;2;0
+53539;Casual;4;1;0;5;3;0
+10458;Deleg. reasig.;0;0;0;4;3;0
+78174;Deleg. reasig.;0;0;0;4;2;0
+104681;Deleg. reasig.;0;0;0;4;4;0
+68524;Casual;0;2;1;5;0;0
+113416;Participativo;7;1;1;2;1;0
+87553;Casual;2;2;0;4;3;2
+44914;Casual;1;2;0;5;2;2
+72612;Casual;2;2;1;5;1;0
+2231;Delegador;0;0;0;1;4;0
+14012;Deleg. reasig.;0;0;0;3;2;1
+89370;Deleg. reasig.;0;0;0;1;5;0
+3243;Deleg. reasig.;0;0;0;3;2;1
+114679;Interr;2;1;0;1;1;0
+51667;Deleg. reasig.;0;0;0;5;4;1
+93409;Casual;2;2;1;9;3;2
+6678;Casual;1;0;1;2;2;0
+90965;Deleg. reasig.;0;0;0;0;3;1
+97419;Delegador;0;0;0;2;3;0
+30513;Casual;1;0;1;4;4;1
+2376;Interr;1;1;0;3;0;0
+102394;Deleg. reasig.;0;0;0;1;1;0
+56260;Deleg. reasig.;0;0;0;4;5;1
+34199;Deleg. reasig.;0;0;0;7;5;0
+69199;Deleg. reasig.;0;0;0;4;2;1
+32019;Delegador;0;0;0;1;2;1
+1686;Delegador;0;0;0;3;3;0
+111466;Casual;2;0;0;3;4;0
+83642;Casual;1;1;0;7;2;0
+29510;Casual;3;2;0;6;3;0
+82250;Interr;1;2;1;2;1;1
+42747;Casual;2;0;0;6;2;1
+40971;Deleg. reasig.;0;0;0;7;4;1
+59363;Casual;0;2;0;6;3;0
+6955;Deleg. reasig.;0;0;0;2;1;0
+75336;Interr;1;1;0;4;2;1
+57710;Casual;1;2;1;2;1;0
+11679;Casual;1;1;0;4;3;0
+47194;Delegador;0;0;0;2;1;1
+99702;Deleg. reasig.;0;0;0;7;2;1
+112106;Deleg. reasig.;0;0;0;7;1;1
+110238;Casual;1;1;0;3;4;1
+99904;Deleg. reasig.;0;0;0;5;2;0
+51527;Deleg. reasig.;0;0;0;4;3;3
+2614;Participativo;1;1;2;0;0;0
+94358;Casual;1;1;0;6;3;0
+71167;Casual;1;1;0;5;6;1
+24807;Delegador;0;0;0;1;4;1
+35522;Deleg. reasig.;0;0;0;1;1;0
+53272;Casual;2;0;0;9;3;2
+7358;Delegador;0;0;0;5;4;0
+85394;Interr;4;1;1;1;1;1
+54649;Deleg. reasig.;0;0;0;3;2;0
+251;Casual;1;1;0;5;2;0
+34449;Casual;1;1;0;9;3;0
+90285;Deleg. reasig.;0;0;0;4;0;0
+111855;Casual;1;2;0;2;3;1
+33378;Casual;1;1;1;5;3;1
+105809;Deleg. reasig.;0;0;0;1;2;0
+17859;Delegador;0;0;0;1;1;0
+59137;Delegador;0;0;0;6;3;0
+36330;Deleg. reasig.;0;0;0;7;3;1
+84351;Interr;1;1;0;4;1;0
+3370;Interr;2;1;1;1;2;0
+55683;Deleg. reasig.;0;0;0;1;1;1
+27631;Deleg. reasig.;0;0;0;8;7;1
+24249;Participativo;4;2;0;1;0;2
+15824;Delegador;0;0;0;5;4;0
+89665;Deleg. reasig.;0;0;0;5;2;0
+50122;Delegador;0;0;0;1;2;1
+78792;Casual;3;1;1;3;3;0
+110843;Participativo;2;0;0;0;0;0
+70660;Interr;4;1;1;1;1;1
+94977;Interr;3;2;0;5;0;1
+53316;Casual;1;1;0;7;3;2
+41972;Deleg. reasig.;0;0;0;4;1;0
+25097;Deleg. reasig.;0;0;0;3;2;0
+89324;Delegador;0;0;0;3;1;0
+7610;Casual;1;1;0;3;3;0
+27047;Deleg. reasig.;0;0;0;1;4;0
+51155;Casual;1;1;0;7;2;0
+61971;Casual;1;1;0;2;1;2
+71966;Deleg. reasig.;0;0;0;5;2;2
+28790;Deleg. reasig.;0;0;0;4;3;1
+92362;Interr;1;1;0;1;0;0
+83869;Deleg. reasig.;0;0;0;1;4;0
+102763;Casual;1;1;0;3;3;2
+84008;Delegador;0;0;0;1;3;1
+630;Casual;1;1;0;2;4;0
+89730;Deleg. reasig.;0;0;0;5;2;1
+61092;Deleg. reasig.;0;0;0;4;1;1
+12295;Delegador;0;0;0;2;2;0
+106098;Interr;3;2;1;4;2;0
+35459;Delegador;0;0;0;4;2;0
+25772;Casual;0;3;1;3;4;2
+92668;Deleg. reasig.;0;0;0;7;1;0
+78628;Casual;1;1;0;3;1;1
+14498;Deleg. reasig.;0;0;0;4;3;0
+84693;Interr;2;0;0;4;1;0
+103281;Interr;1;2;0;3;2;0
+50347;Casual;2;1;0;5;4;0
+40652;Delegador;0;0;0;3;1;0
+64487;Interr;2;2;0;5;2;1
+65153;Delegador;0;0;0;4;2;1
+29828;Deleg. reasig.;0;0;0;6;0;0
+83115;Deleg. reasig.;0;0;0;2;2;0
+71967;Delegador;0;0;0;5;2;1
+64140;Casual;1;3;0;5;2;0
+102888;Deleg. reasig.;0;0;0;4;3;0
+100003;Interr;1;1;0;1;0;0
+51179;Casual;1;0;1;1;3;0
+77185;Interr;1;2;2;2;0;0
+23779;Participativo;1;5;0;0;1;0
+38811;Delegador;0;0;0;4;0;0
+32091;Delegador;0;0;0;8;1;0
+25976;Deleg. reasig.;0;0;0;2;4;1
+50079;Interr;1;1;0;3;3;0
+79168;Casual;1;2;1;6;2;1
+53663;Casual;2;0;0;4;2;1
+11501;Delegador;0;0;0;6;3;0
+30081;Deleg. reasig.;0;0;0;3;3;2
+61179;Interr;3;1;0;1;0;0
+64723;Delegador;0;0;0;6;1;1
+43330;Interr;2;2;0;5;2;1
+3053;Deleg. reasig.;0;0;0;1;3;0
+6375;Casual;1;1;0;2;1;0
+94339;Casual;2;2;2;4;3;0
+2251;Deleg. reasig.;0;0;0;2;1;0
+63918;Deleg. reasig.;0;0;0;6;5;1
+113226;Delegador;0;0;0;5;1;1
+57794;Delegador;0;0;0;3;3;0
+87709;Casual;3;1;1;4;1;2
+39725;Deleg. reasig.;0;0;0;3;3;0
+51961;Interr;2;3;1;2;1;0
+9387;Deleg. reasig.;0;0;0;2;1;0
+77668;Delegador;0;0;0;4;2;1
+23977;Casual;0;1;1;2;1;0
+27892;Interr;1;1;0;2;2;1
+56699;Interr;2;3;0;7;2;0
+24514;Casual;1;1;0;0;3;0
+4226;Deleg. reasig.;0;0;0;3;3;0
+26238;Participativo;1;1;0;1;0;0
+12066;Interr;1;1;0;1;1;0
+37389;Deleg. reasig.;0;0;0;4;3;1
+115663;Interr;2;0;0;2;1;0
+40878;Interr;2;3;1;4;1;0
+9593;Deleg. reasig.;0;0;0;3;1;1
+16760;Casual;3;1;0;3;4;2
+81815;Casual;1;0;1;3;2;1
+34135;Deleg. reasig.;0;0;0;5;2;0
+107815;Casual;1;2;0;3;2;0
+50377;Interr;1;2;1;3;1;0
+9773;Deleg. reasig.;0;0;0;3;2;1
+71718;Casual;3;1;1;5;3;0
+7654;Interr;1;2;0;0;1;0
+23742;Deleg. reasig.;0;0;0;1;2;0
+14970;Casual;1;2;0;2;2;0
+57763;Interr;2;1;0;5;5;1
+91740;Delegador;0;0;0;3;1;0
+86430;Delegador;0;0;0;4;4;2
+59187;Casual;1;0;1;7;1;0
+20174;Delegador;0;0;0;3;1;1
+69527;Deleg. reasig.;0;0;0;7;2;0
+14203;Delegador;0;0;0;4;4;0
+57615;Interr;2;1;0;1;1;1
+97833;Delegador;0;0;0;10;3;1
+115204;Deleg. reasig.;0;0;0;4;0;0
+85952;Delegador;0;0;0;3;4;0
+76630;Casual;1;1;0;8;3;2
+53172;Interr;2;1;0;2;2;2
+72659;Interr;2;0;1;3;0;0
+46908;Casual;1;1;0;4;3;0
+2368;Casual;1;1;1;1;1;0
+37081;Casual;2;0;0;4;0;0
+32369;Deleg. reasig.;0;0;0;4;1;0
+92843;Delegador;0;0;0;1;2;1
+29101;Interr;4;1;0;3;2;0
+104377;Delegador;0;0;0;4;2;0
+77698;Deleg. reasig.;0;0;0;2;1;1
+4548;Delegador;0;0;0;2;3;1
+20218;Deleg. reasig.;0;0;0;6;2;2
+2051;Casual;1;1;1;1;1;1
+90486;Interr;1;2;1;1;1;0
+48184;Casual;1;1;0;5;0;2
+97400;Interr;4;4;0;2;1;0
+58710;Casual;2;1;0;5;1;1
+48729;Casual;3;0;0;2;2;1
+29107;Delegador;0;0;0;3;1;1
+21633;Deleg. reasig.;0;0;0;4;5;0
+18893;Delegador;0;0;0;2;3;0
+91735;Casual;1;2;0;7;2;3
+59023;Casual;2;1;0;7;0;2
+39304;Delegador;0;0;0;4;2;0
+70504;Deleg. reasig.;0;0;0;4;0;0
+106078;Casual;1;1;0;5;3;0
+23315;Deleg. reasig.;0;0;0;1;5;0
+34714;Deleg. reasig.;0;0;0;5;1;0
+41694;Delegador;0;0;0;6;1;0
+8409;Deleg. reasig.;0;0;0;2;1;0
+56889;Delegador;0;0;0;7;4;1
+84783;Participativo;3;4;1;0;2;0
+56480;Interr;4;5;1;3;2;1
+68515;Participativo;1;1;2;0;0;0
+86676;Interr;3;1;0;3;1;1
+97552;Deleg. reasig.;0;0;0;2;2;2
+12852;Delegador;0;0;0;2;6;0
+64888;Casual;3;1;1;6;3;0
+94744;Deleg. reasig.;0;0;0;7;4;0
+113939;Delegador;0;0;0;2;3;1
+90754;Delegador;0;0;0;4;4;0
+6491;Casual;1;0;1;2;4;0
+94293;Casual;1;0;1;2;2;0
+104431;Delegador;0;0;0;2;4;0
+815;Deleg. reasig.;0;0;0;3;1;1
+62308;Casual;3;1;0;6;1;2
+42074;Interr;1;2;0;4;2;1
+28513;Delegador;0;0;0;3;1;0
+600;Delegador;0;0;0;2;2;0
+112516;Participativo;1;4;1;2;0;0
+6450;Interr;1;2;0;1;0;0
+76302;Deleg. reasig.;0;0;0;7;1;1
+2505;Casual;1;1;0;1;1;0
+72790;Interr;2;0;0;2;1;0
+102513;Interr;2;3;0;6;1;1
+77102;Participativo;1;1;0;0;1;0
+81442;Interr;2;1;0;1;1;0
+74117;Deleg. reasig.;0;0;0;4;2;0
+113230;Deleg. reasig.;0;0;0;5;2;1
+23569;Deleg. reasig.;0;0;0;5;3;0
+97636;Deleg. reasig.;0;0;0;1;2;0
+113104;Deleg. reasig.;0;0;0;2;0;1
+13447;Deleg. reasig.;0;0;0;3;1;2
+94888;Delegador;0;0;0;8;1;1
+57779;Deleg. reasig.;0;0;0;1;1;0
+35115;Deleg. reasig.;0;0;0;4;0;0
+72607;Deleg. reasig.;0;0;0;3;1;0
+4877;Interr;1;1;1;2;2;0
+47570;Interr;3;2;1;3;3;0
+58141;Interr;2;0;0;2;0;0
+94128;Delegador;0;0;0;4;1;0
+4297;Deleg. reasig.;0;0;0;1;2;0
+1098;Delegador;0;0;0;1;4;0
+586;Deleg. reasig.;0;0;0;3;1;0
+59095;Deleg. reasig.;0;0;0;5;1;2
+84309;Delegador;0;0;0;5;4;1
+44736;Delegador;0;0;0;3;5;0
+22152;Interr;2;2;1;2;3;0
+110081;Casual;1;1;1;5;4;1
+34382;Delegador;0;0;0;4;1;0
+48935;Casual;1;2;0;0;1;0
+83486;Deleg. reasig.;0;0;0;1;1;0
+53883;Casual;2;2;0;5;2;0
+80273;Interr;1;2;0;2;0;0
+13243;Casual;1;1;0;3;3;1
+42569;Interr;3;3;1;2;2;3
+71949;Casual;2;0;0;3;2;0
+99062;Deleg. reasig.;0;0;0;3;2;0
+46927;Interr;3;3;1;7;1;1
+87109;Deleg. reasig.;0;0;0;6;2;0
+35638;Casual;1;1;0;2;2;1
+5172;Delegador;0;0;0;4;3;0
+25274;Interr;1;0;1;2;2;0
+42237;Casual;1;1;0;3;0;0
+2794;Deleg. reasig.;0;0;0;3;1;0
+54597;Interr;1;1;0;2;2;0
+37065;Deleg. reasig.;0;0;0;6;3;1
+42166;Casual;1;0;1;7;5;0
+83431;Casual;2;0;1;3;5;0
+50265;Casual;3;1;1;6;3;0
+22009;Casual;1;0;1;4;2;1
+82041;Interr;1;1;0;4;1;1
+107552;Delegador;0;0;0;4;2;1
+8623;Deleg. reasig.;0;0;0;2;3;0
+6921;Casual;2;2;0;3;2;0
+93163;Casual;0;2;1;7;5;1
+47524;Casual;2;0;1;6;1;0
+5998;Casual;1;1;0;1;1;0
+1406;Deleg. reasig.;0;0;0;3;1;1
+25061;Interr;1;1;1;0;1;0
+34659;Deleg. reasig.;0;0;0;8;1;0
+44607;Interr;2;1;1;4;2;0
+25833;Deleg. reasig.;0;0;0;4;2;0
+59863;Deleg. reasig.;0;0;0;5;3;1
+48230;Casual;1;1;0;5;5;0
+34618;Delegador;0;0;0;2;3;1
+2185;Delegador;0;0;0;3;4;0
+28300;Deleg. reasig.;0;0;0;8;2;1
+16337;Casual;1;1;0;2;1;1
+97587;Casual;1;1;0;2;2;1
+216;Deleg. reasig.;0;0;0;3;4;1
+64376;Interr;2;2;1;4;3;1
+105960;Delegador;0;0;0;1;4;0
+89256;Delegador;0;0;0;4;4;1
+62220;Casual;2;0;1;8;3;1
+88567;Deleg. reasig.;0;0;0;4;5;1
+86435;Casual;3;0;0;4;1;0
+102801;Interr;3;2;0;3;1;0
+42275;Delegador;0;0;0;3;3;1
+54603;Deleg. reasig.;0;0;0;4;2;0
+86208;Deleg. reasig.;0;0;0;5;1;1
+57640;Casual;1;2;0;6;2;1
+55943;Casual;1;1;0;4;1;1
+15223;Deleg. reasig.;0;0;0;5;2;0
+35552;Deleg. reasig.;0;0;0;1;1;0
+112529;Deleg. reasig.;0;0;0;3;3;0
+66143;Casual;2;0;0;2;1;0
+30758;Delegador;0;0;0;3;2;0
+28652;Casual;1;1;0;6;1;1
+109155;Casual;1;1;1;3;2;1
+38420;Participativo;4;0;1;2;0;0
+39844;Deleg. reasig.;0;0;0;7;2;0
+28668;Deleg. reasig.;0;0;0;5;3;0
+103717;Deleg. reasig.;0;0;0;8;6;2
+43014;Deleg. reasig.;0;0;0;4;2;1
+56934;Delegador;0;0;0;2;4;0
+5540;Delegador;0;0;0;5;2;0
+17791;Interr;1;1;0;4;1;1
+2792;Deleg. reasig.;0;0;0;1;4;0
+28459;Delegador;0;0;0;6;0;0
+33495;Casual;1;1;0;4;2;1
+103310;Casual;4;2;0;6;5;1
+28447;Deleg. reasig.;0;0;0;2;2;1
+16948;Delegador;0;0;0;3;1;0
+33514;Deleg. reasig.;0;0;0;8;2;1
+27994;Casual;3;2;2;4;4;1
+89190;Delegador;0;0;0;3;4;0
+4172;Deleg. reasig.;0;0;0;5;1;0
+96155;Casual;1;1;0;2;1;0
+13678;Casual;2;3;0;2;3;0
+63689;Deleg. reasig.;0;0;0;3;4;0
+48258;Interr;1;1;0;3;3;0
+16779;Delegador;0;0;0;6;6;0
+55551;Interr;1;1;0;2;1;0
+45021;Casual;3;2;1;2;0;0
+33713;Deleg. reasig.;0;0;0;8;2;0
+107599;Interr;1;1;1;1;2;3
+43084;Interr;1;1;1;3;1;0
+76876;Delegador;0;0;0;2;1;2
+39482;Delegador;0;0;0;2;2;0
+16435;Delegador;0;0;0;3;5;2
+44597;Delegador;0;0;0;6;3;1
+112739;Deleg. reasig.;0;0;0;3;2;0
+78711;Deleg. reasig.;0;0;0;2;4;1
+36030;Deleg. reasig.;0;0;0;6;3;1
+21653;Delegador;0;0;0;4;4;0
+71505;Delegador;0;0;0;5;5;1
+53275;Deleg. reasig.;0;0;0;8;3;0
+97801;Participativo;1;4;3;1;0;0
+664;Casual;1;0;1;2;3;1
+107797;Deleg. reasig.;0;0;0;4;2;1
+70969;Casual;3;2;1;2;2;1
+90066;Deleg. reasig.;0;0;0;0;4;0
+77540;Delegador;0;0;0;1;3;0
+86611;Deleg. reasig.;0;0;0;3;3;3
+25542;Interr;1;2;0;1;1;0
+27516;Delegador;0;0;0;3;2;0
+61059;Deleg. reasig.;0;0;0;2;1;1
+67927;Delegador;0;0;0;2;1;1
+44185;Interr;4;1;1;2;3;0
+682;Casual;2;2;1;3;5;1
+88452;Interr;1;1;1;5;3;2
+39819;Interr;2;2;1;3;1;1
+106832;Delegador;0;0;0;3;2;0
+57415;Casual;1;1;1;2;3;3
+84291;Casual;1;1;1;3;3;0
+87613;Casual;2;1;0;0;1;0
+67800;Delegador;0;0;0;4;4;0
+50651;Interr;1;1;0;0;1;0
+73593;Delegador;0;0;0;3;1;1
+42832;Casual;1;1;0;1;1;0
+67178;Deleg. reasig.;0;0;0;7;4;0
+29261;Interr;4;1;0;5;0;0
+86479;Casual;1;2;0;6;2;0
+52669;Interr;2;2;1;8;0;1
+17180;Interr;4;1;1;2;3;1
+114425;Deleg. reasig.;0;0;0;6;3;1
+113993;Deleg. reasig.;0;0;0;2;1;1
+50535;Delegador;0;0;0;4;3;1
+68915;Deleg. reasig.;0;0;0;7;2;1
+3391;Casual;1;0;1;1;2;0
+108142;Delegador;0;0;0;7;3;2
+34087;Deleg. reasig.;0;0;0;5;2;0
+70218;Deleg. reasig.;0;0;0;6;0;0
+46224;Deleg. reasig.;0;0;0;3;1;0
+93817;Casual;2;1;1;2;3;0
+70847;Deleg. reasig.;0;0;0;6;2;2
+52891;Interr;5;1;0;1;1;0
+107508;Casual;1;2;0;10;3;1
+32152;Delegador;0;0;0;3;2;0
+73470;Delegador;0;0;0;3;2;1
+28716;Deleg. reasig.;0;0;0;8;3;1
+19928;Deleg. reasig.;0;0;0;4;2;0
+4557;Participativo;1;1;0;1;0;0
+35607;Casual;1;2;0;1;1;1
+97939;Casual;1;1;0;4;2;0
+85001;Deleg. reasig.;0;0;0;4;2;1
+70613;Delegador;0;0;0;6;1;1
+13169;Interr;3;2;2;5;2;0
+10090;Delegador;0;0;0;3;1;0
+71315;Delegador;0;0;0;4;2;0
+37643;Casual;1;1;0;4;2;0
+83741;Casual;1;0;1;2;2;0
+67764;Casual;0;2;0;3;4;0
+93953;Casual;1;2;1;8;2;2
+34217;Deleg. reasig.;0;0;0;6;1;2
+29169;Interr;4;3;0;3;1;1
+7911;Casual;1;1;0;5;3;0
+66326;Interr;1;1;0;1;0;0
+29494;Participativo;2;2;0;1;1;0
+42614;Delegador;0;0;0;2;2;0
+7859;Deleg. reasig.;0;0;0;5;2;1
+26465;Deleg. reasig.;0;0;0;5;3;1
+2497;Casual;1;1;0;3;3;2
+28387;Interr;1;1;0;2;1;1
+13325;Deleg. reasig.;0;0;0;3;1;0
+33352;Delegador;0;0;0;9;1;1
+2378;Deleg. reasig.;0;0;0;2;0;1
+55097;Participativo;2;2;1;2;0;0
+30009;Casual;1;3;1;3;2;1
+30551;Interr;5;1;1;3;1;0
+13116;Deleg. reasig.;0;0;0;4;5;0
+24827;Interr;2;3;1;4;1;0
+25666;Casual;1;0;1;4;5;0
+13639;Delegador;0;0;0;2;2;0
+706;Delegador;0;0;0;5;6;0
+13174;Deleg. reasig.;0;0;0;4;3;0
+28035;Deleg. reasig.;0;0;0;1;1;1
+50638;Interr;3;1;1;4;2;1
+110104;Casual;1;1;1;4;2;1
+93281;Casual;3;2;1;5;2;0
+22474;Interr;1;1;1;4;3;1
+31482;Participativo;4;0;0;0;1;1
+57976;Deleg. reasig.;0;0;0;4;1;1
+51637;Deleg. reasig.;0;0;0;1;2;1
+30488;Deleg. reasig.;0;0;0;2;0;0
+9388;Delegador;0;0;0;0;5;1
+88852;Deleg. reasig.;0;0;0;3;2;0
+73343;Delegador;0;0;0;2;3;1
+74162;Deleg. reasig.;0;0;0;3;2;0
+70409;Casual;1;1;0;5;4;1
+72452;Deleg. reasig.;0;0;0;5;3;1
+58938;Casual;2;1;0;9;4;1
+15577;Deleg. reasig.;0;0;0;4;2;0
+8960;Delegador;0;0;0;4;3;0
+4174;Deleg. reasig.;0;0;0;4;5;0
+6102;Deleg. reasig.;0;0;0;4;3;0
+64240;Deleg. reasig.;0;0;0;5;2;0
+102435;Delegador;0;0;0;4;3;0
+2162;Casual;1;1;0;3;3;1
+98575;Deleg. reasig.;0;0;0;5;3;0
+32550;Deleg. reasig.;0;0;0;6;2;0
+47611;Casual;1;1;0;3;0;0
+60149;Interr;2;1;0;2;0;2
+27207;Casual;1;1;0;2;3;0
+19077;Deleg. reasig.;0;0;0;2;2;0
+14002;Deleg. reasig.;0;0;0;1;2;0
+37019;Casual;2;0;0;3;2;1
+9921;Deleg. reasig.;0;0;0;4;4;0
+61489;Deleg. reasig.;0;0;0;6;1;1
+14028;Delegador;0;0;0;4;4;0
+111919;Delegador;0;0;0;2;3;0
+66471;Delegador;0;0;0;1;2;1
+65095;Participativo;1;1;0;0;0;1
+21279;Deleg. reasig.;0;0;0;4;1;0
+6225;Deleg. reasig.;0;0;0;5;2;0
+54828;Interr;3;2;0;8;1;1
+7264;Delegador;0;0;0;3;1;0
+88122;Casual;2;1;0;9;1;1
+1286;Casual;1;1;0;6;3;0
+43034;Casual;1;1;0;7;2;0
+43519;Casual;1;3;1;3;0;0
+23396;Deleg. reasig.;0;0;0;2;1;1
+46836;Interr;2;0;0;3;2;1
+85352;Casual;1;1;0;3;1;0
+115276;Deleg. reasig.;0;0;0;3;1;1
+43879;Casual;2;1;0;4;2;2
+112175;Casual;1;1;1;7;2;0
+74449;Casual;1;1;0;1;1;0
+57753;Interr;2;2;1;2;1;2
+66997;Casual;2;0;0;6;0;2
+11453;Deleg. reasig.;0;0;0;4;1;1
+47164;Interr;2;2;1;1;1;0
+67036;Interr;3;1;1;1;1;1
+66043;Casual;1;1;0;5;1;2
+111898;Interr;3;1;1;1;1;2
+40913;Delegador;0;0;0;2;4;0
+23610;Deleg. reasig.;0;0;0;4;3;0
+59847;Interr;1;1;0;0;1;1
+31430;Deleg. reasig.;0;0;0;8;4;1
+46182;Casual;2;2;1;4;2;1
+3574;Participativo;1;2;2;0;0;0
+40835;Deleg. reasig.;0;0;0;5;1;1
+5494;Delegador;0;0;0;2;2;0
+38265;Deleg. reasig.;0;0;0;6;3;2
+17792;Deleg. reasig.;0;0;0;1;1;0
+83253;Casual;3;2;0;8;1;1
+68548;Interr;2;1;0;4;1;0
+28849;Casual;2;1;0;4;3;1
+24451;Casual;1;1;0;2;2;1
+71990;Participativo;2;1;0;0;0;0
+7882;Delegador;0;0;0;1;2;1
+44454;Interr;3;1;2;3;0;0
+11945;Delegador;0;0;0;3;2;1
+85499;Delegador;0;0;0;2;1;1
+24869;Deleg. reasig.;0;0;0;4;3;0
+58549;Interr;2;1;1;8;1;1
+4051;Casual;2;0;1;1;2;2
+29537;Interr;4;4;0;1;0;0
+29080;Delegador;0;0;0;5;0;0
+43521;Casual;2;1;0;5;1;0
+8616;Delegador;0;0;0;2;1;1
+44913;Casual;1;1;0;2;1;0
+22181;Deleg. reasig.;0;0;0;4;3;0
+48667;Deleg. reasig.;0;0;0;4;4;0
+28279;Deleg. reasig.;0;0;0;6;1;0
+112620;Casual;1;0;1;1;1;0
+16524;Interr;3;2;0;2;2;1
+36607;Casual;3;0;1;3;3;0
+46807;Interr;2;0;0;3;0;0
+33200;Deleg. reasig.;0;0;0;1;1;1
+48219;Deleg. reasig.;0;0;0;6;3;0
+6993;Interr;3;0;1;2;2;1
+7283;Deleg. reasig.;0;0;0;4;1;0
+7551;Delegador;0;0;0;6;3;1
+43691;Delegador;0;0;0;2;3;0
+76522;Casual;2;1;0;6;2;1
+93305;Interr;2;2;0;3;1;0
+27694;Casual;4;1;0;3;4;1
+64759;Interr;3;0;0;5;5;1
+96129;Delegador;0;0;0;4;2;1
+60393;Deleg. reasig.;0;0;0;5;1;0
+250;Delegador;0;0;0;3;3;0
+46374;Casual;3;0;0;7;2;2
+52045;Casual;1;1;1;4;2;0
+57094;Delegador;0;0;0;2;3;1
+28856;Delegador;0;0;0;6;1;0
+97178;Casual;2;2;0;8;0;2
+42746;Deleg. reasig.;0;0;0;8;2;1
+90038;Casual;1;1;0;4;1;0
+42967;Deleg. reasig.;0;0;0;6;0;0
+52988;Casual;1;1;0;2;1;1
+102463;Deleg. reasig.;0;0;0;4;4;0
+10427;Delegador;0;0;0;3;1;0
+92692;Deleg. reasig.;0;0;0;3;1;1
+10917;Delegador;0;0;0;3;2;0
+9435;Interr;2;3;0;3;3;1
+28675;Participativo;4;2;0;2;0;1
+79852;Delegador;0;0;0;6;2;0
+33898;Deleg. reasig.;0;0;0;2;3;0
+16618;Deleg. reasig.;0;0;0;2;0;1
+113739;Delegador;0;0;0;4;1;0
+24127;Deleg. reasig.;0;0;0;4;2;0
+19976;Deleg. reasig.;0;0;0;3;2;0
+77489;Deleg. reasig.;0;0;0;4;1;1
+13082;Delegador;0;0;0;5;3;1
+23233;Delegador;0;0;0;3;3;0
+17858;Deleg. reasig.;0;0;0;0;3;0
+76397;Casual;1;1;1;3;3;2
+27567;Delegador;0;0;0;5;2;0
+98955;Casual;1;1;0;4;1;2
+54891;Delegador;0;0;0;5;2;1
+12561;Delegador;0;0;0;3;3;0
+40243;Delegador;0;0;0;5;0;0
+42392;Participativo;1;2;0;1;0;0
+28414;Deleg. reasig.;0;0;0;5;4;0
+65705;Deleg. reasig.;0;0;0;2;2;1
+63896;Casual;3;0;1;4;0;0
+39100;Casual;2;0;1;2;0;0
+55303;Casual;2;0;0;6;2;1
+34821;Casual;1;1;0;4;1;0
+72899;Deleg. reasig.;0;0;0;0;2;1
+45226;Casual;1;2;1;6;2;1
+33656;Deleg. reasig.;0;0;0;2;1;0
+25197;Deleg. reasig.;0;0;0;2;2;0
+62150;Delegador;0;0;0;8;2;1
+59027;Casual;3;0;1;4;3;0
+6588;Deleg. reasig.;0;0;0;3;3;0
+46664;Casual;2;1;0;7;2;2
+26041;Delegador;0;0;0;3;3;1
+53767;Casual;2;2;1;4;1;0
+106035;Delegador;0;0;0;3;1;0
+104869;Casual;3;1;1;5;2;1
+44415;Delegador;0;0;0;3;1;0
+33583;Deleg. reasig.;0;0;0;9;0;0
+25198;Delegador;0;0;0;2;3;0
+37412;Delegador;0;0;0;3;5;0
+82572;Delegador;0;0;0;3;2;0
+50532;Interr;3;3;1;0;3;0
+56223;Participativo;1;1;1;0;0;0
+45668;Casual;1;2;0;4;2;0
+14950;Delegador;0;0;0;3;2;0
+44881;Interr;2;2;0;4;1;2
+55892;Interr;1;0;1;3;1;1
+43981;Delegador;0;0;0;6;2;1
+56034;Deleg. reasig.;0;0;0;7;1;1
+94198;Deleg. reasig.;0;0;0;3;4;0
+36591;Interr;1;0;1;2;0;0
+66603;Deleg. reasig.;0;0;0;1;3;1
+71173;Casual;2;1;0;3;1;0
+94334;Delegador;0;0;0;3;1;0
+94416;Interr;3;1;1;3;0;0
+5900;Deleg. reasig.;0;0;0;1;3;1
+45094;Casual;2;2;1;4;1;1
+64027;Deleg. reasig.;0;0;0;1;3;0
+21052;Deleg. reasig.;0;0;0;1;3;1
+97356;Casual;1;0;1;6;3;2
+28016;Deleg. reasig.;0;0;0;4;2;0
+102790;Casual;1;1;1;1;4;0
+103713;Casual;1;1;0;5;4;1
+36193;Interr;3;1;0;2;1;0
+77661;Interr;2;0;0;3;4;1
+12205;Deleg. reasig.;0;0;0;1;1;1
+1904;Delegador;0;0;0;3;4;0
+60337;Casual;1;1;1;1;2;0
+104207;Deleg. reasig.;0;0;0;4;2;1
+185;Delegador;0;0;0;4;1;0
+70481;Casual;1;1;0;8;1;0
+37020;Casual;2;2;1;4;2;1
+20184;Interr;3;2;1;3;2;1
+103556;Delegador;0;0;0;2;2;0
+86422;Delegador;0;0;0;4;1;0
+738;Delegador;0;0;0;3;1;0
+83225;Casual;1;1;0;2;2;1
+44031;Casual;1;4;0;7;2;2
+12524;Deleg. reasig.;0;0;0;3;2;1
+92198;Deleg. reasig.;0;0;0;2;3;1
+64374;Casual;2;1;0;2;2;1
+10358;Deleg. reasig.;0;0;0;4;3;0
+61288;Casual;1;0;1;3;1;2
+36605;Delegador;0;0;0;5;3;0
+35733;Casual;1;1;0;3;2;0
+65561;Delegador;0;0;0;1;3;0
+65419;Delegador;0;0;0;2;2;1
+84191;Interr;4;1;0;3;1;0
+54992;Delegador;0;0;0;4;4;0
+24086;Delegador;0;0;0;5;3;0
+9657;Interr;1;2;0;5;3;0
+52237;Casual;2;1;0;6;4;1
+9776;Delegador;0;0;0;3;2;0
+9502;Deleg. reasig.;0;0;0;0;1;0
+67534;Deleg. reasig.;0;0;0;3;0;0
+48150;Delegador;0;0;0;6;2;1
+1413;Interr;2;2;1;1;1;1
+33664;Casual;2;1;0;8;2;1
+7380;Interr;4;3;1;2;0;0
+39761;Interr;5;4;1;2;0;0
+21093;Participativo;2;1;0;0;0;0
+29339;Participativo;3;4;1;0;0;0
+82463;Interr;2;1;1;3;2;1
+29352;Casual;0;2;0;9;4;1
+87018;Interr;2;1;1;1;1;2
+22185;Casual;1;1;0;4;2;0
+42532;Casual;2;1;1;5;5;1
+5675;Casual;1;1;1;6;3;0
+82427;Casual;2;1;1;1;3;0
+28997;Interr;4;1;1;2;3;0
+1269;Casual;2;2;1;4;3;1
+36300;Casual;1;1;0;4;0;1
+20697;Deleg. reasig.;0;0;0;2;3;0
+5077;Delegador;0;0;0;2;2;0
+36386;Delegador;0;0;0;3;1;1
+102764;Casual;1;2;0;3;1;0
+43153;Delegador;0;0;0;7;2;1
+4996;Deleg. reasig.;0;0;0;0;1;0
+1556;Deleg. reasig.;0;0;0;0;1;2
+71108;Delegador;0;0;0;4;2;1
+87205;Delegador;0;0;0;9;3;0
+13196;Delegador;0;0;0;1;3;0
+50533;Deleg. reasig.;0;0;0;3;2;0
+18762;Deleg. reasig.;0;0;0;3;2;0
+31504;Deleg. reasig.;0;0;0;5;1;1
+44152;Casual;2;1;0;3;2;0
+10699;Deleg. reasig.;0;0;0;3;3;2
+31434;Interr;5;2;0;3;1;0
+9668;Deleg. reasig.;0;0;0;1;1;0
+45975;Deleg. reasig.;0;0;0;3;1;0
+71517;Casual;2;0;0;5;4;0
+46666;Interr;3;3;2;4;1;0
+25652;Deleg. reasig.;0;0;0;5;0;0
+67398;Deleg. reasig.;0;0;0;3;2;0
+32255;Interr;4;2;0;1;2;1
+112271;Delegador;0;0;0;5;2;1
+61722;Deleg. reasig.;0;0;0;3;2;1
+34667;Casual;1;1;0;4;2;0
+33946;Deleg. reasig.;0;0;0;5;1;1
+90859;Delegador;0;0;0;6;1;0
+90419;Interr;3;2;1;3;1;0
+91407;Deleg. reasig.;0;0;0;6;5;0
+22907;Deleg. reasig.;0;0;0;4;2;0
+54405;Interr;1;2;2;4;2;0
+58286;Delegador;0;0;0;2;1;0
+68809;Delegador;0;0;0;2;1;1
+114280;Interr;5;1;0;2;0;0
+2360;Deleg. reasig.;0;0;0;2;4;1
+16475;Deleg. reasig.;0;0;0;4;3;0
+113394;Deleg. reasig.;0;0;0;5;2;2
+34763;Delegador;0;0;0;4;1;0
+32219;Interr;5;1;0;2;1;0
+23486;Deleg. reasig.;0;0;0;3;2;1
+44040;Casual;2;2;0;2;2;0
+27813;Casual;1;1;0;4;3;0
+41372;Interr;3;2;0;2;1;2
+43326;Casual;3;1;0;5;2;0
+33020;Delegador;0;0;0;6;2;0
+62903;Interr;4;2;1;5;1;1
+8742;Deleg. reasig.;0;0;0;2;2;1
+57606;Deleg. reasig.;0;0;0;7;1;1
+24993;Deleg. reasig.;0;0;0;5;4;2
+32014;Delegador;0;0;0;3;2;1
+42453;Deleg. reasig.;0;0;0;4;2;1
+20068;Delegador;0;0;0;3;1;0
+83246;Delegador;0;0;0;2;2;0
+106991;Delegador;0;0;0;3;2;0
+13879;Delegador;0;0;0;4;2;0
+82060;Casual;1;2;1;4;0;0
+78003;Interr;1;1;0;1;1;2
+42325;Deleg. reasig.;0;0;0;5;2;1
+33110;Delegador;0;0;0;3;3;0
+54521;Interr;4;2;1;2;2;0
+62559;Deleg. reasig.;0;0;0;2;1;1
+11979;Deleg. reasig.;0;0;0;5;2;0
+84376;Delegador;0;0;0;1;2;0
+78325;Casual;1;1;0;4;2;1
+70689;Deleg. reasig.;0;0;0;6;6;2
+33177;Delegador;0;0;0;4;2;1
+42429;Deleg. reasig.;0;0;0;6;2;1
+24087;Deleg. reasig.;0;0;0;3;4;0
+53699;Delegador;0;0;0;4;2;1
+85949;Casual;0;3;0;7;1;0
+55563;Participativo;4;2;0;0;0;0
+30788;Deleg. reasig.;0;0;0;5;2;0
+41165;Deleg. reasig.;0;0;0;6;1;0
+7290;Casual;1;1;0;1;2;0
+39303;Deleg. reasig.;0;0;0;2;2;1
+54783;Interr;3;3;1;1;3;1
+78501;Interr;1;1;0;1;1;0
+45480;Interr;4;1;1;2;0;0
+71740;Casual;2;0;0;4;1;1
+88132;Delegador;0;0;0;3;3;0
+53460;Interr;3;3;1;6;1;0
+53468;Delegador;0;0;0;1;2;1
+36451;Casual;1;1;0;2;0;0
+27496;Delegador;0;0;0;2;2;0
+40979;Deleg. reasig.;0;0;0;10;3;0
+63854;Casual;2;0;0;5;3;1
+61254;Delegador;0;0;0;4;1;1
+90883;Participativo;0;1;1;0;0;1
+94211;Interr;2;1;0;7;3;1
+27570;Deleg. reasig.;0;0;0;2;5;1
+7796;Interr;1;1;0;2;3;0
+49214;Casual;1;1;0;5;2;1
+31010;Delegador;0;0;0;4;0;0
+75203;Participativo;7;6;1;2;2;0
+39669;Deleg. reasig.;0;0;0;3;3;0
+33903;Delegador;0;0;0;7;1;1
+103662;Interr;1;1;0;1;1;0
+17833;Deleg. reasig.;0;0;0;2;1;0
+90369;Casual;2;0;0;8;1;1
+23720;Casual;1;1;0;2;4;0
+66058;Casual;1;1;0;4;2;0
+34672;Casual;2;0;1;5;2;0
+2521;Deleg. reasig.;0;0;0;3;2;1
+38174;Deleg. reasig.;0;0;0;7;3;0
+10791;Delegador;0;0;0;1;4;0
+82248;Casual;2;0;1;3;1;0
+23719;Casual;1;1;0;1;3;0
+7584;Deleg. reasig.;0;0;0;3;1;0
+61036;Interr;2;2;1;2;0;0
+29540;Deleg. reasig.;0;0;0;1;1;0
+29774;Participativo;1;1;1;0;0;0
+56008;Interr;3;2;1;1;0;0
+28104;Casual;2;1;0;5;1;1
+30170;Delegador;0;0;0;6;2;0
+10724;Deleg. reasig.;0;0;0;5;1;1
+50394;Interr;1;2;0;3;1;0
+46316;Casual;1;1;0;3;2;1
+61460;Deleg. reasig.;0;0;0;2;1;0
+76640;Interr;2;2;1;5;2;0
+47142;Deleg. reasig.;0;0;0;8;4;1
+43789;Deleg. reasig.;0;0;0;5;4;1
+33843;Delegador;0;0;0;4;2;1
+20661;Interr;2;1;2;3;1;0
+51090;Casual;2;0;0;7;1;0
+74684;Deleg. reasig.;0;0;0;6;3;0
+97794;Deleg. reasig.;0;0;0;7;2;0
+30217;Delegador;0;0;0;6;1;0
+46882;Deleg. reasig.;0;0;0;8;1;0
+14130;Deleg. reasig.;0;0;0;1;1;1
+16793;Delegador;0;0;0;3;5;0
+11301;Casual;1;1;0;3;2;0
+110328;Interr;3;2;0;2;1;0
+29026;Deleg. reasig.;0;0;0;4;2;0
+18553;Delegador;0;0;0;1;4;0
+67135;Delegador;0;0;0;1;3;1
+24208;Interr;1;1;0;1;0;0
+9402;Casual;1;1;0;0;1;0
+31838;Casual;2;1;0;8;3;1
+93806;Interr;1;1;0;4;0;0
+32295;Casual;0;1;1;3;5;0
+44600;Delegador;0;0;0;8;3;1
+30536;Interr;1;1;0;3;1;1
+17146;Deleg. reasig.;0;0;0;2;1;0
+78030;Delegador;0;0;0;3;1;0
+30469;Delegador;0;0;0;5;1;0
+33792;Deleg. reasig.;0;0;0;4;4;0
+93480;Casual;1;1;0;6;4;1
+32979;Casual;1;0;1;5;2;0
+28760;Casual;1;0;1;1;1;0
+93459;Deleg. reasig.;0;0;0;3;2;1
+88439;Interr;1;4;0;1;1;0
+64054;Participativo;2;1;1;1;1;0
+56685;Deleg. reasig.;0;0;0;1;3;1
+62133;Delegador;0;0;0;7;2;2
+65088;Deleg. reasig.;0;0;0;1;1;0
+86743;Casual;2;2;1;9;2;1
+23910;Delegador;0;0;0;4;2;2
+9218;Casual;2;1;0;2;4;0
+86447;Casual;1;0;1;3;1;0
+17185;Casual;1;0;1;1;1;0
+41298;Casual;1;1;1;7;5;1
+33795;Delegador;0;0;0;3;1;1
+89299;Delegador;0;0;0;4;0;1
+81620;Interr;2;0;0;7;1;0
+25161;Deleg. reasig.;0;0;0;2;3;0
+820;Interr;2;1;0;0;1;0
+89183;Interr;1;3;1;3;3;1
+78156;Delegador;0;0;0;3;3;0
+56967;Delegador;0;0;0;12;4;1
+3060;Delegador;0;0;0;3;2;0
+49054;Delegador;0;0;0;4;1;0
+27850;Delegador;0;0;0;4;3;1
+78778;Delegador;0;0;0;2;2;0
+28671;Casual;1;0;1;3;2;0
+76740;Casual;1;2;0;4;2;0
+46206;Deleg. reasig.;0;0;0;6;2;1
+16960;Delegador;0;0;0;3;3;0
+17712;Casual;1;2;0;3;2;0
+71754;Delegador;0;0;0;4;2;1
+68937;Deleg. reasig.;0;0;0;2;2;1
+115438;Delegador;0;0;0;4;2;0
+79105;Interr;2;2;1;4;1;1
+15427;Delegador;0;0;0;4;2;0
+80450;Interr;4;2;0;5;2;0
+499;Interr;1;2;0;2;2;0
+28239;Deleg. reasig.;0;0;0;8;4;1
+110364;Delegador;0;0;0;5;4;1
+48351;Delegador;0;0;0;2;4;0
+36453;Casual;1;1;1;6;0;1
+32363;Interr;2;2;1;2;3;1
+17881;Deleg. reasig.;0;0;0;4;5;1
+70998;Delegador;0;0;0;3;1;0
+35690;Casual;1;1;0;3;2;1
+75687;Interr;0;3;0;5;2;1
+74034;Delegador;0;0;0;3;1;0
+63749;Participativo;5;2;1;2;3;0
+26172;Interr;1;1;1;4;4;1
+14259;Casual;1;1;0;3;0;0
+70185;Interr;3;1;1;3;3;1
+70531;Deleg. reasig.;0;0;0;3;3;0
+1563;Interr;1;1;0;1;1;0
+29356;Delegador;0;0;0;5;2;1
+2643;Casual;2;0;0;0;3;0
+80329;Deleg. reasig.;0;0;0;2;3;1
+4897;Interr;1;1;0;3;2;0
+11895;Deleg. reasig.;0;0;0;5;0;1
+52466;Interr;3;1;1;6;1;1
+28874;Casual;1;1;0;7;2;0
+43831;Casual;1;1;0;3;3;0
+48438;Delegador;0;0;0;6;4;0
+28478;Participativo;5;2;1;0;0;0
+86918;Interr;1;2;0;3;3;0
+97145;Deleg. reasig.;0;0;0;6;1;0
+64106;Delegador;0;0;0;5;4;1
+80406;Deleg. reasig.;0;0;0;5;3;0
+29620;Casual;1;1;1;3;1;0
+36088;Casual;1;1;0;3;3;1
+42093;Delegador;0;0;0;2;1;1
+79057;Casual;1;1;0;7;2;1
+30220;Interr;4;0;0;4;3;0
+28851;Deleg. reasig.;0;0;0;4;2;1
+23054;Casual;1;0;1;4;2;1
+41187;Delegador;0;0;0;1;2;1
+95506;Delegador;0;0;0;0;4;0
+5870;Deleg. reasig.;0;0;0;1;2;0
+69075;Casual;1;1;1;5;2;0
+5110;Interr;2;3;1;3;2;1
+75708;Interr;3;1;1;5;1;1
+53878;Casual;1;1;0;5;1;0
+26136;Delegador;0;0;0;2;2;0
+99494;Interr;1;1;0;1;0;0
+90602;Participativo;4;2;1;2;0;0
+62810;Casual;0;2;0;6;4;1
+2353;Casual;1;1;0;3;1;0
+113980;Casual;1;0;1;2;1;0
+55072;Casual;1;1;0;2;1;0
+14766;Delegador;0;0;0;2;2;0
+59002;Deleg. reasig.;0;0;0;1;2;0
+32143;Deleg. reasig.;0;0;0;4;1;0
+457;Delegador;0;0;0;5;3;0
+110126;Deleg. reasig.;0;0;0;6;4;1
+44432;Interr;3;1;1;3;2;1
+50757;Deleg. reasig.;0;0;0;2;2;0
+33482;Casual;1;1;0;3;6;1
+53562;Deleg. reasig.;0;0;0;6;3;0
+17807;Casual;1;1;0;2;2;1
+6517;Delegador;0;0;0;4;1;0
+105873;Casual;1;0;1;1;1;0
+96193;Interr;2;2;1;4;3;1
+111706;Deleg. reasig.;0;0;0;3;1;0
+89816;Casual;0;2;0;4;4;1
+29575;Casual;1;0;1;3;1;0
+94765;Casual;1;1;0;1;2;0
+16323;Delegador;0;0;0;1;2;1
+10792;Delegador;0;0;0;3;1;0
+7935;Deleg. reasig.;0;0;0;4;1;1
+85343;Interr;1;2;0;1;1;0
+2642;Deleg. reasig.;0;0;0;1;1;0
+1603;Delegador;0;0;0;5;4;1
+72229;Casual;1;1;0;5;5;0
+15356;Interr;1;1;0;0;1;1
+25741;Delegador;0;0;0;2;2;0
+68807;Deleg. reasig.;0;0;0;5;2;1
+34245;Deleg. reasig.;0;0;0;6;1;0
+48248;Delegador;0;0;0;1;4;1
+57544;Delegador;0;0;0;4;0;0
+6879;Delegador;0;0;0;0;3;0
+43497;Interr;3;2;1;4;4;2
+51923;Interr;1;1;0;4;2;1
+67636;Deleg. reasig.;0;0;0;5;3;0
+32638;Deleg. reasig.;0;0;0;2;1;1
+34368;Interr;2;1;0;1;2;0
+34867;Casual;2;1;0;3;2;1
+33789;Deleg. reasig.;0;0;0;3;2;0
+40008;Deleg. reasig.;0;0;0;6;4;0
+86364;Participativo;1;1;0;1;1;0
+9535;Deleg. reasig.;0;0;0;3;2;0
+64042;Casual;1;1;1;3;2;0
+5093;Casual;1;1;0;3;0;0
+67761;Deleg. reasig.;0;0;0;4;0;1
+115414;Casual;1;1;0;4;2;1
+96392;Casual;1;1;0;0;3;0
+78983;Casual;1;0;1;1;0;0
+20733;Participativo;1;1;0;0;1;0
+2727;Deleg. reasig.;0;0;0;5;3;0
+31841;Deleg. reasig.;0;0;0;6;1;1
+1922;Deleg. reasig.;0;0;0;3;1;0
+2852;Deleg. reasig.;0;0;0;2;3;0
+16610;Delegador;0;0;0;4;3;1
+63895;Casual;2;0;0;1;1;0
+57867;Casual;0;1;1;5;0;1
+89555;Casual;1;1;0;2;3;0
+79667;Participativo;1;0;1;0;0;0
+34224;Interr;2;1;0;4;0;0
+37248;Delegador;0;0;0;6;1;0
+114764;Interr;5;2;1;2;1;1
+92070;Deleg. reasig.;0;0;0;8;3;1
+40388;Deleg. reasig.;0;0;0;7;2;1
+113728;Casual;1;1;0;5;2;2
+107320;Casual;1;1;0;7;2;1
+35149;Deleg. reasig.;0;0;0;4;1;1
+2244;Delegador;0;0;0;4;3;0
+81708;Casual;1;1;0;6;2;0
+88756;Deleg. reasig.;0;0;0;0;4;1
+5966;Deleg. reasig.;0;0;0;3;2;0
+39077;Delegador;0;0;0;4;0;0
+5992;Deleg. reasig.;0;0;0;2;2;2
+72479;Deleg. reasig.;0;0;0;3;2;0
+9278;Delegador;0;0;0;2;4;0
+105524;Casual;1;2;0;5;3;2
+43115;Participativo;6;4;1;2;0;0
+3110;Interr;3;1;0;2;1;0
+62277;Interr;2;1;0;4;3;0
+79940;Delegador;0;0;0;2;1;1
+30394;Deleg. reasig.;0;0;0;1;2;0
+31020;Casual;3;3;0;6;3;1
+8739;Deleg. reasig.;0;0;0;1;3;0
+10521;Deleg. reasig.;0;0;0;4;1;0
+82526;Deleg. reasig.;0;0;0;1;3;0
+44177;Casual;2;0;0;5;1;1
+4473;Delegador;0;0;0;2;3;0
+94587;Deleg. reasig.;0;0;0;2;6;0
+11058;Casual;1;1;1;1;3;1
+31339;Casual;3;1;1;3;3;0
+13956;Deleg. reasig.;0;0;0;4;2;2
+26125;Deleg. reasig.;0;0;0;7;3;2
+31798;Casual;2;1;1;6;2;0
+115124;Interr;2;1;1;2;1;0
+43216;Deleg. reasig.;0;0;0;5;3;1
+110115;Casual;4;3;0;8;1;1
+100079;Interr;1;1;1;1;1;0
+35106;Casual;2;0;0;4;0;1
+27420;Casual;1;1;0;2;2;1
+93991;Casual;1;1;0;4;1;1
+91819;Casual;1;1;0;1;3;0
+66966;Interr;2;3;1;2;3;0
+48622;Deleg. reasig.;0;0;0;6;2;0
+29193;Delegador;0;0;0;6;4;0
+46184;Participativo;3;0;0;1;0;1
+25930;Interr;1;2;1;0;1;2
+7067;Interr;3;2;1;3;2;2
+2340;Deleg. reasig.;0;0;0;3;3;0
+32640;Delegador;0;0;0;3;3;0
+3578;Interr;3;3;0;2;2;1
+82915;Casual;0;2;0;3;2;1
+17366;Deleg. reasig.;0;0;0;4;3;0
+863;Deleg. reasig.;0;0;0;3;1;0
+38027;Casual;1;1;0;2;2;0
+61330;Participativo;6;3;2;2;1;0
+1979;Casual;1;0;1;4;2;1
+62305;Deleg. reasig.;0;0;0;8;2;3
+59603;Delegador;0;0;0;2;2;0
+41359;Casual;2;1;1;5;4;2
+69533;Delegador;0;0;0;3;1;1
+110219;Delegador;0;0;0;2;1;1
+107260;Delegador;0;0;0;4;1;0
+87072;Interr;1;2;0;2;2;1
+22526;Delegador;0;0;0;2;2;0
+59136;Deleg. reasig.;0;0;0;6;3;0
+92274;Casual;2;1;0;5;2;1
+104983;Interr;2;1;0;5;2;1
+102773;Deleg. reasig.;0;0;0;1;2;0
+101337;Delegador;0;0;0;5;3;0
+37892;Delegador;0;0;0;5;3;0
+55155;Deleg. reasig.;0;0;0;3;2;1
+34477;Delegador;0;0;0;3;0;1
+43306;Interr;4;2;0;4;2;1
+95218;Casual;1;2;0;6;0;0
+16502;Casual;1;0;1;3;2;0
+31943;Delegador;0;0;0;9;3;0
+9294;Casual;1;1;0;1;1;0
+671;Deleg. reasig.;0;0;0;3;1;1
+6940;Casual;1;1;0;1;2;0
+31771;Delegador;0;0;0;6;1;0
+16611;Delegador;0;0;0;3;3;0
+25466;Delegador;0;0;0;3;1;0
+98025;Deleg. reasig.;0;0;0;6;4;1
+57224;Interr;5;3;1;1;0;0
+14459;Delegador;0;0;0;1;2;2
+21506;Deleg. reasig.;0;0;0;2;4;0
+27887;Casual;1;2;0;2;4;1
+44599;Deleg. reasig.;0;0;0;9;3;0
+20688;Deleg. reasig.;0;0;0;1;4;0
+10899;Participativo;3;1;0;1;0;0
+7224;Casual;2;0;0;2;2;1
+15430;Delegador;0;0;0;3;5;1
+34133;Delegador;0;0;0;5;2;0
+67484;Delegador;0;0;0;3;3;0
+82938;Deleg. reasig.;0;0;0;2;2;0
+78777;Delegador;0;0;0;7;3;1
+91281;Casual;1;2;1;4;4;0
+92653;Delegador;0;0;0;1;3;0
+71235;Delegador;0;0;0;9;3;1
+6418;Casual;1;1;0;0;1;1
+5164;Delegador;0;0;0;4;2;0
+106083;Delegador;0;0;0;5;1;0
+9272;Participativo;4;3;3;0;0;0
+30744;Casual;1;1;0;4;1;0
+53877;Participativo;2;2;0;0;1;0
+81888;Delegador;0;0;0;8;5;1
+59503;Casual;2;0;0;6;0;0
+61081;Casual;2;0;0;4;1;0
+39332;Interr;2;0;1;3;2;0
+71126;Interr;1;2;1;5;1;1
+88983;Interr;2;2;0;2;1;0
+104711;Casual;1;1;0;4;2;2
+3340;Deleg. reasig.;0;0;0;2;1;1
+52866;Casual;2;2;0;6;4;1
+16603;Casual;0;1;1;1;3;0
+4498;Delegador;0;0;0;2;2;0
+78626;Casual;2;1;0;7;1;2
+108337;Delegador;0;0;0;3;1;0
+51947;Casual;1;0;1;3;3;1
+5660;Casual;1;2;1;2;2;0
+9693;Delegador;0;0;0;1;2;1
+5318;Deleg. reasig.;0;0;0;3;1;1
+2611;Deleg. reasig.;0;0;0;1;0;0
+94490;Casual;2;0;0;2;2;0
+79287;Deleg. reasig.;0;0;0;4;2;0
+77898;Delegador;0;0;0;6;2;0
+35892;Participativo;3;1;1;0;0;0
+95283;Deleg. reasig.;0;0;0;3;4;1
+7986;Deleg. reasig.;0;0;0;3;3;0
+29969;Casual;1;1;1;5;3;1
+96146;Casual;0;1;1;4;5;1
+65731;Casual;1;1;1;4;2;0
+105714;Deleg. reasig.;0;0;0;0;3;0
+41923;Deleg. reasig.;0;0;0;2;2;0
+45152;Deleg. reasig.;0;0;0;3;2;1
+3127;Interr;1;1;0;1;0;0
+3599;Casual;1;1;0;1;2;0
+36667;Delegador;0;0;0;2;1;1
+27685;Deleg. reasig.;0;0;0;4;2;1
+34173;Deleg. reasig.;0;0;0;7;1;0
+96388;Interr;1;2;0;1;0;0
+32139;Casual;1;1;0;7;5;1
+47988;Casual;2;1;0;3;2;0
+384;Casual;2;1;0;3;4;0
+71759;Casual;1;1;1;8;1;1
+13958;Deleg. reasig.;0;0;0;5;2;0
+35896;Delegador;0;0;0;4;1;0
+17363;Delegador;0;0;0;3;5;1
+17190;Deleg. reasig.;0;0;0;4;3;2
+90621;Interr;1;1;0;3;1;0
+53435;Deleg. reasig.;0;0;0;7;4;0
+3466;Delegador;0;0;0;3;5;1
+6997;Delegador;0;0;0;3;4;0
+16282;Interr;2;2;2;2;1;0
+48868;Deleg. reasig.;0;0;0;5;1;1
+73330;Deleg. reasig.;0;0;0;4;1;0
+89430;Delegador;0;0;0;7;2;0
+28761;Deleg. reasig.;0;0;0;1;1;1
+10609;Deleg. reasig.;0;0;0;2;4;0
+2025;Deleg. reasig.;0;0;0;4;1;2
+50965;Casual;1;1;0;3;2;1
+21197;Delegador;0;0;0;2;1;1
+83863;Delegador;0;0;0;1;2;0
+51132;Deleg. reasig.;0;0;0;2;1;0
+45022;Casual;2;0;0;5;2;1
+1422;Casual;0;1;1;3;1;1
+47185;Casual;1;1;0;6;3;0
+46560;Deleg. reasig.;0;0;0;4;2;0
+114802;Delegador;0;0;0;6;2;0
+88292;Casual;3;1;0;3;5;1
+7533;Interr;1;2;0;2;0;0
+27596;Delegador;0;0;0;2;2;0
+107306;Delegador;0;0;0;4;2;0
+15129;Delegador;0;0;0;1;5;0
+30529;Casual;0;1;1;4;2;1
+112026;Participativo;2;1;1;0;0;2
+17868;Casual;1;1;0;1;2;0
+43440;Casual;1;2;0;2;3;1
+36861;Interr;2;1;0;4;0;0
+257;Delegador;0;0;0;5;3;0
+5179;Deleg. reasig.;0;0;0;5;3;0
+112801;Delegador;0;0;0;3;1;0
+3486;Delegador;0;0;0;3;1;0
+11955;Delegador;0;0;0;3;4;0
+40064;Deleg. reasig.;0;0;0;7;2;1
+21391;Delegador;0;0;0;9;6;0
+9247;Delegador;0;0;0;2;2;0
+77282;Deleg. reasig.;0;0;0;1;2;1
+28806;Delegador;0;0;0;4;3;1
+90171;Participativo;2;1;0;0;2;0
+57485;Casual;1;1;1;3;4;0
+32332;Casual;2;0;0;1;1;0
+2781;Interr;3;1;1;1;1;0
+76036;Interr;1;1;1;2;3;1
+11362;Casual;2;2;1;4;2;1
+6199;Interr;1;1;1;1;2;1
+94169;Delegador;0;0;0;3;1;0
+79419;Casual;2;1;0;2;2;0
+48503;Casual;2;1;0;4;2;1
+61290;Deleg. reasig.;0;0;0;4;2;1
+105852;Casual;0;2;0;1;0;1
+55567;Deleg. reasig.;0;0;0;8;5;0
+45680;Delegador;0;0;0;4;3;1
+25111;Interr;3;1;2;2;3;1
+14299;Deleg. reasig.;0;0;0;4;2;0
+27867;Interr;3;0;0;3;0;0
+31361;Casual;2;1;0;6;4;1
+23744;Casual;1;2;1;4;4;1
+84781;Interr;3;2;2;3;1;1
+1920;Casual;2;1;1;4;2;1
+24337;Deleg. reasig.;0;0;0;4;4;0
+23928;Delegador;0;0;0;7;4;0
+26303;Casual;1;1;1;4;2;1
+48990;Deleg. reasig.;0;0;0;3;2;1
+39778;Delegador;0;0;0;4;3;0
+33250;Deleg. reasig.;0;0;0;9;5;0
+29394;Casual;1;1;0;7;3;1
+62053;Delegador;0;0;0;7;4;1
+28224;Interr;3;2;0;3;1;1
+113938;Casual;1;1;1;2;1;1
+85753;Deleg. reasig.;0;0;0;3;4;1
+59656;Deleg. reasig.;0;0;0;2;0;1
+38625;Deleg. reasig.;0;0;0;5;2;1
+45092;Deleg. reasig.;0;0;0;3;2;2
+12291;Delegador;0;0;0;2;3;0
+15712;Deleg. reasig.;0;0;0;1;3;0
+49508;Interr;2;1;0;3;1;3
+109755;Deleg. reasig.;0;0;0;7;1;0
+33293;Deleg. reasig.;0;0;0;5;4;0
+102295;Interr;1;1;0;2;0;2
+61681;Delegador;0;0;0;7;1;0
+42601;Interr;3;2;0;3;1;1
+12045;Deleg. reasig.;0;0;0;3;3;1
+100921;Casual;2;2;1;6;4;0
+75260;Interr;5;3;0;1;2;1
+91380;Deleg. reasig.;0;0;0;4;2;1
+34788;Delegador;0;0;0;3;1;0
+103623;Participativo;5;6;2;1;1;0
+30153;Interr;2;2;0;6;1;1
+68836;Deleg. reasig.;0;0;0;1;5;0
+103572;Delegador;0;0;0;2;1;0
+17726;Casual;2;1;2;4;5;0
+35561;Participativo;1;0;1;1;2;0
+9655;Participativo;1;3;0;0;0;0
+89059;Deleg. reasig.;0;0;0;1;2;0
+102467;Deleg. reasig.;0;0;0;1;3;1
+60909;Deleg. reasig.;0;0;0;2;2;1
+112448;Interr;1;1;1;5;1;0
+54030;Deleg. reasig.;0;0;0;2;1;2
+90941;Deleg. reasig.;0;0;0;3;0;1
+52340;Casual;1;1;1;3;2;1
+66733;Casual;2;0;0;6;2;1
+59328;Participativo;2;1;1;1;0;0
+11941;Delegador;0;0;0;4;4;0
+29532;Delegador;0;0;0;7;0;1
+9508;Casual;1;1;0;4;2;0
+29292;Interr;3;2;1;6;2;1
+38193;Deleg. reasig.;0;0;0;10;0;0
+2550;Delegador;0;0;0;1;3;0
+98631;Interr;1;2;1;2;2;1
+3299;Delegador;0;0;0;2;3;0
+57503;Interr;2;3;1;2;4;1
+113261;Deleg. reasig.;0;0;0;3;1;1
+46275;Deleg. reasig.;0;0;0;2;0;1
+52158;Interr;4;0;0;2;3;0
+74475;Delegador;0;0;0;3;3;0
+63366;Deleg. reasig.;0;0;0;3;2;0
+112423;Deleg. reasig.;0;0;0;2;1;0
+90073;Casual;1;2;0;6;3;2
+100618;Interr;3;1;0;3;1;2
+92957;Deleg. reasig.;0;0;0;4;0;0
+2977;Deleg. reasig.;0;0;0;1;3;0
+34848;Participativo;1;1;1;1;0;1
+83907;Casual;3;2;0;1;2;0
+25149;Delegador;0;0;0;2;2;0
+66008;Deleg. reasig.;0;0;0;7;3;1
+63204;Casual;1;1;0;7;5;2
+97868;Delegador;0;0;0;3;3;0
+65338;Interr;3;3;1;1;0;1
+44875;Delegador;0;0;0;4;3;2
+62739;Casual;2;0;0;4;2;2
+21501;Delegador;0;0;0;4;1;0
+7052;Delegador;0;0;0;3;2;0
+2335;Delegador;0;0;0;2;4;0
+44373;Casual;2;1;0;6;1;1
+68456;Interr;1;1;0;3;1;1
+80271;Delegador;0;0;0;2;4;1
+21503;Deleg. reasig.;0;0;0;4;2;0
+47392;Casual;1;2;0;4;3;2
+15902;Casual;1;1;0;1;2;0
+21318;Delegador;0;0;0;1;2;1
+7861;Casual;1;1;0;0;2;0
+104773;Interr;2;1;0;1;1;0
+10575;Deleg. reasig.;0;0;0;5;2;0
+30253;Deleg. reasig.;0;0;0;6;2;0
+112736;Deleg. reasig.;0;0;0;2;0;0
+93264;Deleg. reasig.;0;0;0;5;3;2
+92018;Delegador;0;0;0;4;1;0
+13255;Deleg. reasig.;0;0;0;1;1;0
+65092;Casual;1;1;1;7;2;1
+57009;Deleg. reasig.;0;0;0;3;0;0
+13733;Deleg. reasig.;0;0;0;2;1;0
+5019;Delegador;0;0;0;3;7;0
+24407;Delegador;0;0;0;3;3;0
+69229;Deleg. reasig.;0;0;0;3;2;1
+113093;Interr;2;1;1;3;0;1
+94994;Interr;1;1;0;3;1;1
+3565;Interr;1;1;0;1;0;1
+27357;Casual;1;1;0;4;0;0
+64357;Delegador;0;0;0;2;2;0
+16115;Delegador;0;0;0;1;3;0
+15035;Interr;2;1;0;2;2;0
+78043;Casual;3;2;0;6;2;2
+31615;Delegador;0;0;0;2;3;0
+81315;Casual;1;1;0;7;4;1
+2603;Casual;2;1;1;2;1;0
+95064;Deleg. reasig.;0;0;0;5;2;1
+28676;Deleg. reasig.;0;0;0;4;2;0
+47992;Delegador;0;0;0;4;6;1
+71338;Casual;1;1;0;4;1;0
+29194;Casual;0;2;0;3;0;0
+89305;Deleg. reasig.;0;0;0;7;2;2
+558;Interr;3;1;0;1;3;0
+66543;Delegador;0;0;0;8;2;1
+73620;Deleg. reasig.;0;0;0;5;1;1
+30156;Interr;1;1;0;5;1;1
+60610;Casual;3;0;0;4;1;1
+71999;Interr;3;2;1;5;4;0
+18917;Casual;3;0;1;4;2;1
+59322;Interr;2;1;1;3;4;0
+31842;Casual;1;1;1;1;1;0
+52648;Casual;2;0;0;1;4;0
+59197;Casual;2;1;0;4;1;1
+99121;Participativo;3;2;1;0;2;1
+110110;Interr;3;2;0;5;2;3
+19926;Deleg. reasig.;0;0;0;1;2;0
+60385;Interr;3;3;2;3;1;0
+79821;Casual;1;1;0;2;0;0
+61713;Interr;1;1;0;2;0;0
+53516;Casual;1;1;0;4;1;0
+46410;Casual;2;0;1;2;0;0
+76884;Deleg. reasig.;0;0;0;6;4;1
+37090;Deleg. reasig.;0;0;0;4;1;0
+25557;Delegador;0;0;0;4;4;0
+109679;Casual;2;0;1;1;1;0
+21417;Participativo;1;1;1;1;0;0
+23428;Delegador;0;0;0;1;3;2
+65449;Delegador;0;0;0;2;2;0
+84208;Interr;2;1;1;2;0;1
+21322;Casual;1;1;0;4;4;0
+3035;Casual;1;2;0;2;5;1
+94489;Casual;0;2;0;3;1;0
+61030;Deleg. reasig.;0;0;0;3;2;0
+20640;Delegador;0;0;0;3;1;0
+27450;Delegador;0;0;0;6;1;1
+50393;Deleg. reasig.;0;0;0;5;4;0
+62928;Deleg. reasig.;0;0;0;2;1;0
+28253;Casual;2;0;1;3;3;0
+78747;Delegador;0;0;0;2;2;0
+112804;Delegador;0;0;0;2;2;0
+35838;Delegador;0;0;0;3;2;1
+36846;Casual;2;0;1;1;1;0
+96889;Interr;1;1;1;2;0;0
+98847;Delegador;0;0;0;3;2;1
+27510;Delegador;0;0;0;4;0;0
+686;Deleg. reasig.;0;0;0;2;1;1
+88997;Deleg. reasig.;0;0;0;5;2;2
+87448;Participativo;1;1;0;0;1;1
+41655;Deleg. reasig.;0;0;0;3;1;0
+102626;Interr;1;2;1;1;2;0
+23866;Deleg. reasig.;0;0;0;1;2;0
+6302;Casual;2;1;1;3;2;0
+39251;Deleg. reasig.;0;0;0;5;1;0
+4412;Deleg. reasig.;0;0;0;2;1;1
+39734;Casual;1;1;0;5;1;0
+19186;Interr;4;3;1;5;3;2
+81737;Casual;1;1;0;4;4;0
+42530;Casual;2;0;0;3;2;1
+93640;Delegador;0;0;0;3;3;1
+87430;Deleg. reasig.;0;0;0;3;2;0
+27686;Deleg. reasig.;0;0;0;3;1;0
+15094;Deleg. reasig.;0;0;0;1;0;0
+15034;Participativo;1;1;0;0;0;0
+29259;Casual;3;1;0;6;3;0
+8718;Interr;3;2;2;1;4;1
+105474;Casual;2;0;0;4;4;0
+4740;Interr;2;0;2;0;1;1
+79874;Casual;2;2;1;2;3;1
+68979;Casual;1;1;0;2;0;0
+2356;Casual;2;0;0;4;1;0
+7693;Deleg. reasig.;0;0;0;2;4;0
+72642;Casual;1;1;1;8;5;1
+3191;Delegador;0;0;0;4;2;1
+93995;Delegador;0;0;0;5;0;0
+35481;Delegador;0;0;0;5;3;1
+723;Deleg. reasig.;0;0;0;0;3;1
+45532;Casual;1;1;0;3;1;0
+88160;Interr;2;1;1;1;1;1
+19897;Interr;3;2;0;2;1;0
+49592;Interr;0;1;1;2;0;0
+71951;Delegador;0;0;0;3;2;1
+19673;Deleg. reasig.;0;0;0;3;1;0
+96578;Interr;2;1;0;4;1;1
+84134;Delegador;0;0;0;3;1;0
+15458;Delegador;0;0;0;4;4;1
+81166;Delegador;0;0;0;3;0;1
+7220;Delegador;0;0;0;1;3;0
+55995;Interr;2;2;0;4;1;2
+5145;Casual;1;1;0;1;1;0
+43139;Casual;0;1;1;6;3;3
+56296;Delegador;0;0;0;5;1;2
+67957;Delegador;0;0;0;6;2;0
+61387;Deleg. reasig.;0;0;0;6;3;0
+73843;Delegador;0;0;0;4;3;0
+74868;Delegador;0;0;0;2;3;0
+105827;Participativo;5;3;2;1;0;0
+12083;Deleg. reasig.;0;0;0;4;1;0
+99568;Deleg. reasig.;0;0;0;4;2;0
+70869;Casual;1;1;0;3;4;1
+27529;Interr;1;2;0;3;3;1
+33460;Delegador;0;0;0;4;0;0
+679;Casual;1;0;1;2;1;1
+43994;Delegador;0;0;0;3;2;0
+114957;Deleg. reasig.;0;0;0;8;3;2
+72727;Delegador;0;0;0;3;1;0
+21611;Deleg. reasig.;0;0;0;3;3;0
+9536;Casual;1;0;1;1;0;0
+68466;Delegador;0;0;0;5;1;1
+20880;Deleg. reasig.;0;0;0;4;5;1
+107576;Casual;1;1;1;0;1;0
+34121;Delegador;0;0;0;5;1;0
+112847;Delegador;0;0;0;1;2;1
+66009;Delegador;0;0;0;4;0;0
+55869;Deleg. reasig.;0;0;0;8;2;1
+113661;Interr;1;0;1;1;1;1
+64377;Delegador;0;0;0;1;4;0
+60152;Participativo;5;5;0;0;0;0
+89185;Casual;0;1;1;4;1;1
+105782;Casual;2;0;1;5;2;1
+75549;Delegador;0;0;0;5;4;0
+59213;Deleg. reasig.;0;0;0;6;3;2
+136;Delegador;0;0;0;5;6;0
+2993;Deleg. reasig.;0;0;0;3;3;1
+48016;Delegador;0;0;0;3;1;2
+107840;Casual;1;1;1;3;3;0
+81045;Interr;2;2;1;3;3;1
+58029;Interr;5;1;0;6;2;0
+22277;Delegador;0;0;0;3;2;0
+115105;Delegador;0;0;0;2;3;2
+33420;Casual;1;1;0;7;3;1
+54083;Deleg. reasig.;0;0;0;4;2;0
+33165;Casual;1;0;1;6;1;1
+61198;Interr;2;1;2;4;3;0
+29541;Casual;3;1;1;3;4;1
+56965;Casual;1;1;0;5;2;1
+65779;Delegador;0;0;0;3;3;2
+42274;Casual;1;2;1;8;0;1
+16084;Participativo;3;3;0;1;0;0
+33735;Interr;1;3;0;6;3;1
+14513;Interr;0;1;1;1;2;0
+23487;Interr;2;1;0;2;4;0
+1225;Casual;1;0;1;3;0;2
+87759;Casual;1;0;1;3;1;0
+2031;Deleg. reasig.;0;0;0;3;1;0
+4439;Delegador;0;0;0;3;1;1
+44853;Interr;6;2;1;3;1;0
+7258;Interr;1;1;0;2;2;0
+3671;Casual;1;1;0;0;1;0
+4887;Casual;1;1;0;0;6;0
+11580;Delegador;0;0;0;6;3;0
+79216;Deleg. reasig.;0;0;0;1;2;0
+77055;Deleg. reasig.;0;0;0;4;4;0
+114706;Deleg. reasig.;0;0;0;5;4;2
+61293;Participativo;2;1;1;1;1;0
+63993;Delegador;0;0;0;7;3;2
+33491;Casual;2;0;1;5;3;1
+107855;Casual;3;1;0;5;2;0
+34603;Interr;3;1;2;3;2;0
+73677;Casual;1;1;0;7;0;0
+3780;Casual;1;1;0;1;1;1
+81462;Deleg. reasig.;0;0;0;9;4;1
+17191;Delegador;0;0;0;3;4;3
+28484;Casual;2;1;0;5;1;1
+33528;Deleg. reasig.;0;0;0;6;3;0
+28635;Casual;1;1;0;6;0;1
+77513;Deleg. reasig.;0;0;0;5;4;1
+61536;Casual;1;1;0;6;4;0
+95478;Delegador;0;0;0;2;3;0
+21537;Delegador;0;0;0;2;1;1
+5546;Deleg. reasig.;0;0;0;2;3;0
+51915;Deleg. reasig.;0;0;0;5;2;1
+66634;Casual;1;1;2;0;4;0
+67559;Deleg. reasig.;0;0;0;2;1;1
+57799;Deleg. reasig.;0;0;0;8;1;1
+36965;Deleg. reasig.;0;0;0;4;2;0
+2012;Deleg. reasig.;0;0;0;3;4;0
+25340;Casual;1;1;0;4;1;1
+59459;Interr;2;2;1;7;1;2
+36584;Deleg. reasig.;0;0;0;6;3;0
+67399;Deleg. reasig.;0;0;0;2;3;0
+4200;Deleg. reasig.;0;0;0;6;3;0
+35029;Casual;2;0;1;3;0;1
+50906;Delegador;0;0;0;4;4;0
+102746;Participativo;5;2;2;0;1;0
+8255;Deleg. reasig.;0;0;0;1;3;0
+27895;Interr;3;2;1;5;3;1
+61374;Delegador;0;0;0;5;1;0
+37628;Participativo;1;2;1;1;1;0
+80732;Delegador;0;0;0;4;0;0
+60861;Casual;5;0;0;2;2;1
+11993;Delegador;0;0;0;3;2;0
+110454;Deleg. reasig.;0;0;0;5;0;1
+48909;Casual;2;2;1;5;1;1
+1938;Deleg. reasig.;0;0;0;5;2;0
+4676;Casual;1;1;0;3;3;0
+70411;Casual;2;2;0;7;0;1
+3597;Deleg. reasig.;0;0;0;3;2;0
+43033;Deleg. reasig.;0;0;0;5;2;1
+110064;Participativo;3;1;0;1;0;1
+52047;Delegador;0;0;0;3;1;1
+62867;Interr;2;1;1;2;0;1
+8681;Deleg. reasig.;0;0;0;3;4;0
+43980;Deleg. reasig.;0;0;0;11;1;0
+97034;Deleg. reasig.;0;0;0;1;2;0
+33143;Deleg. reasig.;0;0;0;3;2;0
+37281;Delegador;0;0;0;3;1;0
+17337;Deleg. reasig.;0;0;0;2;0;0
+58797;Interr;3;2;0;5;2;2
+22794;Deleg. reasig.;0;0;0;2;3;0
+87621;Casual;1;2;0;5;4;1
+4329;Interr;1;1;0;3;2;1
+69716;Interr;2;1;1;2;0;0
+61975;Delegador;0;0;0;3;2;1
+37390;Delegador;0;0;0;7;1;1
+58998;Deleg. reasig.;0;0;0;8;3;1
+27581;Interr;1;3;1;2;2;0
+92419;Casual;2;0;0;5;2;1
+10379;Deleg. reasig.;0;0;0;6;4;0
+44854;Interr;3;1;1;4;1;1
+88612;Delegador;0;0;0;5;2;0
+31332;Interr;2;1;0;5;1;1
+45553;Delegador;0;0;0;6;1;1
+29351;Casual;1;0;1;6;1;0
+24163;Delegador;0;0;0;3;3;0
+5504;Interr;1;2;0;2;2;0
+105619;Deleg. reasig.;0;0;0;8;4;3
+32164;Participativo;2;2;0;1;0;1
+105121;Interr;2;1;1;1;0;1
+48814;Deleg. reasig.;0;0;0;7;5;1
+67096;Interr;0;1;1;1;0;0
+94400;Delegador;0;0;0;5;0;0
+52880;Deleg. reasig.;0;0;0;3;3;1
+12448;Delegador;0;0;0;3;3;1
+46376;Deleg. reasig.;0;0;0;9;3;1
+40222;Delegador;0;0;0;4;1;1
+42793;Participativo;2;2;0;0;0;0
+37615;Interr;5;1;1;3;1;0
+75960;Casual;2;1;2;6;1;1
+63757;Delegador;0;0;0;4;1;0
+56347;Casual;1;1;0;4;1;0
+37453;Deleg. reasig.;0;0;0;4;4;1
+78248;Delegador;0;0;0;3;5;0
+46346;Deleg. reasig.;0;0;0;4;2;0
+41524;Interr;3;0;1;1;3;1
+44313;Casual;2;0;0;3;2;0
+16698;Deleg. reasig.;0;0;0;3;1;0
+29100;Casual;1;0;1;3;2;1
+30652;Casual;1;2;0;3;3;0
+90323;Deleg. reasig.;0;0;0;4;3;1
+35353;Interr;3;1;0;3;2;0
+78502;Deleg. reasig.;0;0;0;3;2;0
+34332;Interr;2;1;0;3;0;0
+85795;Casual;2;1;1;4;3;1
+91160;Deleg. reasig.;0;0;0;3;3;0
+86836;Interr;3;2;0;4;4;1
+30246;Delegador;0;0;0;2;3;1
+89986;Delegador;0;0;0;2;2;1
+46449;Casual;2;1;0;2;1;0
+94168;Delegador;0;0;0;3;3;1
+9259;Delegador;0;0;0;5;2;1
+35017;Participativo;2;1;0;0;0;0
+76264;Casual;2;0;0;2;1;1
+83963;Delegador;0;0;0;2;2;0
+8261;Delegador;0;0;0;4;1;0
+57477;Deleg. reasig.;0;0;0;1;2;1
+11643;Delegador;0;0;0;2;4;0
+51305;Delegador;0;0;0;4;1;1
+108870;Participativo;1;3;0;1;2;0
+8147;Casual;2;1;1;2;4;0
+3732;Deleg. reasig.;0;0;0;3;3;0
+55823;Deleg. reasig.;0;0;0;11;0;1
+112177;Deleg. reasig.;0;0;0;4;1;2
+106782;Delegador;0;0;0;6;3;0
+79720;Deleg. reasig.;0;0;0;5;1;1
+51919;Delegador;0;0;0;5;2;1
+53734;Casual;2;2;1;4;3;0
+96912;Deleg. reasig.;0;0;0;4;4;1
+46345;Deleg. reasig.;0;0;0;1;2;0
+5598;Delegador;0;0;0;3;1;0
+74429;Casual;1;1;0;3;2;1
+15612;Participativo;1;2;1;1;0;0
+8592;Delegador;0;0;0;1;5;0
+30054;Delegador;0;0;0;7;0;0
+85084;Deleg. reasig.;0;0;0;5;1;0
+40627;Deleg. reasig.;0;0;0;5;5;0
+42577;Casual;2;0;0;6;3;0
+94399;Interr;2;0;0;4;0;1
+19287;Casual;1;2;1;1;3;1
+94036;Deleg. reasig.;0;0;0;7;2;2
+63507;Interr;1;1;0;4;0;0
+15350;Deleg. reasig.;0;0;0;2;1;0
+36199;Interr;1;1;0;4;1;1
+77713;Deleg. reasig.;0;0;0;5;2;1
+108283;Delegador;0;0;0;3;4;1
+38468;Deleg. reasig.;0;0;0;3;2;1
+2414;Deleg. reasig.;0;0;0;3;1;0
+32148;Casual;1;1;0;5;3;2
+111704;Deleg. reasig.;0;0;0;4;0;0
+104319;Deleg. reasig.;0;0;0;3;3;0
+47390;Casual;1;1;0;5;4;1
+50278;Delegador;0;0;0;3;1;0
+507;Deleg. reasig.;0;0;0;3;1;0
+91483;Casual;1;1;0;5;2;2
+33326;Deleg. reasig.;0;0;0;5;4;1
+44535;Delegador;0;0;0;4;1;1
+113208;Casual;1;0;1;3;3;0
+9992;Deleg. reasig.;0;0;0;3;1;0
+21970;Delegador;0;0;0;2;2;0
+33686;Casual;2;1;0;4;2;2
+74307;Interr;5;1;1;2;1;0
+16292;Delegador;0;0;0;3;3;0
+56131;Interr;3;1;0;1;5;0
+13565;Deleg. reasig.;0;0;0;2;2;0
+33479;Delegador;0;0;0;4;1;0
+62188;Deleg. reasig.;0;0;0;2;2;2
+75634;Casual;2;0;0;4;2;0
+89385;Casual;2;3;2;4;2;1
+6121;Delegador;0;0;0;4;3;0
+55323;Deleg. reasig.;0;0;0;3;3;0
+13728;Deleg. reasig.;0;0;0;2;2;0
+77794;Interr;1;1;2;8;0;0
+65257;Delegador;0;0;0;7;2;2
+32108;Interr;3;1;0;6;0;0
+62322;Participativo;5;2;0;0;0;1
+81997;Interr;2;3;0;3;1;2
+57765;Casual;1;1;0;4;1;0
+55503;Delegador;0;0;0;4;3;0
+44489;Casual;1;1;1;4;0;0
+16243;Casual;1;2;0;2;2;0
+26908;Deleg. reasig.;0;0;0;1;3;0
+59546;Deleg. reasig.;0;0;0;4;0;0
+59880;Delegador;0;0;0;3;1;0
+107823;Delegador;0;0;0;3;2;1
+25731;Participativo;1;2;1;2;0;0
+60979;Casual;1;1;0;3;1;1
+83920;Delegador;0;0;0;5;3;0
+62787;Deleg. reasig.;0;0;0;6;3;1
+35283;Casual;3;2;0;9;2;1
+20740;Delegador;0;0;0;2;1;0
+48097;Interr;1;1;1;2;4;1
+3284;Delegador;0;0;0;3;1;1
+3891;Participativo;2;3;0;1;0;0
+43164;Casual;1;2;0;8;2;0
+24549;Deleg. reasig.;0;0;0;4;1;0
+16399;Casual;1;1;0;4;1;1
+62352;Participativo;6;4;0;0;0;0
+103047;Deleg. reasig.;0;0;0;2;2;2
+27461;Delegador;0;0;0;5;0;0
+29372;Deleg. reasig.;0;0;0;4;0;0
+6511;Casual;1;2;1;4;1;1
+25662;Deleg. reasig.;0;0;0;3;2;1
+35222;Interr;2;1;0;3;3;0
+28826;Interr;3;2;1;6;2;0
+82979;Interr;1;1;0;3;2;1
+3409;Delegador;0;0;0;3;4;1
+70986;Interr;2;1;0;0;2;0
+73483;Delegador;0;0;0;6;1;1
+33174;Participativo;4;3;1;2;1;0
+28366;Delegador;0;0;0;4;3;1
+63985;Delegador;0;0;0;4;1;0
+35563;Deleg. reasig.;0;0;0;4;3;0
+58898;Delegador;0;0;0;3;2;2
+90485;Casual;1;1;0;2;0;0
+20804;Casual;2;1;1;1;2;1
+81437;Casual;3;0;1;2;1;1
+30981;Participativo;4;1;1;3;1;0
+91496;Casual;1;1;0;1;1;1
+20741;Casual;1;1;0;0;2;0
+73988;Delegador;0;0;0;3;3;0
+11162;Delegador;0;0;0;3;5;0
+30614;Interr;2;3;0;3;1;1
+62353;Casual;1;0;1;5;3;1
+9118;Delegador;0;0;0;2;2;0
+37745;Casual;1;1;0;3;1;1
+66895;Delegador;0;0;0;4;1;2
+42057;Casual;2;1;1;4;4;2
+53246;Deleg. reasig.;0;0;0;2;3;0
+40644;Interr;2;0;1;2;2;0
+112042;Delegador;0;0;0;3;1;1
+2373;Deleg. reasig.;0;0;0;2;3;0
+27395;Casual;1;1;1;5;3;1
+44855;Delegador;0;0;0;3;0;1
+56432;Interr;1;2;1;3;2;1
+35087;Interr;4;4;1;3;2;1
+29220;Delegador;0;0;0;5;1;1
+59915;Deleg. reasig.;0;0;0;3;2;1
+57797;Casual;1;2;0;3;2;0
+78748;Interr;1;1;0;0;2;0
+26968;Deleg. reasig.;0;0;0;2;1;1
+26772;Delegador;0;0;0;4;3;0
+37688;Deleg. reasig.;0;0;0;3;2;0
+9498;Deleg. reasig.;0;0;0;3;2;1
+86930;Delegador;0;0;0;3;2;0
+10067;Interr;1;0;1;2;1;0
+73076;Casual;2;1;1;3;4;0
+34505;Delegador;0;0;0;4;2;0
+14049;Delegador;0;0;0;3;2;0
+6444;Deleg. reasig.;0;0;0;2;2;0
+35198;Casual;2;1;0;7;6;1
+30458;Casual;2;3;1;3;1;0
+107614;Interr;1;2;2;1;0;0
+71497;Casual;2;1;0;8;2;2
+12962;Delegador;0;0;0;3;2;0
+66540;Delegador;0;0;0;4;0;0
+5146;Delegador;0;0;0;5;4;0
+22375;Delegador;0;0;0;3;4;0
+56620;Interr;3;2;0;5;1;0
+77311;Deleg. reasig.;0;0;0;4;2;1
+7688;Delegador;0;0;0;3;5;1
+7876;Delegador;0;0;0;7;4;0
+87401;Interr;2;1;0;2;0;0
+25368;Delegador;0;0;0;3;4;0
+23865;Delegador;0;0;0;1;1;1
+32106;Casual;2;1;0;3;2;0
+53121;Deleg. reasig.;0;0;0;3;2;1
+90855;Deleg. reasig.;0;0;0;4;1;1
+73287;Deleg. reasig.;0;0;0;4;5;1
+13795;Delegador;0;0;0;3;2;2
+18441;Interr;2;1;0;1;3;0
+13152;Delegador;0;0;0;3;2;0
+24491;Deleg. reasig.;0;0;0;1;1;1
+62859;Casual;2;1;0;5;1;1
+72083;Participativo;4;2;1;2;1;0
+52985;Casual;1;0;1;3;2;1
+27324;Interr;1;1;0;0;1;0
+51233;Delegador;0;0;0;6;3;0
+60632;Casual;1;1;0;5;2;2
+42440;Casual;1;1;0;1;2;0
+12810;Delegador;0;0;0;7;2;1
+55953;Delegador;0;0;0;8;3;0
+6642;Deleg. reasig.;0;0;0;3;2;0
+74031;Participativo;1;1;0;1;0;1
+102510;Delegador;0;0;0;5;1;0
+11734;Delegador;0;0;0;3;1;0
+44051;Delegador;0;0;0;3;2;0
+27749;Interr;3;3;0;3;1;0
+30412;Deleg. reasig.;0;0;0;3;1;1
+104460;Deleg. reasig.;0;0;0;5;4;2
+12897;Interr;1;1;0;0;1;0
+58305;Casual;1;2;0;6;2;0
+84561;Interr;1;2;0;5;2;2
+32618;Deleg. reasig.;0;0;0;2;2;1
+76096;Deleg. reasig.;0;0;0;7;1;1
+10167;Deleg. reasig.;0;0;0;3;2;1
+79464;Deleg. reasig.;0;0;0;6;4;2
+46425;Casual;3;1;0;6;1;0
+7015;Deleg. reasig.;0;0;0;1;3;1
+32983;Casual;2;0;0;4;1;0
+65669;Deleg. reasig.;0;0;0;3;1;2
+42055;Casual;4;1;0;6;2;1
+1545;Casual;1;1;0;1;3;0
+25226;Delegador;0;0;0;2;1;1
+3506;Deleg. reasig.;0;0;0;1;2;0
+92651;Deleg. reasig.;0;0;0;2;2;0
+13419;Deleg. reasig.;0;0;0;3;4;0
+39796;Delegador;0;0;0;6;2;1
+78868;Casual;1;1;0;6;3;1
+33131;Deleg. reasig.;0;0;0;7;2;1
+6414;Interr;1;0;1;0;1;1
+61753;Deleg. reasig.;0;0;0;1;2;1
+109416;Deleg. reasig.;0;0;0;5;1;1
+58548;Deleg. reasig.;0;0;0;7;2;0
+84896;Casual;2;0;0;5;2;1
+36662;Deleg. reasig.;0;0;0;1;2;0
+77611;Deleg. reasig.;0;0;0;7;3;2
+21163;Deleg. reasig.;0;0;0;2;2;1
+38013;Casual;2;0;0;4;2;0
+80701;Delegador;0;0;0;3;1;0
+37192;Interr;3;1;0;5;1;0
+4023;Casual;1;1;0;3;3;0
+9410;Deleg. reasig.;0;0;0;1;2;0
+114337;Casual;1;1;0;1;1;1
+50035;Interr;3;2;0;2;2;0
+106211;Casual;4;2;2;5;3;1
+67165;Delegador;0;0;0;9;3;0
+8970;Interr;1;2;1;2;1;0
+74094;Delegador;0;0;0;2;2;0
+98492;Deleg. reasig.;0;0;0;2;1;0
+31868;Casual;1;1;0;5;4;0
+65378;Interr;1;1;0;2;0;0
+26130;Interr;1;2;0;0;1;0
+32435;Delegador;0;0;0;5;2;2
+104565;Interr;3;2;0;8;0;1
+76027;Casual;1;0;1;6;1;1
+88938;Deleg. reasig.;0;0;0;1;2;0
+65628;Delegador;0;0;0;6;0;0
+62231;Interr;4;2;0;4;1;1
+94312;Casual;1;1;2;2;2;1
+9480;Delegador;0;0;0;4;0;0
+86902;Deleg. reasig.;0;0;0;5;4;1
+51539;Casual;2;1;1;8;1;2
+35937;Casual;3;0;0;3;0;1
+66485;Interr;1;1;0;1;1;0
+13579;Delegador;0;0;0;2;2;0
+45819;Deleg. reasig.;0;0;0;3;1;1
+56084;Casual;1;3;0;7;4;1
+5964;Deleg. reasig.;0;0;0;1;4;0
+87503;Casual;1;0;1;2;0;0
+86563;Deleg. reasig.;0;0;0;3;3;2
+110116;Casual;2;1;1;5;2;2
+33669;Deleg. reasig.;0;0;0;10;2;0
+15757;Delegador;0;0;0;3;1;0
+28799;Interr;2;1;1;3;1;0
+40126;Casual;3;0;0;5;1;1
+111864;Delegador;0;0;0;2;2;2
+47069;Casual;2;1;1;3;2;0
+58007;Delegador;0;0;0;3;1;0
+44408;Casual;1;1;0;2;3;1
+89451;Deleg. reasig.;0;0;0;6;1;1
+12989;Delegador;0;0;0;1;2;1
+83396;Casual;1;1;1;1;2;1
+18480;Deleg. reasig.;0;0;0;1;1;1
+27809;Deleg. reasig.;0;0;0;5;1;0
+32125;Delegador;0;0;0;7;6;2
+38660;Delegador;0;0;0;1;4;0
+5746;Deleg. reasig.;0;0;0;2;2;0
+57443;Casual;2;1;0;5;1;1
+42116;Casual;1;1;0;3;1;0
+65466;Deleg. reasig.;0;0;0;3;1;1
+103707;Interr;1;1;1;0;1;0
+46822;Interr;4;3;1;1;3;0
+33815;Deleg. reasig.;0;0;0;12;3;0
+17725;Interr;1;1;0;3;1;0
+51735;Interr;3;1;0;5;2;0
+14552;Interr;1;0;1;0;1;0
+13026;Delegador;0;0;0;6;2;3
+32841;Casual;3;0;0;6;1;0
+64886;Interr;1;1;0;6;3;1
+83801;Casual;2;2;0;7;1;2
+13479;Interr;2;2;2;2;2;0
+32883;Delegador;0;0;0;4;3;0
+38066;Delegador;0;0;0;4;0;0
+24527;Interr;0;2;0;3;0;0
+50280;Delegador;0;0;0;5;2;0
+77186;Casual;1;1;1;7;2;1
+8024;Casual;1;2;0;4;4;0
+77785;Deleg. reasig.;0;0;0;3;2;0
+21326;Casual;1;1;0;4;2;0
+42286;Delegador;0;0;0;2;2;1
+46879;Interr;6;1;1;5;0;0
+22198;Deleg. reasig.;0;0;0;3;4;0
+36682;Deleg. reasig.;0;0;0;7;1;0
+28133;Interr;3;2;1;6;1;1
+21513;Interr;1;2;1;2;3;1
+69351;Deleg. reasig.;0;0;0;2;1;1
+1923;Delegador;0;0;0;2;3;0
+30295;Participativo;3;2;0;0;0;0
+115539;Deleg. reasig.;0;0;0;3;2;0
+24222;Deleg. reasig.;0;0;0;5;2;1
+80625;Casual;1;2;0;4;2;3
+84782;Casual;1;1;0;10;3;2
+108167;Casual;2;0;0;9;1;0
+53178;Interr;3;2;0;0;1;0
+92682;Delegador;0;0;0;2;1;1
+17117;Casual;1;0;1;0;2;1
+99286;Deleg. reasig.;0;0;0;5;3;1
+46323;Delegador;0;0;0;2;1;1
+52279;Interr;4;1;2;4;0;0
+65129;Deleg. reasig.;0;0;0;2;2;1
+13724;Interr;1;2;0;2;3;1
+9545;Delegador;0;0;0;3;2;0
+88232;Participativo;4;1;1;1;0;0
+14654;Casual;1;1;0;4;1;0
+42319;Delegador;0;0;0;2;1;1
+3799;Delegador;0;0;0;2;2;0
+27568;Deleg. reasig.;0;0;0;3;2;0
+28057;Delegador;0;0;0;3;1;0
+48398;Casual;1;0;1;3;1;0
+36618;Deleg. reasig.;0;0;0;3;1;1
+50040;Casual;1;2;0;4;1;1
+3350;Casual;1;1;0;1;1;1
+57610;Casual;1;1;0;3;2;0
+8190;Delegador;0;0;0;2;5;0
+31342;Delegador;0;0;0;6;2;1
+21187;Delegador;0;0;0;7;3;0
+60674;Deleg. reasig.;0;0;0;3;0;1
+70184;Interr;3;0;0;3;3;1
+6575;Deleg. reasig.;0;0;0;2;1;2
+21550;Deleg. reasig.;0;0;0;3;3;1
+87281;Casual;1;0;2;4;4;0
+3650;Delegador;0;0;0;4;4;0
+74997;Interr;1;1;0;1;1;0
+58480;Casual;1;1;0;9;4;1
+89887;Deleg. reasig.;0;0;0;2;2;0
+3971;Delegador;0;0;0;1;3;1
+63913;Deleg. reasig.;0;0;0;4;2;1
+26416;Delegador;0;0;0;1;2;1
+12956;Casual;1;1;0;2;2;1
+96478;Deleg. reasig.;0;0;0;1;2;0
+27456;Interr;3;1;0;7;4;1
+67766;Delegador;0;0;0;3;1;0
+7770;Casual;1;1;0;2;6;0
+70734;Interr;1;1;2;1;0;0
+77477;Interr;2;1;1;3;1;0
+86642;Casual;1;0;1;5;1;0
+26682;Delegador;0;0;0;2;3;1
+25329;Deleg. reasig.;0;0;0;2;1;0
+52733;Delegador;0;0;0;1;3;0
+11598;Deleg. reasig.;0;0;0;2;3;0
+7123;Deleg. reasig.;0;0;0;4;2;0
+28349;Delegador;0;0;0;2;2;1
+728;Deleg. reasig.;0;0;0;3;6;0
+64380;Deleg. reasig.;0;0;0;7;3;0
+51397;Interr;1;1;0;2;1;0
+34955;Casual;1;2;0;9;4;1
+65569;Interr;1;1;0;1;1;1
+25455;Deleg. reasig.;0;0;0;6;2;0
+67031;Delegador;0;0;0;1;3;0
+6368;Deleg. reasig.;0;0;0;4;2;0
+30102;Deleg. reasig.;0;0;0;7;0;0
+63363;Deleg. reasig.;0;0;0;5;3;1
+92396;Casual;1;1;0;3;2;1
+34127;Casual;1;1;0;5;0;1
+33029;Delegador;0;0;0;3;1;0
+44071;Casual;1;1;1;5;0;1
+57382;Deleg. reasig.;0;0;0;6;4;1
+57711;Delegador;0;0;0;6;2;1
+33631;Casual;2;0;0;3;4;1
+42455;Delegador;0;0;0;3;0;1

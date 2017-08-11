@@ -3,10 +3,16 @@ import Collaboration as Col
 # set params:
 # files of: clusters, log, explicit derivation and hba1c measurements
 # ?center, ?age, ?start and finish dates etc...
-cluster_assignment = 'Log/Cluster/transition_log_V4.csv'
-#complete_log = 'Log/3_log_since_T90_1.csv'
+
+cluster_assignment = 'Log/Cluster/hemoglobina2.csv'
+#cluster_assignment = 'Log/Cluster/transition_log_V4.csv'
+
+#complete_log = 'Log/testlog.csv'
 complete_log = 'Log/3_log_since_T90_1.csv'
+
+#referrals = 'Log/testreferrals.csv'
 referrals = 'Log/referrals.csv'
+
 dm_measurements = 'Log/hba1c_log.csv'
 
 #####################################################################################################################
@@ -21,7 +27,7 @@ dm_measurements = 'Log/hba1c_log.csv'
 #                                                                                                                   #
 #####################################################################################################################
 
-time_window_id = 60
+time_window_id = 120
 relations_threshold_id = 0.05
 referrals_threshold = 0.1
 node_frequency_filter = 0
@@ -48,13 +54,13 @@ edge_frequency_filter = 0
 
 
 
-time_window_ed = 90
+time_window_ed = 120
 relations_threshold_ed = 0
 professional_labeled_threshold = 0.05
 node_freq_filter_ed = 0
 relative_freq_filter_ed = 0  # pre process %
 absolute_freq_filter_ed = 0.001  # pre process absolute frequency
-start = [1, 2012]
+start = [1, 2001]
 finish = [11, 2016]
 
 #####################################################################################################################
@@ -86,8 +92,12 @@ mode = 0
 #cluster = '[7-9]'
 #Col.read_files(cluster_assignment, ['[7-9]', '>9', 'empeora', 'estable', 'mejora', 'Medio_inestable', 'Muy_inestable'],
 #               complete_log, referrals, start, finish, cv_freq)
-cluster_list = ['Delegador', 'Deleg. reasig.', 'Subcon. simple', 'Subcon. multiple', 'Subcon. coord.', "Grupo2", "Grupo Int2"]
-cluster = 'Derivacion'
+
+#cluster_list = ['Delegador', 'Deleg. reasig.', 'Subcon. simple', 'Subcon. multiple', 'Subcon. coord.', "Grupo2", "Grupo Int2"]
+#cluster = 'Derivacion'
+
+cluster_list = ['Mejora', 'Compensado', 'Medianamente Descompensado', 'Altamente Descompensado']
+
 Col.read_files(cluster_assignment, cluster_list,
                complete_log, referrals, start, finish, cv_freq)
 
@@ -148,6 +158,8 @@ Col.read_files(cluster_assignment, cluster_list,
 #                                                                                                                   #
 #####################################################################################################################
 for c in cluster_list:
+#	if c != "Subcon. simple":
+#		continue
 	ed_nodes_A, ed_edges_A, detailed_relation_A, effective_referrals_A, total_referrals_A, \
 	annual_average_referrals_A = Col.show_explicit_derivation(c, time_window_ed, relations_threshold_ed, professional_labeled_threshold,node_freq_filter_ed,
 	                                                            absolute_freq_filter_ed, relative_freq_filter_ed, less_info, start, finish)

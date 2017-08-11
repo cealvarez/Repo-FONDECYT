@@ -716,7 +716,7 @@ def show_explicit_derivation(cluster, time, threshold, professional_labeled_thre
             elif cube_limit_date + timedelta(days = time) <= referral_deadline:
                 cube_limit_date = cube_limit_date + timedelta(days = time)
             elif cube_limit_date > referral_deadline:
-                print(patient_case, 'continuamos', cube_limit_date)
+                #print(patient_case, 'continuamos', cube_limit_date)
                 continue 
             else:
                 print('malo jiji')
@@ -881,7 +881,10 @@ def show_explicit_derivation(cluster, time, threshold, professional_labeled_thre
                                 if events[1][i].act == 'CONTROL CV NUTRICIONISTA' and estate1 == 'NUT_FAIL':
                                     nut_nut_fail[events[1][i].patient] += 1
                                 break
+
                         if not found:
+                            if events[1][-1].time.date() <= cube_limit_date:
+                                continue
                             if derivation[1] == 'MEDICO' or derivation[1] == 'GRUPAL MEDICO':
                                 estate1 = 'MED_FAIL'
                                 estate2 = 'MEDICO'

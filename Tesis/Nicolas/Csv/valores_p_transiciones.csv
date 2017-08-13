@@ -1,0 +1,41 @@
+Transiciones;Estado Transicion;valor_p
+Casual v/s Interr;Compensado;0.157557648498
+Casual v/s Delegador;Compensado;0.0445760060199
+Casual v/s Participativo;Compensado;0.379412199721
+Casual v/s Deleg. reasig.;Compensado;0.383965717535
+Interr v/s Delegador;Compensado;0.286341623339
+Interr v/s Participativo;Compensado;0.377193635526
+Interr v/s Deleg. reasig.;Compensado;0.0828747168692
+Delegador v/s Participativo;Compensado;0.247812324078
+Delegador v/s Deleg. reasig.;Compensado;0.0138232649171
+Participativo v/s Deleg. reasig.;Compensado;0.310903329355
+Casual v/s Interr;Mejora;0.20064078622
+Casual v/s Delegador;Mejora;0.322721114249
+Casual v/s Participativo;Mejora;0.352426270858
+Casual v/s Deleg. reasig.;Mejora;0.0713200201292
+Interr v/s Delegador;Mejora;0.328205367438
+Interr v/s Participativo;Mejora;0.445663455702
+Interr v/s Deleg. reasig.;Mejora;0.32333895572
+Delegador v/s Participativo;Mejora;0.448735585511
+Delegador v/s Deleg. reasig.;Mejora;0.151430553124
+Participativo v/s Deleg. reasig.;Mejora;0.332683463103
+Casual v/s Interr;Medianamente Descompensado;0.210201278536
+Casual v/s Delegador;Medianamente Descompensado;0.0406381853756
+Casual v/s Participativo;Medianamente Descompensado;0.0413233638887
+Casual v/s Deleg. reasig.;Medianamente Descompensado;0.0539880105211
+Interr v/s Delegador;Medianamente Descompensado;0.205622824804
+Interr v/s Participativo;Medianamente Descompensado;0.124549499938
+Interr v/s Deleg. reasig.;Medianamente Descompensado;0.256908757341
+Delegador v/s Participativo;Medianamente Descompensado;0.245348384641
+Delegador v/s Deleg. reasig.;Medianamente Descompensado;0.408807861933
+Participativo v/s Deleg. reasig.;Medianamente Descompensado;0.199676907606
+Casual v/s Interr;Altamente Descompensado;0.225074037563
+Casual v/s Delegador;Altamente Descompensado;0.322579894706
+Casual v/s Participativo;Altamente Descompensado;0.22236446199
+Casual v/s Deleg. reasig.;Altamente Descompensado;0.220996147601
+Interr v/s Delegador;Altamente Descompensado;0.36175952242
+Interr v/s Participativo;Altamente Descompensado;0.114463521904
+Interr v/s Deleg. reasig.;Altamente Descompensado;0.057982425926
+Delegador v/s Participativo;Altamente Descompensado;0.145228631446
+Delegador v/s Deleg. reasig.;Altamente Descompensado;0.0916749635243
+Participativo v/s Deleg. reasig.;Altamente Descompensado;0.355348447262
